@@ -61,7 +61,7 @@ pip install -r requirements.txt
 # Jupyter
 cd notebook
 jupyter notebook
-screen -m -d python -m notebook --ip 0.0.0.0 --no-browser
+screen -m -d python -m notebook --ip 0.0.0.0 --port=8080 --NotebookApp.token=qwertyui --no-browser
 ```
 
 ### Downsize Repo
