@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Triple Screen System</title>
+    <style>
+      body, table, tr, td, iframe {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        background: rgb(35, 37, 49);
+      }
+    </style>
+  </head>
+  <body>
+    <table style="width: 100%">
+      <tr>
+        <td style="width: 38%">
+          <iframe src="https://dchart.vndirect.com.vn/?symbol=VN30&timeframe=W&theme=dark" style="width: 100%; height: 50vh"></iframe>
+        </td>
+        <td rowspan="2">
+          <iframe src="https://dchart.vndirect.com.vn/?symbol=VN30&timeframe=D&theme=dark" style="width: 100%; height: 99vh"></iframe>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 38%">
+          <iframe src="https://dchart.vndirect.com.vn/?symbol=VN30&timeframe=60&theme=dark" style="width: 100%; height: 49vh"></iframe>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
