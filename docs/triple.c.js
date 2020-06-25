@@ -7,6 +7,7 @@ window.onload = function() {
     $(".context-menu > td:contains('Merge Up')").click()
     
     $('div[title="Fullscreen mode"]').click()
+    $('.tv-exit-fullscreen-button').hide()
   }
   
   function toogleBtm() {
