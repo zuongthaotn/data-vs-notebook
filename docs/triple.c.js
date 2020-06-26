@@ -8,6 +8,16 @@ window.onload = function() {
     
     $('div[title="Fullscreen mode"]').click()
     $('.tv-exit-fullscreen-button').hide()
+  } else {
+    $('#header-toolbar-compare').click()
+    setTimeout(function() {
+      $(".tv-tabs__tab:contains('Add Symbol')").click()
+      $('input[placeholder="Symbol"]').val('VNINDEX').keypress()
+      setTimeout(function() {
+        $('tr[data-item-ticker="VNINDEX"]').click()
+        $('.tv-tabbed-dialog__close').click()
+      }, 600)
+    }, 300)
   }
   
   function toogleBtm() {
