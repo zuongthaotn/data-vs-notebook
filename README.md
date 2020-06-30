@@ -16,6 +16,8 @@ npm run download -- --exchange=$EXCHANGE --type=Indicators,IndicatorsQuarter
 npm run download -- --update=1 --exchange=$EXCHANGE --type=Indicators,IndicatorsQuarter
 
 npm run download -- --exchange=VNX --type=Price
+npm run download -- --exchange=VN30F --type=Prices
+npm run download -- --exchange=VN30F --type=Price --symbols=gold,E1VFVN30
 ```
 
 ## Run Filter
