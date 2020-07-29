@@ -4,16 +4,18 @@
 ```bash
 # VNX
 EXCHANGE=VNX
-npm run download -- --exchange=$EXCHANGE --type=BalanceSheet,ICashFlow,Indicators --year=2015
-npm run download -- --exchange=$EXCHANGE --type=BalanceSheet,ICashFlow,Indicators --year=2020
+npm run download -- --exchange=$EXCHANGE --type=BalanceSheet,IncomeStatement,ICashFlow,Indicators --year=2015
+npm run download -- --exchange=$EXCHANGE --type=BalanceSheet,IncomeStatement,ICashFlow,Indicators --year=2020
 for YEAR in {2015..2020}
 do
-npm run download -- --exchange=$EXCHANGE --type=IndicatorsQuarter --year=$YEAR
+npm run download -- --exchange=$EXCHANGE --type=BalanceSheetQuarter,IncomeStatementQuarter,ICashFlowQuarter,IndicatorsQuarter --year=$YEAR
 sleep 10
 done
 
-npm run download -- --update=1 --exchange=$EXCHANGE --type=BalanceSheet,ICashFlow,Indicators,IndicatorsQuarter
+npm run download -- --exchange=$EXCHANGE --type=BalanceSheet,IncomeStatement,ICashFlow,Indicators --update=1
+npm run download -- --exchange=$EXCHANGE --type=BalanceSheetQuarter,IncomeStatementQuarter,ICashFlowQuarter,IndicatorsQuarter --update=1
 
+# Prices
 npm run download -- --exchange=VNX --type=Price
 npm run download -- --exchange=VN30F --type=Prices
 npm run download -- --exchange=VN30F --type=Price --symbols=gold,E1VFVN30
