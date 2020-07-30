@@ -1,0 +1,51 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2008-01-02,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2008-01-02,2020-05-27,,,,,,
+2008-04-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2008-04-22,2008-07-15,2008-07-15,Cổ tức năm 2007 (1.400 đồng/cp),1400,14,,2007
+2008-04-18,investorRight,MEETING,Họp cổ đông,2008-04-22,,,ĐHCĐ thường niên 2008,,,,
+2008-08-22,investorRight,POLL,Lấy ý kiến cổ đông,2008-09-03,2008-09-15,2008-09-15,Lấy ý kiến cổ đông bằng văn bản về kế hoạch phát hành thêm cổ phần tăng vốn điều lệ,,,,
+2009-03-24,investorRight,MEETING,Họp cổ đông,2009-03-27,2009-04-25,2009-04-25,ĐHCĐ thường niên 2009,,,,
+2009-04-29,investorRight,ISSUE,Phát hành thêm,2009-05-06,2009-06-18,,"Tỷ lệ 1:1,26 với giá 10.000 đ/cp",,100,,
+2009-04-29,investorRight,ISSUE,Phát hành thêm,2009-05-06,,,Chào bán cho CBNV,,,,
+2009-04-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2009-05-06,2009-06-05,2009-06-05,Cổ tức năm 2008 (1.200 đ/cp),1200,12,,2008
+2009-09-04,investorRight,POLL,Lấy ý kiến cổ đông,2009-09-10,2009-09-25,2009-09-25,Lấy ý kiến cổ đông bằng văn bản v/v niêm yết bổ sung CP và sửa đổi,,,,
+2010-03-05,investorRight,MEETING,Họp cổ đông,2010-03-11,,,ĐHCĐ thường niên 2010,,,,
+2010-04-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-04-26,2010-05-20,2010-05-20,Cổ tức năm 2009 (1.200 đ/cp),1200,12,,2009
+2010-09-15,investorRight,POLL,Lấy ý kiến cổ đông,2010-09-21,2010-10-01,2010-10-01,Lấy ý kiến cổ đông bằng văn bản về việc,,,,
+2010-12-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-12-17,2011-01-25,2011-01-25,Tạm ứng cổ tức năm 2010 (1.350 đ/cp),1350,13.5,,2010
+2010-12-21,investorRight,ISSUE,Phát hành thêm,2010-12-17,2010-01-20,,Bán ưu đãi tỷ lệ 100:95 với giá 10.000 đ/cp,,95,,
+2011-03-17,investorRight,MEETING,Họp cổ đông,2011-03-24,2011-04-16,2011-04-16,ĐHCĐ thường niên 2011,,,,
+2011-05-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-05-16,2011-06-08,2011-06-08,Cổ tức đợt 2/2010 (450 đ/cp),450,4.5,2,2010
+2011-12-29,investorRight,ISSUE,Phát hành thêm,2012-01-06,2012-02-24,,Tỷ lệ 100:15 với giá 10.000 đ/cp,,15,,
+2011-12-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-01-06,2012-02-10,2012-02-10,Tạm ứng cổ tức năm 2011 (1.500 đ/cp),1500,15,,2011
+2012-03-19,investorRight,MEETING,Họp cổ đông,2012-03-20,2012-04-25,2012-04-25,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2012-05-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2012-05-28,,,Số lượng 7.000.000 cp,,,,
+2012-05-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-05-30,2012-06-20,2012-06-20,Trả cổ tức đợt 2/2011 (648 đ/cp),648,6.48,2,2011
+2012-08-13,investorRight,POLL,Lấy ý kiến cổ đông,2012-08-16,2012-09-12,2012-09-12,v/v bầu bổ sung thành viên HĐQT thay thế,,,,
+2012-12-15,investorRight,POLL,Lấy ý kiến cổ đông,2012-11-16,2012-12-15,2012-12-15,v/v điều chỉnh kế hoạch sản xuất - kinh doanh năm 2012,,,,
+2013-03-01,investorRight,MEETING,Họp cổ đông,2013-03-05,2013-05-30,2013-05-30,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-05-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-05-24,2013-06-28,2013-06-28,Trả cổ tức năm 2012 (500 đ/cp),500,5,,2012
+2014-03-18,investorRight,MEETING,Họp cổ đông,2014-03-26,2014-04-25,2014-04-25,Đại hội cổ đông thường niên năm 2014,,,,
+2015-03-09,investorRight,MEETING,Họp cổ đông,2015-03-13,2015-04-16,2015-04-16,ĐHĐCĐ thường niên năm 2015,,,,
+2015-06-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-06-26,2015-07-30,2015-07-30,Trả cổ tức năm 2014 (800đ/cp),800,8,,2014
+2016-03-08,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
+2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 2015 tỷ lệ 10%,,10,,2015
+2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 2016 tỷ lệ 8%,,8,,2016
+2016-06-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-27,2016-07-20,2016-07-20,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
+2016-08-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-09-05,2016-09-30,2016-09-30,Trả cổ tức năm 2013 (500 đ/cp),500,5,,2013
+2017-04-10,investorRight,MEETING,Họp cổ đông,2017-03-21,2017-04-26,2017-04-26,ĐHĐCĐ thường niên năm 2017,,,,
+2018-04-19,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-04-20,,,Chậm CBTT BCTC năm 2018 đã kiểm toán quá 5 ngày làm việc,,,,
+2018-05-11,stockAlert,alert,Cảnh báo,2018-05-14,2018-12-23,,Chậm CBTT BCTC kiểm toán 2017 quá 15 ngày làm việc,,,,
+2018-06-12,investorRight,MEETING,Họp cổ đông,2018-05-09,2018-06-29,2018-06-29,ĐHĐCĐ thường niên năm 2018,,,,
+2018-06-27,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-05-09,2018-07-13,2018-07-13,Thay đổi ngày trả cổ tức năm 2016 từ ngày 29/6/2018 sang ngày 13/7/2018,800,8,,2016
+2018-07-12,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-05-09,2018-10-15,2018-10-15,Thay đổi ngày trả cổ tức năm 2016 từ 13/7/2018 sang 15/10/2018,800,8,,2016
+2018-10-12,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-05-09,2018-12-28,2018-12-28,Thay đổi ngày chi trả cổ tức từ ngày 15/10/2018 sang ngày 28/12/2018,800,8,,2016
+2018-12-21,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2018-12-24,2020-05-27,,CK bị hủy niêm yết và chưa khắc phục được nguyên nhân này,,,,
+2018-12-25,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-05-09,2019-05-31,2019-05-31,Thay đổi ngày trả cố tức năm 2016 từ 28/12/2018 sang 31/5/2019,800,8,,2016
+2019-04-11,investorRight,MEETING,Họp cổ đông,2019-05-09,2019-06-21,2019-06-21,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-27,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-05-09,2019-12-31,2019-12-31,Thay đổi ngày trả cổ tức năm 2016 từ ngày 31/5/2019 sang ngày 31/12/2019,800,8,,2016
+2019-10-03,stockAlert,suspend,Tạm ngừng giao dịch,2019-10-07,2020-07-03,,Vi phạm các quy định về CBTT,,,,
+2019-12-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-09,2020-12-25,2020-12-25,Trả cổ tức năm 2016 (800 đ/cp),800,8,,2016
+2019-12-27,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-05-09,2020-12-25,2020-12-25,Thay đổi ngày chi trả cổ tức năm 2016 từ ngày 31/12/2019 sang ngày 25/12/2020,800,8,,2016
+2020-05-04,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-05-28,,,Hủy niêm yết trên HNX,,,,
+2020-05-28,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-06-04,,,Giá tham chiếu: 2.600 đ/cp,,,,
+2020-06-04,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-06-04,,,CK bị hủy niêm yết và chưa khắc phục được nguyên nhân này,,,,

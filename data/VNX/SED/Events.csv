@@ -1,0 +1,31 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2009-08-17,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2009-08-19,,,,,,,
+2010-02-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-02-09,2010-03-08,2010-03-08,Cổ tức đợt 2/2009 (800 đ/cp),800,8,2,2009
+2010-02-02,investorRight,MEETING,Họp cổ đông,2010-02-09,,,ĐHCĐ thường niên 2010,,,,
+2010-06-17,investorRight,POLL,Lấy ý kiến cổ đông,2010-06-18,2010-06-25,2010-06-25,Lấy ý kiến cổ đông về phương án phát hành cp tăng VĐL,,,,
+2010-10-15,investorRight,MEETING,Họp cổ đông,2010-10-20,,,ĐHCĐ bất thường 2010,,,,
+2011-03-10,investorRight,MEETING,Họp cổ đông,2011-03-17,,,ĐHCĐ thường niên 2011,,,,
+2011-05-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-06-13,2011-06-30,2011-06-30,Trả cổ tức đợt 2/2010 (800 đ/cp),800,8,2,2010
+2011-12-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-12-22,2012-01-09,2012-01-09,Trả cổ tức năm 2011 (1.600 đ/cp),1600,16,,2011
+2012-03-07,investorRight,MEETING,Họp cổ đông,2012-03-15,,,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2012-09-05,investorRight,POLL,Lấy ý kiến cổ đông,2012-09-10,2012-10-01,2012-10-01,v/v Thông qua việc bầu bổ sung thành viên HĐQT thay thế,,,,
+2012-12-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-12-06,2012-12-26,2012-12-26,Tạm ứng cổ tức năm 2012 (1.800 đ/cp),1800,18,,2012
+2013-03-18,investorRight,MEETING,Họp cổ đông,2013-03-19,2013-04-18,2013-04-18,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-11-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-11-20,2013-12-23,2013-12-23,Tạm ứng cổ tức bằng tiền 2013 (1.800đ/cp),1800,18,,2013
+2014-03-06,investorRight,MEETING,Họp cổ đông,2014-03-12,2014-04-15,2014-04-15,Đại hội đồng cổ đông thường niên năm 2014,,,,
+2014-12-09,investorRight,MEETING,Họp cổ đông,2014-12-17,,,ĐHCĐ thường niên 2014,,,,
+2014-12-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-12-17,2015-01-16,2015-01-16,Trả cổ tức năm 2014 (1.500đ/cp),1500,15,,2014
+2015-07-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-07-31,,,Số lượng 2.000.000 cp,,,,
+2015-12-16,investorRight,MEETING,Họp cổ đông,2015-12-29,,,ĐHCĐ thường niên năm 2016,,,,
+2015-12-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-12-29,2016-01-25,2016-01-25,Trả cổ tức năm 2015 (1600 đ/cp),1600,16,,2015
+2016-03-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2016 tỷ lệ 16%,,16,,2016
+2016-12-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-12-29,2017-01-18,2017-01-18,Cổ tức năm 2016 (1.600đ/cp),1600,16,,2016
+2017-05-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 18%",,18,,2017
+2017-05-29,investorRight,MEETING,Họp cổ đông,2017-03-28,2017-05-26,2017-05-26,ĐHĐCĐ thường niên năm 2017,,,,
+2017-07-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-07-11,2018-01-05,,TCNY nhận được kết luận v/v công ty vi phạm pháp luật thuế,,,,
+2017-12-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-01-04,2018-02-05,2018-02-05,Trả cổ tức năm 2017 (1800 đ/cp),1800,18,,2017
+2018-03-13,investorRight,MEETING,Họp cổ đông,2018-03-22,2018-04-16,2018-04-16,ĐHĐCĐ thường niên năm 2018,,,,
+2018-12-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-12-28,2019-01-14,2019-01-14,Trả cổ tức năm 2018 (1600 đ/cp),1600,16,,2018
+2019-03-20,investorRight,MEETING,Họp cổ đông,2019-04-05,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2019-12-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-30,2020-01-15,2020-01-15,Trả cổ tức năm 2019 (1600 đ/cp),1600,16,,2019
+2020-04-24,investorRight,MEETING,Họp cổ đông,2020-05-12,2020-05-28,2020-05-28,ĐHĐCĐ thường niên năm 2020,,,,

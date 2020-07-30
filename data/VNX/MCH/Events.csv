@@ -1,0 +1,23 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-12-29,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-01-05,,,Giá tham chiếu 90.000 đ/cp,,,,
+2017-03-09,investorRight,MEETING,Họp cổ đông,2017-03-24,2017-04-20,2017-04-20,ĐHCĐ thường niên năm 2017,,,,
+2017-05-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-30,2017-06-14,2017-06-14,Trả cổ tức năm 2016 (4500 đ/cp),4500,45,,2016
+2017-05-25,investorRight,MEETING,Họp cổ đông,2017-06-06,2017-06-23,2017-06-23,ĐHCĐ bất thường năm 2017,,,,
+2017-06-19,schedEvent,schedIssue,Dự kiến phát hành,2017-07-12,2017-07-12,,Dự kiến phát hành 4.972.600 cp theo chương trình ESOP,,,,
+2018-03-07,investorRight,MEETING,Họp cổ đông,2018-03-27,,,Họp ĐHĐCĐ thường niên năm 2018,,,,
+2018-03-07,investorRight,MEETING,Họp cổ đông,2018-03-27,,,ĐHĐCĐ thường niên năm 2018.,,,,
+2018-06-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-15,2018-06-28,2018-06-28,Trả cổ tức năm 2017 và Tạm ứng cổ tức năm 2018 (4500đ/cp),4500,45,,2017
+2018-07-04,schedEvent,schedIssue,Dự kiến phát hành,2018-07-13,2018-07-13,,"Phát hành 5.240.827 cp ESOP, tỷ lệ 100:0.998",,1,,
+2018-08-02,schedEvent,schedIssue,Dự kiến phát hành,2018-08-27,2018-08-27,,"Dự kiến phát hành 79.556.040 cp để tăng vốn cp từ nguồn vốn CSH, tỷ lệ 100:15",,15,,
+2018-08-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-08-10,,,Số lượng 5240827 cp,,,,
+2018-08-14,investorRight,KINDDIV,Cổ phiếu thưởng,2018-08-27,2018-08-28,,Tỷ lệ 100:15,,15,,
+2018-10-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-10-08,,,Số lượng 79555519 cp,,,,
+2019-03-04,investorRight,MEETING,Họp cổ đông,2019-03-22,2019-04-24,2019-04-24,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2018 (4500 đ/cp),4500,45,,2018
+2019-05-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-07,2019-06-26,2019-06-26,Trả cổ tức năm 2018 (4500 đ/cp),4500,45,,2018
+2019-06-11,schedEvent,schedIssue,Dự kiến phát hành,2019-07-12,2019-07-12,,Dự kiến phát hành 3049325 cp theo chương trình lựa chọn cho người lao động trong Công ty,,0.5,,
+2019-07-31,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 91946767 CP cho CĐHH để tăng nguồn vốn cổ phần,,15,,
+2019-08-02,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-08-09,,,Số lượng 3049325 cp,,,,
+2019-08-13,investorRight,KINDDIV,Cổ phiếu thưởng,2019-08-23,2019-08-26,,Tỷ lệ 100:15,,15,,
+2019-09-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-03,,,Số lượng 91946156 cp,,,,
+2020-05-22,investorRight,MEETING,Họp cổ đông,2020-06-08,,,ĐHĐCĐ thường niên năm 2020,,,,

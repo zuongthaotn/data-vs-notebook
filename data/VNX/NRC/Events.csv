@@ -1,0 +1,22 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-04-04,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-04-05,2019-01-07,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-03-21,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2018-04-05,,,Giá tham chiếu 21.000 đ/cp,,,,
+2018-04-13,investorRight,MEETING,Họp cổ đông,2018-05-03,2018-05-26,2018-05-26,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-29,schedEvent,schedIssue,Dự kiến phát hành,2019-03-01,2019-03-01,,"Dự kiến phát hành 9.000.000 cổ phiếu cho CĐHH, tỷ lệ 100:75",,75,,
+2018-05-29,schedEvent,schedIssue,Dự kiến phát hành,2019-03-01,2019-03-01,,"Dự kiến phát hành 600.000 cổ phiếu EPSOP, tỷ lệ 100:5",,5,,
+2018-05-29,schedEvent,schedIssue,Dự kiến phát hành,2019-03-22,2019-03-22,,Dự kiến phát hành 2.400.000 cp cho cổ đông chiến lược,,,,
+2018-11-01,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-11-15,2018-11-26,2018-11-26,Trả cổ tức năm 2017 (2000 đ/cp),2000,20,,2017
+2019-02-20,schedEvent,schedIssue,Dự kiến phát hành,2019-03-22,2019-03-22,,Phát hành 9.000.000 CP ra công chúng,,,,
+2019-02-21,investorRight,ISSUE,Phát hành thêm,2019-03-01,2019-04-10,,"Phát hành 9,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:75",,75,,
+2019-02-25,investorRight,MEETING,Họp cổ đông,2019-03-15,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-06,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2018 bằng tiền (500 đ/cp),500,5,,2018
+2019-05-06,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2018 bằng cổ phiếu, tỷ lệ 100:15",,15,,2018
+2019-06-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-06-12,,,Số lượng 3000000 cp,,,,
+2019-11-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-28,2019-12-10,2019-12-10,Trả cổ tức năm 2018 (500 đ/cp),500,5,,2018
+2019-11-22,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 3,600,000cp cho CĐHH",,,,
+2019-11-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-11-29,,,Số lượng 9000000 cp,,,,
+2019-11-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:15",,15,,2018
+2019-12-18,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-12-26,2019-12-27,,"Trả cổ tức năm 2018, Tỷ lệ 100:15",,15,,2018
+2020-02-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-02-14,,,Số lượng 3599932 cp,,,,
+2020-02-26,investorRight,MEETING,Họp cổ đông,2020-03-13,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-30,2020-12-22,2020-12-22,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019

@@ -1,0 +1,23 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-07-22,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2016-07-28,,,Giá tham chiếu 12.800 đ/cp,,,,
+2017-02-10,investorRight,MEETING,Họp cổ đông,2017-02-22,2017-03-10,2017-03-10,ĐHCĐ thường niên năm 2017,,,,
+2017-07-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-07-14,2017-08-01,2017-08-01,Trả cổ tức năm 2016 (500đ/cp),500,5,,2016
+2017-07-06,investorRight,POLL,Lấy ý kiến cổ đông,2017-07-14,,,V/v: Thay đổi hình thức chi trả cổ tức bằng cổ phiếu với tỷ lệ 10% sang chi trả cổ tức bằng tiền tỷ lệ 10%,,,,
+2017-07-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-07-26,2017-08-15,2017-08-15,Trả cổ tức năm 2016 (500 đ/cp),500,5,,2016
+2017-07-14,investorRight,POLL,Lấy ý kiến cổ đông,2017-07-26,,,v/v dự kiến thay đổi hình thức chi trả cổ tức năm 2016,,,,
+2017-08-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 (1000đ/cp),1000,10,,2016
+2018-01-10,schedEvent,schedDiv,Dự kiến cổ tức,2018-02-02,2018-02-02,,"Dự kiến phát hành cổ phiếu trả cổ tức năm 2016, tỷ lệ 100:10",,10,,2016
+2018-01-23,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-02-02,2018-02-05,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
+2018-04-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-04-13,,,Số lượng 999998 cp,,,,
+2018-05-31,investorRight,MEETING,Họp cổ đông,2018-06-08,2018-06-23,2018-06-23,ĐHĐCĐ thường niên năm 2018,,,,
+2018-06-25,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến chào bán 12.099.998 cp cho CĐHH, tỷ lệ 1:1",,100,,
+2018-06-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức 2017 bằng cổ phiếu, tỷ lệ 100:10",,10,,2017
+2018-09-20,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-09-25,2018-09-26,,"Trả cổ tức năm 2017, Tỷ lệ 100:10",,10,,2017
+2018-11-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-11-12,,,Số lượng 1099994 cp,,,,
+2019-04-18,investorRight,MEETING,Họp cổ đông,2019-04-12,2019-04-27,2019-04-27,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, Tỷ lệ 100:10",,10,,2018
+2019-07-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-07-26,2019-07-05,,Thời gian niêm yết dưới 6 tháng tính từ ngày GD đầu tiên,,,,
+2019-07-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-09-04,2019-07-05,,LNST 6 tháng đầu năm 2018 là số âm,,,,
+2019-08-19,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-08-21,2020-07-07,,LNST 6 tháng đầu năm 2019 âm,,,,
+2019-11-01,investorRight,MEETING,Họp cổ đông,2019-11-08,,,ĐHĐCĐ bất thường năm 2019,,,,
+2020-06-20,investorRight,MEETING,Họp cổ đông,2020-06-12,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,

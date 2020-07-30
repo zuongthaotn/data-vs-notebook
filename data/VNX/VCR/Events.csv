@@ -1,0 +1,36 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2010-04-29,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2010-05-10,2020-05-04,,Giá tham chiếu 40.000đ/cp,,,,
+2010-11-10,investorRight,ISSUE,Phát hành thêm,2010-11-08,2010-12-17,,"Bán ưu đãi tỷ lệ thực hiên 10:2.05, giá 10000đ/cp",,20.5,,
+2011-03-10,investorRight,MEETING,Họp cổ đông,2011-03-15,2011-04-14,2011-04-14,ĐHCĐ thường niên 2011,,,,
+2011-11-07,investorRight,POLL,Lấy ý kiến cổ đông,2011-11-16,,,v/v Điều chỉnh kế hoạch sản xuất kinh doanh năm 2011,,,,
+2012-02-27,investorRight,MEETING,Họp cổ đông,2012-03-05,2012-03-28,2012-03-28,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2012-07-25,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2012-03-30,2013-03-29,2013-03-29,Cổ tức 1.500đ. Thay đổi ngày TT 29.06.2012 sang 29.03.2013,,,,
+2012-11-29,investorRight,POLL,Lấy ý kiến cổ đông,2012-12-05,,,v/v Thay đổi trụ sở làm việc,,,,
+2013-02-07,investorRight,MEETING,Họp cổ đông,2013-02-18,,,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-03-21,stockAlert,alert,Cảnh báo,2013-03-22,2014-03-17,,CP thuộc diện cảnh báo,,,,
+2013-03-29,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2012-03-30,2014-03-31,2014-03-31,Cổ tức 1.500đ. Thay đổi ngày TT 29.03.2013 sang 31.03.2014,,,,
+2014-01-27,investorRight,MEETING,Họp cổ đông,2014-02-18,2014-03-20,2014-03-20,Đại hội đồng cổ đông thường niên 2014,,,,
+2014-03-13,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2014-03-17,2015-03-17,,CP bị đưa vào diện kiểm soát,,,,
+2014-03-31,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2012-03-30,2016-03-31,2016-03-31,Cổ tức 1.500đ. Thay đổi ngày TT 31.03.2015 sang 31.03.2016,,,,
+2015-02-04,investorRight,MEETING,Họp cổ đông,2015-02-24,,,ĐHCĐ thường niên năm 2015,,,,
+2015-03-17,stockAlert,alert,Cảnh báo,2015-03-17,2020-05-26,,Lợi nhuận sau thuế chưa phân phối âm,,,,
+2015-03-17,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-03-17,,,Chứng khoán thuộc diện bị cảnh báo,,,,
+2016-01-26,investorRight,MEETING,Họp cổ đông,2016-02-23,2016-04-28,2016-04-28,ĐHCĐ thường niêm năm 2016,,,,
+2017-03-22,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2012-03-30,2018-03-30,2018-03-30,Thay đổi ngày trả cổ tức từ 31/03/2017 sang 30/03/2018,1500,15,,2010
+2017-05-29,investorRight,MEETING,Họp cổ đông,2017-06-02,,,ĐHĐCĐ thường niên năm 2017,,,,
+2017-10-27,stockAlert,noticed,Nhắc nhở,2017-10-25,,,Vi phạm CBTT 3 lần từ ngày 01.01.2017,,,,
+2018-02-27,investorRight,MEETING,Họp cổ đông,2018-03-15,,,ĐHCĐ thường niên năm 2018,,,,
+2018-03-15,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2012-03-30,2019-03-29,2019-03-29,Thay đổi ngày trả cổ tức năm 2010 từ ngày 30/03/2018 sang ngày 29/03/2019,1500,15,,2010
+2019-01-16,investorRight,MEETING,Họp cổ đông,2019-02-12,2019-03-01,2019-03-01,ĐHĐCĐ thường niên năm 2019,,,,
+2019-02-22,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-02-21,2019-03-06,,"LNST năm 2017, 2018 âm",,,,
+2019-03-19,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2012-03-30,2020-03-30,2020-03-30,Thay đổi ngày thanh toán cổ tức năm 2010 từ ngày 29/03/2019 sang ngày 30/03/2020,1500,15,,2010
+2019-09-30,investorRight,MEETING,Họp cổ đông,2019-10-17,2019-11-04,2019-11-04,Họp ĐHCĐ bất thường năm 2019,,,,
+2019-11-04,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 144,000,000cp cho CĐCL",,,,
+2019-12-10,investorRight,POLL,Lấy ý kiến cổ đông,2019-12-30,,,"v/v thay đổi đơn vị kiểm toán BCTC năm 2019 cho công ty  
+",,,,
+2020-02-20,investorRight,MEETING,Họp cổ đông,2020-03-12,2020-03-30,2020-03-30,ĐHĐCĐ thường niên năm 2020,,,,
+2020-03-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-03-30,2021-03-30,2021-03-30,Trả cổ tức năm 2010 (1500 đ/cp),1500,15,,2010
+2020-03-25,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2012-03-30,2021-03-30,2021-03-30,Thay đổi ngày thanh toán cổ tức năm 2010 từ ngày 30/03/2020 sang ngày 30/03/2021,1500,15,,2010
+2020-04-06,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-05-05,,,Hủy niêm yết trên HNX,,,,
+2020-04-10,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-05-07,,,Dự kiến chuyển sàn từ HNX sang UPCOM,,,,
+2020-05-05,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-05-12,,,Giá tham chiếu: 8.200 đ/cp,,,,

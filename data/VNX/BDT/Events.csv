@@ -1,0 +1,14 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-08-30,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-09-06,,,Giá tham chiếu 10.600 đ/cp,,,,
+2018-01-12,investorRight,POLL,Lấy ý kiến cổ đông,2018-01-30,,,V/v: Thông qua việc đầu tư dự án Nhà ở xã hội BMC Đồng Tháp,,,,
+2018-04-04,investorRight,MEETING,Họp cổ đông,2018-04-18,2018-05-11,2018-05-11,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-25,2018-06-12,2018-06-12,Trả cổ tức năm 2017 (1200 đ/cp),1200,12,,2017
+2018-10-25,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 614.000.000 cp cho CĐHH,,,,
+2018-11-21,investorRight,MEETING,Họp cổ đông,2018-11-12,2018-12-03,2018-12-03,ĐHĐCĐ bất thường năm 2018,,,,
+2018-12-04,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 61.374.000 cp tăng vốn điều lệ, tỷ lệ 100:159, giá 12.000 đ/cp",,159,,
+2019-02-22,investorRight,MEETING,Họp cổ đông,2019-03-14,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-02-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-03-14,2019-03-27,2019-03-27,Trả cổ tức năm 2018 (950 đ/cp),950,9.5,,2018
+2019-06-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-20,2019-07-09,2019-07-09,Trả cổ tức đợt 2/2018 (606 đ/cp),606,6.06,2,2018
+2019-08-01,investorRight,MEETING,Họp cổ đông,2019-08-22,,,ĐHĐCĐ bất thường năm 2019,,,,
+2020-05-26,investorRight,MEETING,Họp cổ đông,2020-06-10,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-27,2020-08-17,2020-08-17,Trả cổ tức năm 2019 (1481 đ/cp),1481,14.81,,2019

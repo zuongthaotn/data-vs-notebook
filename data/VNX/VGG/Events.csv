@@ -1,0 +1,17 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-03-04,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2016-03-10,,,Giá tham chiếu 40.000đ/cp,,,,
+2016-03-17,investorRight,MEETING,Họp cổ đông,2016-03-24,,,ĐHCĐ thường niên năm 2016,,,,
+2016-03-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-03-24,2016-05-20,2016-05-20,Tạm ứng cổ tức năm 2015 (3.000đ/cp),3000,30,,2015
+2016-04-22,schedEvent,schedIssue,Dự kiến phát hành,2016-04-22,2016-04-22,,Chuyển đổi trái phiếu thành cổ phiếu,,,,
+2016-04-23,schedEvent,schedIssue,Dự kiến phát hành,2017-02-22,2017-02-22,,"Dự kiến phát hành ESOP trong năm 2016, hạn chế chuyển nhượng 5 năm",,5,,
+2016-04-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-05-06,,,Số lượng 14000000CP,,,,
+2016-06-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức 25% cho năm 2016,,25,,2016
+2017-03-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-03-23,2017-05-24,2017-05-24,Tạm ứng cổ tức năm 2016 (3000đ/cp),3000,30,,2016
+2017-03-14,investorRight,MEETING,Họp cổ đông,2017-03-23,,,ĐHCĐ thường niên năm 2017,,,,
+2017-05-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-05-26,,,Số lượng 2.100.000CP,,,,
+2018-03-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-04-03,2018-05-31,2018-05-31,Tạm ứng cổ tức năm 2017 (3500 đ/cp),3500,35,,2017
+2018-03-22,investorRight,MEETING,Họp cổ đông,2018-04-03,2018-04-28,2018-04-28,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2018, tỷ lệ 25%",,25,,2018
+2019-03-12,investorRight,MEETING,Họp cổ đông,2019-04-03,2019-04-27,2019-04-27,ĐHĐCĐ thường niên năm 2019,,,,
+2019-03-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-04-03,2019-05-31,2019-05-31,Trả cổ tức năm 2018 (3500 đ/cp),3500,35,,2018
+2020-03-11,investorRight,MEETING,Họp cổ đông,2020-04-01,2020-04-25,2020-04-25,ĐHĐCĐ thường niên năm 2020,,,,

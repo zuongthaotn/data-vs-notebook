@@ -1,0 +1,37 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2007-11-13,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2007-11-13,,,Ngày giao dịch đầu tiên trên sàn HOSE,,,,
+2008-03-10,investorRight,MEETING,Họp cổ đông,2008-03-18,2008-04-14,2008-04-14,ĐHCĐ thường niên 2008,,,,
+2008-04-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2008-05-05,2008-05-26,2008-05-26,Cổ tức năm 2007 (700 đồng/cp),700,7,,2007
+2008-10-30,investorRight,POLL,Lấy ý kiến cổ đông,2008-11-07,2008-11-20,2008-11-20,Lấy ý kiến cổ đông bằng văn bản về việc thay đổi phương án phát hành thêm cổ phần năm 2008 đã được Đại hội cổ đông thông qua.,,,,
+2009-03-02,investorRight,MEETING,Họp cổ đông,2009-03-12,2009-04-18,2009-04-18,ĐHCĐ thường niên 2009,,,,
+2009-04-27,investorRight,ISSUE,Phát hành thêm,2009-05-05,2009-06-17,,Tỷ lệ 100:26 với giá 13.000 đ/cp,,26,,
+2009-08-19,investorRight,MEETING,Họp cổ đông,2009-08-28,,,Đại hội cổ đông bất thường 2009,,,,
+2009-11-19,investorRight,MEETING,Họp cổ đông,2009-11-26,2009-12-29,2009-12-29,ĐHCĐ bất thường 2009,,,,
+2010-04-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-04-13,2010-05-14,2010-05-14,Cổ tức năm 2009 (1.000 đ/cp),1000,10,,2009
+2010-05-21,investorRight,MEETING,Họp cổ đông,2010-05-28,2010-06-26,2010-06-26,ĐHCĐ thường niên 2010,,,,
+2011-03-17,investorRight,MEETING,Họp cổ đông,2011-03-25,2011-04-29,2011-04-29,ĐHCĐ thường niên năm 2011,,,,
+2011-09-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-09-27,2011-10-18,2011-10-18,Cổ tức năm 2010 (500 đ/cp),500,5,,2010
+2012-03-23,investorRight,MEETING,Họp cổ đông,2012-04-03,2012-04-23,2012-04-23,ĐHCĐ thường niên 2012,,,,
+2012-04-09,stockAlert,alert,Cảnh báo,2012-04-09,2013-04-01,,CP thuộc diện cảnh báo,,,,
+2013-02-22,investorRight,MEETING,Họp cổ đông,2013-03-04,2013-03-29,2013-03-29,Đại hội cổ đông thường niên năm 2012,,,,
+2013-07-17,investorRight,MEETING,Họp cổ đông,2013-07-24,2013-08-24,2013-08-24,Đại hội đồng cổ đông bất thường năm 2013,,,,
+2014-01-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-12-22,,,Số lượng 120.000.000 cp,,,,
+2014-03-11,investorRight,MEETING,Họp cổ đông,2014-03-19,2014-04-15,2014-04-15,Đại hội cổ đông thường niên năm 2014,,,,
+2014-08-14,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu cho Vicem,,,,
+2015-03-18,investorRight,MEETING,Họp cổ đông,2015-03-27,2015-04-23,2015-04-23,ĐHĐCĐ thường niên năm 2015,,,,
+2015-04-03,stockAlert,noticed,Nhắc nhở,2015-04-03,,,Vv chậm CBTT kết quả điều chỉnh hồi tố BCTC kiểm toán 2015,,,,
+2016-03-02,investorRight,MEETING,Họp cổ đông,2016-03-22,2016-04-22,2016-04-22,ĐHĐCĐ thường niên 2016,,,,
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Phát hành cổ phiếu để trả cổ tức năm 2015 tỷ lệ 20%,,20,,2015
+2016-10-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-26,2016-10-27,,"Trả cổ tức năm 2015, Tỷ lệ 100:20",,20,,2015
+2016-12-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-12-13,,,Số lượng 63589911 cp,,,,
+2017-03-14,investorRight,MEETING,Họp cổ đông,2017-03-27,2017-04-27,2017-04-27,Đại hội đồng cổ đông thường niên năm 2017,,,,
+2017-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 (1000đ/cp),1000,10,,2016
+2017-09-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-09-15,2017-10-23,2017-10-23,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
+2018-03-05,investorRight,MEETING,Họp cổ đông,2018-03-26,2018-04-26,2018-04-26,"Họp ĐHĐCĐ thường niên năm 2018 
+",,,,
+2018-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2017 (1500đ/cp),1500,15,,2017
+2018-09-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-10-10,2018-10-25,2018-10-25,Trả cổ tức năm 2017 (1500 đ/cp),1500,15,,2017
+2019-04-19,investorRight,MEETING,Họp cổ đông,2019-05-09,2019-05-24,2019-05-24,ĐHĐCĐ thường niên năm 2019,,,,
+2019-10-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-11,2019-11-22,2019-11-22,Trả cổ tức năm 2018 (1200 đ/cp),1200,12,,2018
+2019-11-05,stockAlert,noticed,Nhắc nhở,2019-11-04,,,Chậm CB giải trình KQKD và NQ HĐQT về cổ tức năm 2018,,,,
+2020-05-08,investorRight,MEETING,Họp cổ đông,2020-05-27,2020-06-12,2020-06-12,ĐHĐCĐ thường niên năm 2020,,,,

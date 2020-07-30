@@ -1,0 +1,18 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-01-06,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2017-01-12,,,Giá tham chiếu 10.500 đ/cp,,,,
+2017-01-11,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-01-09,2018-12-26,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-06-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2017 tỷ lệ 8%,800,8,,2017
+2017-06-09,investorRight,MEETING,Họp cổ đông,2017-04-28,2017-06-02,2017-06-02,ĐHĐCĐ thường niên năm 2017,,,,
+2017-06-21,stockAlert,noticed,Nhắc nhở,2017-06-20,,,Vi phạm CBTT 3 lần kể từ ngày 01.01.2017,,,,
+2017-07-21,stockAlert,alert,Cảnh báo,2017-07-24,,,Vi phạm quy định về CBTT từ 4 lần trở lên kể từ 01.01.2017,,,,
+2018-01-09,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-01-18,2018-01-19,,"Trả cổ tức năm 2015, Tỷ lệ 100:5",,5,,2015
+2018-01-11,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-01-18,2018-01-19,,"Trả cổ tức năm 2016, tỷ lệ 100:5",,5,,2016
+2018-03-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 557729 cp,,,,
+2018-05-30,investorRight,MEETING,Họp cổ đông,2018-06-15,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-12-06,investorRight,MEETING,Họp cổ đông,2018-12-25,,,ĐHĐCĐ bất thường năm 2018,,,,
+2018-12-07,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2018-12-11,2020-01-09,,Chưa công bố BCTC soát xét bán niên 2018,,,,
+2018-12-25,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-12-26,,,LNST 6 tháng đầu 2019 trên BCTC bán niên 2019 âm,,,,
+2019-03-15,investorRight,MEETING,Họp cổ đông,2019-04-03,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2019-06-06,investorRight,MEETING,Họp cổ đông,2019-06-28,,,ĐHĐCĐ bất thường năm 2019,,,,
+2020-05-05,investorRight,MEETING,Họp cổ đông,2020-05-26,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-14,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:10",,10,,2019

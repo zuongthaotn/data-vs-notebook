@@ -1,0 +1,33 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2009-11-05,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2009-11-05,,,,,,,
+2010-03-04,investorRight,MEETING,Họp cổ đông,2010-03-10,2010-04-15,2010-04-15,ĐHCĐ thường niên 2010,,,,
+2010-03-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-03-10,2010-04-27,2010-04-27,Cổ tức năm 2009 (1.600 đ/cp),1600,16,,2009
+2010-09-01,investorRight,POLL,Lấy ý kiến cổ đông,2010-09-08,,,Lấy ý kiến cổ đông v/v thông qua phương án phát hành tăng VĐL lên 120 tỷ đồng,,,,
+2010-12-23,investorRight,ISSUE,Phát hành thêm,2010-12-31,2011-02-24,,"Tỷ lệ 100:50, giá 10000đ/cp",,50,,
+2010-12-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-12-31,2011-04-25,2011-04-25,Trả cổ tức năm 2010 (1600 đ/cp),1600,16,,2010
+2011-02-03,investorRight,MEETING,Họp cổ đông,2011-03-11,2011-04-20,2011-04-20,ĐHCĐ thường niên 2011,,,,
+2011-11-03,investorRight,ISSUE,Phát hành thêm,2011-11-11,2011-12-21,,"Tỷ lệ thực hiện 100:66.66, giá 10000đ/cp",,66.66,,
+2011-11-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-11-11,2012-03-30,2012-03-30,Tạm ứng cổ tức đợt 1/2011 (1.100 đ/cp),1100,11,1,2011
+2012-02-15,investorRight,MEETING,Họp cổ đông,2012-02-22,2012-03-27,2012-03-27,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2012-04-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-04-19,2012-05-07,2012-05-07,Trả cổ tức năm 2011 (150 đ/cp),150,1.5,,2011
+2012-09-24,investorRight,POLL,Lấy ý kiến cổ đông,2012-09-28,,,v/v Điều chỉnh kế hoạch sản xuất kinh doanh năm 2012,,,,
+2013-01-16,investorRight,MEETING,Họp cổ đông,2013-01-24,2013-03-20,2013-03-20,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-05-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-05-13,2013-05-30,2013-05-30,Trả cổ tức năm 2012 (1.400 đ/cp),1400,14,,2012
+2014-01-08,investorRight,MEETING,Họp cổ đông,2014-01-13,2014-03-20,2014-03-20,Đại hội đồng cổ đông thường niên năm 2014,,,,
+2014-05-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-06-11,2014-06-30,2014-06-30,Trả cổ tức năm 2013 (1000 đ/cp),1000,10,,2013
+2014-07-02,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2014-06-11,2014-07-31,2014-07-31,Thay đổi thời gian thanh toán cổ tức năm 2013 từ ngày 30/6/2014 sang ngày 30/7/2014,1000,,,
+2015-02-05,investorRight,MEETING,Họp cổ đông,2015-02-11,2015-04-08,2015-04-08,ĐHĐCĐ thường niên năm 2015,,,,
+2015-06-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-06-24,2015-07-15,2015-07-15,Trả cổ tức năm 2014 (1.000đ/cp),1000,10,,2014
+2015-12-31,investorRight,MEETING,Họp cổ đông,2016-01-19,2016-03-29,2016-03-29,ĐHĐCĐ thường niên năm 2016,,,,
+2016-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2015 bằng tiền mặt,1000,10,,2015
+2016-06-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-16,2016-06-30,2016-06-30,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
+2017-01-19,investorRight,MEETING,Họp cổ đông,2017-02-16,2017-03-28,2017-03-28,Đại hội cổ đông thường niên năm 2017,,,,
+2017-06-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-06-16,2017-06-30,2017-06-30,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
+2018-01-29,investorRight,MEETING,Họp cổ đông,2018-02-22,2018-03-28,2018-03-28,ĐHCĐ thường niên năm 2018,,,,
+2018-05-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-12,2018-06-29,2018-06-29,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017
+2019-03-01,investorRight,MEETING,Họp cổ đông,2019-03-15,2019-03-23,2019-03-23,Họp ĐHĐCĐ thường niên năm 2019.,,,,
+2019-08-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-08-15,2019-09-16,2019-09-16,Trả cổ tức năm 2018 (900 đ/cp),900,9,,2018
+2019-08-09,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-08-15,2019-09-16,2019-09-16,Thay đôi ngày chi trả cổ tức từ ngày 15/9/2019 sang ngày 16/9/2019,900,9,,2018
+2019-08-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-08-26,,,BCTC 2019 không nhận được ý kiến chấp nhận toàn phần,,,,
+2020-02-19,investorRight,MEETING,Họp cổ đông,2020-03-10,2020-03-26,2020-03-26,ĐHĐCĐ thường niên năm 2020,,,,
+2020-04-08,stockAlert,alert,Cảnh báo,2020-04-10,,,LNST 2019 trên BCTC 2019 âm,,,,

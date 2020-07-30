@@ -1,0 +1,28 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-10-09,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2015-10-15,2016-12-15,,Giá tham chiếu 10.600đ/cp,,,,
+2016-03-07,investorRight,MEETING,Họp cổ đông,2016-03-14,2016-04-20,2016-04-20,ĐHCĐ thường niên năm 2016,,,,
+2016-07-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-08-09,2016-09-15,2016-09-15,Trả cổ tức năm 2015 (400 đ/cp),400,4,,2015
+2016-08-02,schedEvent,schedIssue,Dự kiến phát hành,2016-10-04,2016-10-04,,Phát hành ESOP số lượng 12.500.000cp,,,,
+2016-08-02,schedEvent,schedIssue,Dự kiến phát hành,2016-10-04,2016-10-04,,Dự kiến phát hành 30000000 CP ra công chúng,,,,
+2016-10-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-10-20,,,Số lượng 42.500.000 cp,,,,
+2016-12-12,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2016-12-16,2019-05-20,,Hủy niêm yết trên UPCOM,,,,
+2016-12-13,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2016-12-22,2019-05-17,,Giá tham chiếu 15.600 đ/cp,,,,
+2016-12-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-12-20,2017-07-05,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-01-18,investorRight,POLL,Lấy ý kiến cổ đông,2017-02-09,,,V/v thông qua một số nội dung thuộc thẩm quyền của ĐHCĐ,,,,
+2017-03-14,schedEvent,schedIssue,Dự kiến phát hành,2017-06-16,2017-06-16,,Dự kiến phát hành 120.000.000 cổ phiếu để tăng vốn điều lệ,,,,
+2017-04-25,investorRight,MEETING,Họp cổ đông,2017-03-30,2017-04-25,2017-04-25,ĐHĐCĐ thường niên năm 2017,,,,
+2017-07-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-07-24,,,Số lượng 120000000 cp,,,,
+2017-08-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-30,2017-09-25,2017-09-25,Trả cổ tức năm 2016 (950 đ/cp),950,9.5,,2016
+2017-12-07,schedEvent,schedIssue,Dự kiến phát hành,2018-01-11,2018-01-11,,"Dự kiến phát hành 21.350.000 cp ESOP năm 2017, giá 13.500 đ/cp",,,,
+2018-03-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-04-06,,,Số lượng 21350000 cp,,,,
+2018-06-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-06-27,,,Số lượng 241985262 cp,,,,
+2018-07-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-08-09,2018-09-07,2018-09-07,Trả cổ tức năm 2017 ( 950 đ/cp),950,9.5,,2017
+2019-05-13,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2019-05-20,,,Hủy niêm yết trên HNX,,,,
+2019-05-16,schedEvent,schedExchange,Dự kiến chuyển sàn,2019-05-22,,,Dự kiến chuyển sàn từ HNX sang HOSE,,,,
+2019-05-22,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2019-05-29,,,Giá tham chiếu 19.900 đ/cp,,,,
+2019-05-31,investorRight,MEETING,Họp cổ đông,2019-06-06,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-07-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-07-17,2019-08-19,2019-08-19,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
+2019-12-09,investorRight,POLL,Lấy ý kiến cổ đông,2019-12-31,,,V/v Thông qua phương án tăng vốn tại công ty cổ phần Viglacera Vân Hải,,,,
+2020-02-07,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 13,500,000cp cho CĐHH",,,,
+2020-05-07,investorRight,MEETING,Họp cổ đông,2020-05-29,2020-06-19,2020-06-19,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-07,2020-07-20,2020-07-20,Trả cổ tức năm 2019 (1100 đ/cp),1100,11,,2019

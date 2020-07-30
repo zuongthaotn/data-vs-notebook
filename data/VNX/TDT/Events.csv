@@ -1,0 +1,17 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-04-12,investorRight,MEETING,Họp cổ đông,2018-04-19,2018-05-20,2018-05-20,ĐHĐCĐ thường niên năm 2018,,,,
+2018-07-09,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2018-07-18,,,Giá tham chiếu 15.000 đ/cp,,,,
+2018-07-17,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-07-18,2019-03-27,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-08-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-08-15,2018-09-12,2018-09-12,Trả cổ tức năm 2017 (1200 đ/cp),1200,12,,2017
+2018-09-14,investorRight,POLL,Lấy ý kiến cổ đông,2018-09-24,,,V/v bổ sung và sửa đổi ngành nghề kinh doanh,,,,
+2018-09-18,investorRight,POLL,Lấy ý kiến cổ đông,2018-10-03,,,"V/v sửa đổi, bổ sung ngành nghề kinh doanh",,,,
+2019-02-27,investorRight,MEETING,Họp cổ đông,2019-03-18,2019-04-07,2019-04-07,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-10,schedEvent,schedIssue,Dự kiến phát hành,2019-11-13,2019-11-13,,Dự kiến phát hành 2404512 cổ phiếu cho cổ đông hiện hữu để tăng vốn điều lệ,,30,,
+2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,2019-11-13,2019-11-13,,"Dự kiến cổ tức bằng cổ phiếu năm 2018, tỷ lệ 15%",,15,,2018
+2019-11-05,investorRight,ISSUE,Phát hành thêm,2019-11-13,2019-12-16,,"Phát hành 2,404,512 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:30",,30,,
+2019-11-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-11-13,2019-11-14,,"Trả cổ tức năm 2018, Tỷ lệ 100:15",,15,,2018
+2019-11-13,schedEvent,schedIssue,Dự kiến phát hành,2019-11-13,2019-11-13,,Phát hành cho cổ đông khác,,,,
+2020-03-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-03-10,,,Số lượng 3606757 cp,,,,
+2020-03-24,investorRight,MEETING,Họp cổ đông,2020-04-08,2020-04-26,2020-04-26,ĐHĐCĐ thường niên năm 2020,,,,
+2020-04-27,schedEvent,schedIssue,Dự kiến phát hành,2020-07-02,2020-07-02,,"Dự kiến phát hành 2,324,359cp cho CĐHH",,20,,
+2020-06-09,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-06-25,2020-06-26,,"Trả cổ tức năm 2019, Tỷ lệ 100:20",,20,,2019

@@ -1,0 +1,28 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-12-16,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2015-12-22,2018-02-27,,Giá tham chiếu 11.500đ/cp,,,,
+2015-12-18,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-12-22,2016-06-30,,Vì thời gian niêm yết dưới 6 tháng,,,,
+2016-02-29,investorRight,MEETING,Họp cổ đông,2016-03-09,2016-04-12,2016-04-12,Đại hội đồng cổ đông thường niên năm 2016,,,,
+2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,dự kiến chi trả cổ tức 30% cho năm 2016,,30,,2016
+2016-07-05,investorRight,POLL,Lấy ý kiến cổ đông,2016-07-14,,,Lấy ý kiến việc bầu bổ sung thanh viên HĐQT,,,,
+2017-02-24,investorRight,MEETING,Họp cổ đông,2017-03-07,2017-04-07,2017-04-07,ĐHCĐ thường niên năm 2017,,,,
+2017-05-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2016 bằng cổ phiếu, tỷ lệ 10:2",,20,,2016
+2017-06-30,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-07-11,2017-07-12,,"Trả cổ tức năm 2016, Tỷ lệ 100:20",,20,,2016
+2017-09-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-09-08,,,Số lượng 2999998 cp,,,,
+2018-02-28,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-03-09,,,Giá tham chiếu 7.950 đ/cp,,,,
+2018-03-01,investorRight,MEETING,Họp cổ đông,2018-03-22,2018-04-23,2018-04-23,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-23,schedEvent,schedDiv,Dự kiến cổ tức,2018-07-20,2018-07-20,,Dự kiến trả cổ tức bằng cổ phiếu năm 2017 tỉ lệ 100:8,,8,,2017
+2018-07-03,investorRight,POLL,Lấy ý kiến cổ đông,2018-07-20,,,V/v phát hành CP và sửa đổi Điều lệ,,,,
+2018-07-03,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-07-20,2018-07-23,,"Trả cổ tức năm 2017, Tỷ lệ 100:8",,8,,2017
+2018-08-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 1439858 cp,,,,
+2018-09-07,schedEvent,schedIssue,Dự kiến phát hành,2019-01-25,2019-01-25,,"Dự kiến phát hành 10.000.000 cp cho CĐHH, tỷ lệ 100:51.4, giá 10.000 đ/cp",,51.4,,
+2019-01-10,investorRight,ISSUE,Phát hành thêm,2019-01-25,2019-03-06,,"Phát hành 10,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:51.4",,51.4,,
+2019-01-10,schedEvent,schedIssue,Dự kiến phát hành,2019-03-11,2019-03-11,,Phát hành 10.000.000 CP ra công chúng,,,,
+2019-03-05,investorRight,MEETING,Họp cổ đông,2019-03-22,2019-04-23,2019-04-23,ĐHĐCĐ thường niên 2019,,,,
+2019-04-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-04-23,,,Số lượng 3742298 cp,,,,
+2019-04-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-03-13,,,Số lượng 6257702 cp,,,,
+2019-06-06,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-06-20,2019-06-21,,"Trả cổ tức năm 2018, Tỷ lệ 100:10",,10,,2018
+2019-07-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-08-09,,,"Số lượng 2,943,786 cp",,,,
+2019-09-13,investorRight,POLL,Lấy ý kiến cổ đông,2019-10-03,,,V/v: Các vấn đề thuộc thẩm quyền của Đại hội đồng cổ đông,,,,
+2020-04-22,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-04-22,,,BCTC hợp nhất 2019 không có ý kiến chấp nhận toàn phần,,,,
+2020-04-27,investorRight,MEETING,Họp cổ đông,2020-03-02,2020-05-18,2020-05-18,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-22,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-11,,,V/v: Thông qua các vấn đề thuộc thẩm quyền của ĐHĐCĐ.,,,,

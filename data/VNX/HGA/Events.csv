@@ -1,0 +1,5 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2020-01-31,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-02-07,,,Giá tham chiếu: 15.200 đ/cp,,,,
+2020-05-07,stockAlert,noticed,Nhắc nhở,2020-05-07,,,Chậm công bố BCTC kiểm toán năm 2019 quá 30 ngày,,,,
+2020-05-18,stockAlert,suspend,Tạm ngừng giao dịch,2020-05-21,2020-05-25,,Chậm công bố BCTC kiểm toán năm 2019,,,,
+2020-05-25,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-05-26,,,CK bị tạm ngừng GD và không khắc phục được nguyên nhân này,,,,

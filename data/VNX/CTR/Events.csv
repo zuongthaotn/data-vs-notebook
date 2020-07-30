@@ -1,0 +1,20 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-09-29,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-07,2016-10-10,,"Trả cổ tức năm 2015, Tỷ lệ 100:12",,12,,2015
+2016-09-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-07,2016-10-26,2016-10-26,Trả cổ tức năm 2015 (800 đ/cp),800,8,,2015
+2017-05-25,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-06-05,2017-06-06,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
+2017-05-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-06-05,2017-06-26,2017-06-26,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
+2017-10-23,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-10-31,,,Giá tham chiếu 26.000 đ/cp,,,,
+2018-05-11,investorRight,MEETING,Họp cổ đông,2018-05-29,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-11-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-11-16,2018-11-19,,"Trả cổ tức năm 2017, Tỷ lệ 100:10",,10,,2017
+2018-11-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-11-16,2018-12-05,2018-12-05,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017
+2018-12-20,investorRight,MEETING,Họp cổ đông,2019-01-04,2019-01-28,2019-01-28,ĐHĐCĐ Bất thường năm 2019,,,,
+2019-01-15,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-01-21,,,Số lượng 4711702 cp,,,,
+2019-03-06,investorRight,MEETING,Họp cổ đông,2019-03-21,2019-04-11,2019-04-11,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2018 (1000 đ/cp),1000,10,,218
+2019-04-25,schedEvent,schedDiv,Dự kiến cổ tức,2019-09-17,2019-09-17,,"Dự kiến trả cổ tức năm 2018, tỷ lệ 100:17.1",,17.1,,2018
+2019-08-27,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-09-06,2019-09-09,,"Trả cổ tức năm 2018, Tỷ lệ 100:17.1",,17.1,,2018
+2019-08-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-09-06,2019-09-27,2019-09-27,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
+2019-10-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-31,,,Số lượng 8862466 cp,,,,
+2020-04-28,investorRight,MEETING,Họp cổ đông,2020-05-15,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-24,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-03,2020-08-04,,"Trả cổ tức năm 2019, Tỷ lệ 100:16",,16,,2019
+2020-07-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-03,2020-08-18,2020-08-18,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019

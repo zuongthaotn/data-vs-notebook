@@ -1,0 +1,14 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-12-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-01-12,2018-01-25,2018-01-25,Tạm ứng cổ tức năm 2017 (3000 đ/cp),3000,30,,2017
+2018-02-23,investorRight,MEETING,Họp cổ đông,2018-03-09,2018-03-27,2018-03-27,ĐHCĐ thường niên năm 2018,,,,
+2018-04-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-04-13,2018-04-26,2018-04-26,Trả cổ tức đợt 2/2017 (2000 đ/cp),2000,20,2,2017
+2018-08-08,schedEvent,schedIssue,Dự kiến phát hành,2018-08-24,2018-08-24,,"Dự kiến phát hành 8.000.000 cp để tăng vốn cổ phần từ NVCSH, tỷ lệ 1:1",,100,,
+2018-08-22,investorRight,KINDDIV,Cổ phiếu thưởng,2018-08-24,2018-08-27,,Tỷ lệ 100:100,,100,,
+2018-08-29,investorRight,MEETING,Họp cổ đông,2018-09-13,2018-10-01,2018-10-01,ĐHĐCĐ bất thường năm 2018,,,,
+2018-09-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-09-26,,,Số lượng 8000000 cp,,,,
+2019-03-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-03-28,2019-04-17,2019-04-17,Trả cổ tức đợt 1/2018 (2500đ/cp),2500,25,1,2018
+2019-03-22,investorRight,MEETING,Họp cổ đông,2019-03-28,2019-04-17,2019-04-17,ĐHĐCĐ thường niên năm 2019,,,,
+2019-08-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-09-11,2019-09-30,2019-09-30,Trả cổ tức đợt 2/2018 (2500 đ/cp),2500,25,2,2018
+2020-01-30,investorRight,MEETING,Họp cổ đông,2020-02-21,2020-03-19,2020-03-19,ĐHĐCĐ thường niên năm 2020,,,,
+2020-03-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:25",,25,,2019
+2020-05-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-05-29,2020-06-10,2020-06-10,Trả cổ tức năm 2020 (2500 đ/cp),2500,25,,2020

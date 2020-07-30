@@ -1,0 +1,38 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2006-12-21,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2006-12-21,2020-01-10,,,,,,
+2007-03-16,investorRight,MEETING,Họp cổ đông,2007-03-23,2007-04-18,2007-04-18,ĐHCĐ thường niên năm 2007,,,,
+2007-04-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2007-05-04,2007-05-30,2007-05-30,Cổ tức năm 2006 (1.000 đ/cp),1000,10,,2006
+2008-03-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2008-03-17,2008-05-06,2008-05-06,Cổ tức năm 2007 (1.200 đ/cp),1200,12,,2007
+2008-03-05,investorRight,MEETING,Họp cổ đông,2008-03-17,2008-04-19,2008-04-19,ĐHCĐ thường niên 2008,,,,
+2009-03-04,investorRight,MEETING,Họp cổ đông,2009-03-16,2009-04-18,2009-04-18,ĐHCĐ thường niên 2009,,,,
+2009-06-18,investorRight,KINDDIV,Cổ phiếu thưởng,2009-06-26,2009-06-30,,Tỷ lệ 100:5.26,,5.26,,
+2010-03-15,investorRight,MEETING,Họp cổ đông,2010-03-25,2010-04-29,2010-04-29,ĐHCĐ thường niên 2010,,,,
+2011-03-08,investorRight,MEETING,Họp cổ đông,2011-03-17,2011-04-15,2011-04-15,ĐHCĐ thường niên năm 2011,,,,
+2012-03-13,investorRight,MEETING,Họp cổ đông,2012-03-21,2012-04-20,2012-04-20,ĐHCĐ thường niên 2012,,,,
+2012-04-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-05-09,2012-05-24,2012-05-24,Cổ tức năm 2011 (1.500 đ/cp),1500,15,,2011
+2013-03-04,investorRight,MEETING,Họp cổ đông,2013-03-14,2013-04-18,2013-04-18,Đại hội cổ đông thường niên năm 2013,,,,
+2013-05-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-05-14,2013-05-30,2013-05-30,Trả cổ tức năm 2012 (2.000 đ/cp),2000,20,,2012
+2014-03-04,investorRight,MEETING,Họp cổ đông,2014-03-14,2014-04-18,2014-04-18,Đại hội đồng cổ đông thường niên 2014,,,,
+2014-04-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-05-12,2014-05-28,2014-05-28,Trả cổ tức năm 2013 (2000đ/cp),2000,20,,2013
+2015-03-04,investorRight,MEETING,Họp cổ đông,2015-03-18,2015-04-17,2015-04-17,ĐHĐCĐ thường niên năm 2015,,,,
+2015-04-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-12,2015-05-26,2015-05-26,Trả cổ tức năm 2014 (2.000đ/cp),2000,20,,2014
+2015-10-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-11-16,2015-12-10,2015-12-10,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
+2016-02-22,investorRight,MEETING,Họp cổ đông,2016-03-15,2016-04-15,2016-04-15,ĐHCĐ thường niên năm 2016,,,,
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2016 tỷ lệ 20%,,20,,2016
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức còn lại năm 2015 tỷ lệ 10%,,10,,2015
+2016-04-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-11,2016-05-30,2016-05-30,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
+2017-02-24,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-04-14,2017-04-14,ĐHĐCĐ thường niên năm 2017,,,,
+2017-04-14,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-23,2017-06-23,,Dự kiến phát hành 7.000.000 cổ phiếu thưởng,,87.5,,
+2017-06-05,investorRight,KINDDIV,Cổ phiếu thưởng,2017-06-23,2017-06-26,,Tỷ lệ 100:87.5,,87.5,,
+2017-07-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-08,,,Số lượng 6998817 cp,,,,
+2017-08-16,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-08-16,2020-01-20,,LNST 6T.2017 âm,,,,
+2018-04-04,stockAlert,alert,Cảnh báo,2018-04-10,2020-05-26,,LNST và LNST chưa phân phối năm 2017 là số âm,,,,
+2018-05-04,investorRight,MEETING,Họp cổ đông,2018-05-23,2018-06-22,2018-06-22,ĐHCĐ thường niên 2018,,,,
+2018-10-10,investorRight,MEETING,Họp cổ đông,2018-10-29,2018-11-22,2018-11-22,ĐHĐCĐ Bất thường năm 2018,,,,
+2019-04-05,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-04-12,2020-01-10,,CK bị hủy bỏ niêm yết và chưa khắc phục được nguyên nhân,,,,
+2019-12-12,stockAlert,delistedHose,Hủy niêm yết trên HOSE,2020-01-13,2020-01-20,,Hủy niêm yết trên HOSE,,,,
+2019-12-18,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-01-15,,,Dự kiến chuyển sàn từ HOSE sang UPCOM,,,,
+2020-01-14,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-01-20,2020-07-14,,Giá tham chiếu: 1.700 đ/cp,,,,
+2020-01-17,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2020-01-20,,,CK bị hủy bỏ niêm yết và chưa khắc phục được nguyên nhân,,,,
+2020-01-17,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2020-01-20,,,Chứng khoán bị hủy bỏ niêm yết,,,,
+2020-06-24,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-07-15,,,Hủy ĐKGD trên UPCOM,,,,

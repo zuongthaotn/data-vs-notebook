@@ -1,0 +1,18 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-08-25,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-09-01,,,Giá tham chiếu 10500 đồng/cổ phiếu,,,,
+2016-08-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức 2018, tỷ lệ 7%",,7,,2018
+2016-08-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức 2017, tỷ lệ 6%",,6,,2017
+2016-11-18,investorRight,MEETING,Họp cổ đông,2016-11-14,2016-11-29,2016-11-29,ĐHĐCĐ bất thường năm 2016,,,,
+2016-11-30,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành 107.500.000 CP cho CĐHH, giá 12.500 đ/cp",,25,,
+2017-03-01,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-09-01,2017-03-02,,Thời gian niêm yết dưới 06 tháng,,,,
+2017-03-29,investorRight,MEETING,Họp cổ đông,2017-04-13,,,ĐHCĐ thường niên năm 2017,,,,
+2017-06-06,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2016 bằng cổ phiếu, tỷ lệ 10:1",,10,,2016
+2017-06-22,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-07-04,2017-07-05,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
+2017-07-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-07,,,Số lượng 42999999 cp,,,,
+2018-03-23,investorRight,MEETING,Họp cổ đông,2018-03-19,2018-04-02,2018-04-02,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-18,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-05-04,2018-05-07,,"Trả cổ tức năm 2017, Tỷ lệ 100:20",,20,,2017
+2018-04-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến phát hành 94.600.000 cp để trả cổ tức, tỷ lệ 100:20 
+",,20,,2017
+2018-05-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-05-24,,,"Số lượng 94,598,122 cp",,,,
+2019-05-13,investorRight,MEETING,Họp cổ đông,2019-05-31,,,Họp ĐHĐCĐ thường niên năm 2019,,,,
+2020-04-24,investorRight,MEETING,Họp cổ đông,2020-03-31,2020-05-05,2020-05-05,ĐHĐCĐ thường niên năm 2020,,,,

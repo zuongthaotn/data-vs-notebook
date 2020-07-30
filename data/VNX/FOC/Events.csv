@@ -1,0 +1,11 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-12-05,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2018-12-10,,,Giá tham chiếu 110.000 đ/cp,,,,
+2019-01-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-01-14,2019-01-25,2019-01-25,Trả cổ tức đợt 1/2018 (5000 đ/cp),5000,50,1,2018
+2019-01-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-01-28,,,Số lượng 702000CP,,,,
+2019-03-11,investorRight,MEETING,Họp cổ đông,2019-03-28,2019-04-25,2019-04-25,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-09,2019-05-24,2019-05-24,Trả cổ tức đợt 2/2018 (8000 đ/cp),8000,80,2,2018
+2019-08-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-08-14,2019-08-28,2019-08-28,Trả cổ tức đợt 1/2019 (10000 đ/cp),10000,100,1,2019
+2020-03-02,investorRight,MEETING,Họp cổ đông,2020-03-20,2020-04-15,2020-04-15,ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-05-29,2020-06-29,2020-06-29,Trả cổ tức đợt 2/2019 (5000 đ/cp),5000,50,2,2019
+2020-05-19,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-05-29,2020-06-01,,"Trả cổ tức đợt 2/2019, Tỷ lệ 100:25",,25,2,2019
+2020-07-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-07-27,,,"Số lượng 3,683,939 cp",,,,

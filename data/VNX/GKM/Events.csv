@@ -1,0 +1,18 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-06-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-07-17,2018-04-04,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-07-10,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2017-07-17,,,Giá tham chiếu 11.000 đ/cp,,,,
+2017-08-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-30,2017-09-28,2017-09-28,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
+2017-08-18,investorRight,POLL,Lấy ý kiến cổ đông,2017-08-30,,,Lấy ý kiến cổ đông bằng văn bản một số nội dung thuộc thẩm quyền của Đại hội đồng cổ đông,,,,
+2017-09-08,investorRight,MEETING,Họp cổ đông,2017-08-30,2017-09-21,2017-09-21,Họp Đại hội đồng cổ đông bất thường năm 2017,,,,
+2017-10-05,schedEvent,schedIssue,Dự kiến phát hành,2018-01-12,2018-01-12,,"Dự kiến phát hành 9.000.000 cổ phiếu cho CĐHH, tỷ lệ 1:2, giá 11.000 đ/cp",,200,,
+2018-01-05,investorRight,ISSUE,Phát hành thêm,2018-01-12,2018-02-26,,"Phát hành 9,000,000 cp cho CĐHH, giá 11000 đ/cp, tỷ lệ 100:200",,200,,
+2018-04-04,investorRight,MEETING,Họp cổ đông,2018-04-13,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-04-12,,,Số lượng 9000000 cp,,,,
+2018-10-01,schedEvent,schedDiv,Dự kiến cổ tức,2018-11-02,2018-11-02,,"Dự kiến trả cổ tức năm 2017, tỷ lệ 100:5",,5,,2017
+2018-10-09,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-11-02,2018-11-05,,"Trả cổ tức năm 2017, Tỷ lệ 100:5",,5,,2017
+2018-12-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-12-12,,,"Số lượng 675,000 cp",,,,
+2019-02-12,investorRight,MEETING,Họp cổ đông,2019-02-22,,,Họp ĐHĐCĐ thường niên năm 2019,,,,
+2019-09-16,investorRight,POLL,Lấy ý kiến cổ đông,2019-09-26,,,V/v thông qua phương án phát hành TP chuyển đổi theo phương thức riêng lẻ,,,,
+2019-11-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-12-17,2019-12-18,,"Trả cổ tức năm 2018, Tỷ lệ 100:5",,5,,2018
+2020-03-02,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-03-09,,,Số lượng 708709 cp,,,,
+2020-03-03,investorRight,MEETING,Họp cổ đông,2020-03-20,,,ĐHĐCĐ thường niên năm 2020,,,,

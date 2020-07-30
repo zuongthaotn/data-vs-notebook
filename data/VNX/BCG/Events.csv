@@ -1,0 +1,25 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-07-09,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2015-07-16,,,Giá tham chiếu 15.000đ/cp,,,,
+2015-07-17,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-07-17,2016-01-28,,Thời gian niêm yết dưới 6 tháng,,,,
+2016-01-22,investorRight,POLL,Lấy ý kiến cổ đông,2016-02-02,,,"V/v phát hành cổ phiếu và chào bán cổ phiếu cho cổ đông hiện hữu để tăng vốn điều lệ, điều chỉnh kế hoạch chia cổ tức",,,,
+2016-03-02,schedEvent,schedIssue,Dự kiến phát hành,2016-06-10,2016-06-10,,Dự kiến phát hành cho cổ đông hiện hữu tỷ lệ 1:1.5,,150,,
+2016-03-03,investorRight,MEETING,Họp cổ đông,2016-03-14,2016-04-05,2016-04-05,ĐHCĐ thường niên năm 2016,,,,
+2016-06-02,investorRight,ISSUE,Phát hành thêm,2016-06-10,2016-07-04,,"Phát hành 61,050,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:150",,150,,
+2016-06-03,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-10,2016-06-13,,"Trả cổ tức năm 2015, Tỷ lệ 100:8",,8,,2015
+2016-07-19,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-21,2016-10-21,,Dự kiến trả cổ tức bằng cổ phiếu tỷ lệ 8:1,,12.5,,2015
+2016-07-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-08-03,,,Số lượng 61551006CP,,,,
+2016-07-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-07-14,,,Số lượng 2754754CP,,,,
+2016-10-11,schedEvent,schedIssue,Dự kiến phát hành,2016-10-21,2016-10-21,,Dự kiến phát hành ESOP năm 2016 từ ngày 29/07/2016 đến 08/08/2016,,,,
+2016-11-23,investorRight,POLL,Lấy ý kiến cổ đông,2016-12-01,2016-12-21,2016-12-21,V/v đầu tư không vượt quá 35% tổng tài sản vào các dự án BĐS tiềm năng và thông qua phát hành riêng lẻ 20 triệu cổ phần BCG,,,,
+2017-01-10,stockAlert,noticed,Nhắc nhở,2017-01-06,,,Chậm nộp hồ sơ niêm yết bổ sung,,,,
+2017-01-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 3000000 cp,,,,
+2017-05-11,investorRight,MEETING,Họp cổ đông,2017-04-26,2017-05-25,2017-05-25,ĐHĐCĐ thường niên năm 2017,,,,
+2017-07-25,investorRight,POLL,Lấy ý kiến cổ đông,2017-08-04,,,V/v Thông qua việc điều chỉnh thời điểm sử dụng vốn,,,,
+2018-03-02,investorRight,POLL,Lấy ý kiến cổ đông,2018-03-19,,,V/v phát hành trái phiếu chuyển đổi và các vấn đề khác thuộc thẩm quyền quyết định của ÐHCÐ.,,,,
+2018-11-07,investorRight,POLL,Lấy ý kiến cổ đông,2018-11-27,,,V/v Lấy ý kiến cổ đông bằng văn bản,,,,
+2019-03-25,investorRight,MEETING,Họp cổ đông,2019-04-12,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-12,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-04-12,2019-11-07,,LNST cty mẹ trên BCTC hợp nhất kiểm toán 2018 âm,,,,
+2019-04-12,stockAlert,alert,Cảnh báo,2019-04-22,2019-09-04,,LNST cty mẹ 2018 và LNST chưa pp tại 31/12/2018 âm,,,,
+2020-04-08,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-23,,,"V/v: Phát hành cổ phiếu riêng lẻ cho mục đích đầu tư, chọn đơn vị kiểm toán độc lập kiểm toán báo cáo tài chính năm 2020 và các nội dung khác",,,,
+2020-05-22,investorRight,MEETING,Họp cổ đông,2020-03-20,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-23,2020-09-10,2020-09-10,Trả cổ tức năm 2019 (800 đ/cp),800,8,,2019

@@ -1,0 +1,33 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2009-06-11,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2009-06-11,,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
+2010-03-24,investorRight,MEETING,Họp cổ đông,2010-03-25,,,ĐHCĐ thường niên 2010,,,,
+2011-01-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2011-01-14,2011-01-18,,"Trả cổ tức năm 2009, Tỷ lệ 100:11",,11,,2009
+2011-01-05,investorRight,POLL,Lấy ý kiến cổ đông,2011-01-14,,,Lấy ý kiến cổ đông bằng văn bản,,,,
+2011-03-23,investorRight,MEETING,Họp cổ đông,2011-03-29,,,ĐHCĐ thường niên 2011,,,,
+2011-11-07,investorRight,ISSUE,Phát hành thêm,2011-12-08,2012-01-17,,"Tỷ lệ thực hiện 2:1, giá 10000đ/cp",,50,,
+2011-11-09,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2011-12-08,2011-12-12,,Tỷ lệ 100:10,,10,,2011
+2011-11-09,investorRight,KINDDIV,Cổ phiếu thưởng,2011-12-08,2011-12-12,,Thưởng tỷ lệ 100:30,,30,,
+2012-04-03,investorRight,MEETING,Họp cổ đông,2012-04-06,2012-04-28,2012-04-28,ĐHCĐ thường niên 2012,,,,
+2012-04-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2012-05-04,,,Số lượng 1.946.135 cp,,,,
+2013-03-13,investorRight,MEETING,Họp cổ đông,2013-03-20,2013-04-25,2013-04-25,ĐHĐCĐ thường niên năm 2013,,,,
+2013-04-11,stockAlert,alert,Cảnh báo,2013-04-12,2014-03-18,,CP thuộc diện cảnh báo,,,,
+2013-09-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-09-12,2013-09-30,2013-09-30,Cổ tức năm 2011 (500đ/cp),500,5,,2011
+2014-01-16,investorRight,MEETING,Họp cổ đông,2014-01-22,2014-02-28,2014-02-28,Đại hội đồng cổ đông thường niên 2014,,,,
+2014-03-17,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2014-03-18,2015-04-08,,CP vào diện kiểm soát,,,,
+2014-06-30,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2014-06-30,2015-04-08,,Vì thuộc diện bị kiểm soát,,,,
+2015-04-02,investorRight,MEETING,Họp cổ đông,2015-04-10,2015-05-06,2015-05-06,ĐHĐCĐ thường niên năm 2015,,,,
+2015-09-07,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-09-07,,,LNST 6 tháng đầu năm 2015 là số âm,,,,
+2016-04-15,stockAlert,alert,Cảnh báo,2016-04-19,2016-09-01,,LNST 2015 âm,,,,
+2016-04-15,investorRight,MEETING,Họp cổ đông,2016-04-27,,,ĐHCĐ thường niên 2016,,,,
+2016-10-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-07-05,2016-10-05,,Chứng khoán thuộc diện bị cảnh báo,,,,
+2017-05-15,investorRight,MEETING,Họp cổ đông,2017-04-27,2017-05-27,2017-05-27,ĐHĐCĐ thường niên năm 2017,,,,
+2017-05-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
+2017-05-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2014 (500 đ/cp),500,5,,2014
+2017-07-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-01,2017-08-16,2017-08-16,Trả cổ tức năm 2016 (1500 đ/cp),1500,15,,2016
+2017-09-06,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-09-07,,,"LNST 6T.2017 âm, chứng khoán thuộc diện bị kiểm soát",,,,
+2018-04-05,stockAlert,alert,Cảnh báo,2018-04-09,2019-04-08,,LNST chưa phân phối năm 2019 là số âm,,,,
+2018-11-20,stockAlert,noticed,Nhắc nhở,2018-11-20,,,Vi phạm CBTT 3 lần từ 1/1/2018,,,,
+2019-04-08,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-04-09,2019-04-16,,LNST của công ty mẹ năm 2017 và 2018 âm,,,,
+2019-05-20,investorRight,MEETING,Họp cổ đông,2019-05-03,2019-05-31,2019-05-31,ĐHĐCĐ thường niên năm 2019,,,,
+2020-04-01,stockAlert,alert,Cảnh báo,2020-04-06,,,LNST cty mẹ 2019 dương và LNST chưa pp trên BCTC 2019 âm,,,,
+2020-05-14,investorRight,MEETING,Họp cổ đông,2020-06-01,,,ĐHĐCĐ thường niên năm 2020,,,,

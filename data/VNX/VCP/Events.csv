@@ -1,0 +1,20 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-10-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-28,2016-12-30,2016-12-30,Cổ tức đợt 2 năm 2015 (1.300đ/cp),1300,13,2,2015
+2016-12-12,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2016-12-16,,,Giá tham chiếu 17.000 đ/cp,,,,
+2017-02-10,investorRight,MEETING,Họp cổ đông,2017-02-23,2017-03-23,2017-03-23,Đại hội đồng cổ đông thường niên năm 2017,,,,
+2017-11-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-11-22,2017-12-11,2017-12-11,Trả cổ tức năm 2016 (1500đ/cp),1500,15,,2016
+2017-11-09,investorRight,MEETING,Họp cổ đông,2017-11-29,2017-12-26,2017-12-26,ĐHĐCĐ bất thường năm 2017,,,,
+2018-02-07,investorRight,MEETING,Họp cổ đông,2018-02-28,2018-03-22,2018-03-22,ĐHĐCĐ thường niên năm 2018,,,,
+2018-02-07,schedEvent,schedIssue,Dự kiến phát hành,2018-07-17,2018-07-17,,"Dự kiến phát hành 2.279.999 cp ESOP, tỷ lệ 100:5, giá 12.604 đ/cp",,5,,
+2018-02-07,schedEvent,schedIssue,Dự kiến phát hành,2018-07-17,2018-07-17,,"Dự kiến phát hành 9.119.999 cp cho CĐHH, tỷ lệ 100:20, giá 10.000 đ/cp",,20,,
+2018-05-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-07,2018-06-29,2018-06-29,Trả cổ tức năm 2017 (2200 đ/cp),2200,22,,2017
+2018-07-06,investorRight,ISSUE,Phát hành thêm,2018-07-17,2018-08-24,,"Phát hành 9,119,999 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:20",,20,,
+2018-10-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-10-24,,,"Số lượng 11,399,998 cp",,,,
+2018-11-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-11-29,2018-12-28,2018-12-28,Tạm ứng cổ tức năm 2018 (1500 đ/cp),1500,15,,2018
+2019-01-30,investorRight,MEETING,Họp cổ đông,2019-02-19,2019-03-16,2019-03-16,"ĐHĐCĐ thường niên năm 2019 
+",,,,
+2019-06-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-07-11,2019-07-31,2019-07-31,Trả cổ tức đợt 2/2018 (2000 đ/cp),2000,20,2,2018
+2019-10-10,investorRight,POLL,Lấy ý kiến cổ đông,2019-10-29,,,V/v: Điều chỉnh kế hoạch sản xuất kinh doanh năm 2019,,,,
+2020-01-06,investorRight,MEETING,Họp cổ đông,2020-01-21,2020-02-14,2020-02-14,ĐHĐCĐ bất thường năm 2020,,,,
+2020-03-27,investorRight,MEETING,Họp cổ đông,2020-04-15,2020-05-15,2020-05-15,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-05,investorRight,MEETING,Họp cổ đông,2020-06-26,2020-07-16,2020-07-16,ĐHĐCĐ bất thường năm 2020 lần 2,,,,

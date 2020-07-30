@@ -1,0 +1,17 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-11-17,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-11-24,2019-11-29,,Giá tham chiếu 23.900 đ/cp,,,,
+2018-11-20,investorRight,POLL,Lấy ý kiến cổ đông,2018-11-27,,,V/v niêm yết cp Tổng công ty IDICO,,,,
+2019-01-30,investorRight,MEETING,Họp cổ đông,2019-02-19,2019-03-20,2019-03-20,"ĐHĐCĐ thường niên năm 2019 
+",,,,
+2019-04-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-04-16,,,Số lượng 135682500CP,,,,
+2019-05-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-07,2019-07-10,2019-07-10,Trả cổ tức năm 2018 (500 đ/cp),500,5,,2018
+2019-06-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-06-13,,,Số lượng 109012000 cp,,,,
+2019-10-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-11,2019-12-03,2019-12-03,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019
+2019-11-26,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2019-12-02,,,Hủy ĐKGD trên UPCOM,,,,
+2019-11-28,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2019-12-10,,,Giá tham chiếu: 18.500 đ/cp,,,,
+2019-11-29,schedEvent,schedExchange,Dự kiến chuyển sàn,2019-12-05,,,Dự kiến chuyển sàn từ UPCOM sang HNX,,,,
+2019-12-03,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-12-10,2020-06-18,,Thời gian niêm yết dưới 06 tháng tính từ ngày GD đầu tiên,,,,
+2020-03-03,investorRight,MEETING,Họp cổ đông,2020-03-24,2020-04-20,2020-04-20,ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-05-28,,,"Số lượng 108,000,000 cp",,,,
+2020-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (800 đ/cp),800,8,,2019
+2020-07-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-22,2020-08-06,2020-08-06,Trả cổ tức đợt 2/2019 (300 đ/cp),300,3,2,2019

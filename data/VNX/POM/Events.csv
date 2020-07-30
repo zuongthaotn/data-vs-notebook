@@ -1,0 +1,27 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2010-04-14,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2010-04-20,,,Giá tham chiếu 40.000đ/cp,,,,
+2010-07-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2010-07-22,2010-07-26,,"Trả cổ tức năm 2009, Tỷ lệ 100:15",,15,,2009
+2010-07-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-07-22,2010-08-13,2010-08-13,Cổ tức năm 2009 (500 đ/cp),500,5,,2009
+2011-03-03,investorRight,MEETING,Họp cổ đông,2011-03-10,2011-04-08,2011-04-08,ĐHCĐ thường niên 2011,,,,
+2011-06-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-06-13,2011-06-30,2011-06-30,Trả cổ tức năm 2010 (2.000 đ/cp),2000,20,,2010
+2012-02-29,investorRight,MEETING,Họp cổ đông,2012-03-07,2012-04-06,2012-04-06,ĐHCĐ thường niên 2012,,,,
+2012-02-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-03-07,2012-04-20,2012-04-20,Cổ tức năm 2011 (1.500 đ/cp),1500,15,,2011
+2013-03-20,investorRight,MEETING,Họp cổ đông,2013-03-27,2013-04-26,2013-04-26,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2014-03-27,investorRight,MEETING,Họp cổ đông,2014-04-03,2014-04-26,2014-04-26,Đại hội cổ đông thường niên năm 2014,,,,
+2014-04-01,stockAlert,alert,Cảnh báo,2014-04-08,2015-04-10,,CP thuộc diện cảnh báo,,,,
+2015-03-19,investorRight,MEETING,Họp cổ đông,2015-03-30,2015-04-24,2015-04-24,ĐHĐCĐ thường niên năm 2015,,,,
+2016-03-18,investorRight,MEETING,Họp cổ đông,2016-03-29,2016-04-28,2016-04-28,ĐHCĐ thường niên năm 2016,,,,
+2016-04-04,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2015-04-10,2016-04-04,,Lợi nhuận sau thuế năm 2013 và 2014 âm,,,,
+2016-04-04,stockAlert,alert,Cảnh báo,2016-04-04,2017-04-05,,Chuyển từ trạng thái kiểm soát sang cảnh báo,,,,
+2016-04-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-04-05,2017-04-05,,Chứng khoán thuộc diện cảnh báo,,,,
+2018-03-06,investorRight,MEETING,Họp cổ đông,2018-03-26,2018-04-27,2018-04-27,ĐHĐCĐ thường niên năm 2018,,,,
+2018-08-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Phát hành CP trả cổ tức năm 2017 và tăng vốn điều lệ, tỷ lệ 10:3",,30,,2017
+2018-09-27,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-10-08,2018-10-09,,"Trả cổ tức năm 2017, Tỷ lệ 100:30",,30,,2017
+2018-11-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-11-27,,,"Số lượng 55,895,001 cp",,,,
+2019-03-15,investorRight,MEETING,Họp cổ đông,2019-04-01,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2019-08-26,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-08-22,,,LNST soát xét bán niên 2019 âm,,,,
+2019-08-26,schedEvent,schedDiv,Dự kiến cổ tức,2020-01-16,2020-01-16,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:15",,15,,2018
+2019-12-27,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-01-16,2020-01-17,,"Trả cổ tức năm 2018, Tỷ lệ 100:15",,15,,2018
+2020-02-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-03-09,,,"Số lượng 36,331,384 cp",,,,
+2020-04-16,stockAlert,alert,Cảnh báo,2020-04-23,,,LNST cty mẹ năm 2019 trên BCTC kiểm toán 2019 âm,,,,
+2020-04-27,investorRight,MEETING,Họp cổ đông,2020-05-25,2020-06-26,2020-06-26,ĐHĐCĐ thường niên năm 2020,,,,

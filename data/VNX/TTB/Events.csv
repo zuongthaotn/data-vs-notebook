@@ -1,0 +1,38 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-01-19,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2015-01-26,2018-08-07,,Giá tham chiếu 15.000đ/cp,,,,
+2015-03-23,investorRight,MEETING,Họp cổ đông,2015-03-27,,,ĐHĐCĐ thường niên năm 2015,,,,
+2015-05-21,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành CP để trả cổ tức, tỷ lệ 100:10",,10,,
+2015-05-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2014 (500 đ/cp),500,5,,2014
+2015-05-29,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cho cổ đông hiện hữu (1:1),,100,,
+2015-06-02,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2015-06-08,2015-06-10,,"Trả cổ tức năm 2014, Tỷ lệ 100:10",,10,,2014
+2015-06-02,investorRight,ISSUE,Phát hành thêm,2015-06-08,2015-07-17,,"Tỷ lệ 1:1, giá 10.000 đ/cp",,100,,
+2015-06-02,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2015-06-08,2015-10-26,2015-10-26,Thay đổi thời gian trả cổ tức năm 2013 (700đ/cp),700,,,
+2015-06-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-06-08,2015-07-30,2015-07-30,Trả cổ tức năm 2013 (700đ/cp),700,7,,2013
+2015-06-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-06-08,2015-10-08,2015-10-08,Trả cổ tức năm 2014 (500đ/cp),500,5,,2014
+2015-07-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-08-05,,,Số lượng 350.000 cp,,,,
+2015-09-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-09-18,,,Số lượng 3.500.000 cp,,,,
+2015-11-12,investorRight,ISSUE,Phát hành thêm,2015-11-18,2015-12-23,,"Tỷ lệ 105:100, giá 10000đ/cp",,95.24,,
+2016-01-27,investorRight,MEETING,Họp cổ đông,2016-02-04,2016-03-05,2016-03-05,ĐHĐCĐ thường niên năm 2016,,,,
+2016-01-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-02-05,,,Số lượng 7.000.000 cp,,,,
+2016-03-08,schedEvent,schedIssue,Dự kiến phát hành,2016-09-16,2016-09-16,,Phát hành 19.350.000 CP ra công chúng,,,,
+2016-05-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-06-01,,,Số lượng 5000000CP,,,,
+2016-10-17,investorRight,ISSUE,Phát hành thêm,2016-09-16,2016-10-24,,"Phát hành 19,350,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:100",,100,,
+2016-12-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-12-22,,,Số lượng 19350000 cp,,,,
+2017-03-29,investorRight,MEETING,Họp cổ đông,2017-04-07,2017-04-29,2017-04-29,ĐHĐCĐ thường niên năm 2017,,,,
+2017-04-29,schedEvent,schedDiv,Dự kiến cổ tức,2017-08-03,2017-08-03,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:3,5",,3.5,,2015
+2017-04-29,schedEvent,schedDiv,Dự kiến cổ tức,2017-08-03,2017-08-03,,"Dự kiến trả cổ tức bằng cổ phiếu, tỷ lệ 6.5%",,6.5,,2016
+2017-07-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-08-03,2017-08-04,,"Trả cổ tức năm 2016, Tỷ lệ 100:6.5",,6.5,,2016
+2017-07-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-08-03,2017-08-04,,"Trả cổ tức năm 2015, Tỷ lệ 100:3.5",,3.5,,2015
+2017-07-26,investorRight,POLL,Lấy ý kiến cổ đông,2017-08-03,,,V/v: Thông qua chủ trương chuyển sàn từ HNX sang HOSE,,,,
+2017-09-05,schedEvent,schedExchange,Dự kiến chuyển sàn,2017-08-31,,,Chuyển sang niêm yết tại HOSE,,,,
+2017-09-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-09-29,,,Số lượng 3869985 cp,,,,
+2018-02-27,investorRight,MEETING,Họp cổ đông,2018-03-16,,,Họp ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-21,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-05-25,2018-05-28,,"Trả cổ tức năm 2017, Tỷ lệ 100:10",,10,,2017
+2018-07-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-07-18,,,Số lượng 4256969 cp,,,,
+2018-08-02,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2018-08-08,,,Hủy niêm yết trên HNX,,,,
+2018-08-09,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-08-17,,,Giá tham chiếu 22.100 đ/cp,,,,
+2018-10-29,stockAlert,noticed,Nhắc nhở,2018-10-26,,,Chậm CBTT bổ nhiệm nhân sự chủ chốt,,,,
+2019-03-15,investorRight,MEETING,Họp cổ đông,2019-04-02,2019-04-23,2019-04-23,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-25,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 51000000 cp cho CĐHH hoặc ĐTCL,,,,
+2020-02-04,stockAlert,noticed,Nhắc nhở,2020-02-04,,,Chậm nộp BCQT năm 2019,,,,
+2020-06-24,investorRight,MEETING,Họp cổ đông,2020-06-12,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,

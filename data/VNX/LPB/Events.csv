@@ -1,0 +1,16 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-09-29,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-10-05,,,Giá tham chiếu 14.800 đ/cp,,,,
+2017-11-07,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-11-14,2017-11-15,,"Trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:6",,6,,2016
+2017-12-18,investorRight,ISSUE,Phát hành thêm,2017-11-14,2017-12-20,,"Phát hành 32,946,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:5.1",,5.1,,
+2018-01-16,investorRight,MEETING,Họp cổ đông,2018-02-01,2018-03-28,2018-03-28,ĐHĐCĐ thường niên năm 2018,,,,
+2018-01-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-02-01,2018-02-09,2018-02-09,Tạm ứng cổ tức đợt 1/2017 (1000 đ/cp),1000,10,1,2017
+2018-03-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-03-28,,,Số lượng 103999428 cp,,,,
+2018-12-06,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-12-27,2018-12-28,,"Trả cổ tức năm 2017, Tỷ lệ 100:5",,5,,2017
+2018-12-06,investorRight,ISSUE,Phát hành thêm,2018-12-27,2019-02-15,,"Phát hành 200,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:26.67",,26.67,,
+2019-01-29,investorRight,MEETING,Họp cổ đông,2019-02-27,2019-04-24,2019-04-24,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-04-22,,,Số lượng 138.144.667 cp,,,,
+2020-01-17,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-02-05,2020-02-06,,"Trả cổ tức năm 2018, Tỷ lệ 100:9.29",,9.29,,2018
+2020-01-17,investorRight,KINDDIV,Cổ phiếu thưởng,2020-02-05,2020-02-06,,Tỷ lệ 100:.71,,0.71,,
+2020-03-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-03-20,,,Số lượng 88804224 cp,,,,
+2020-05-19,investorRight,MEETING,Họp cổ đông,2020-05-26,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-19,investorRight,POLL,Lấy ý kiến cổ đông,2020-05-26,,,"V/v: Thông qua Quy chế tổ chức Đại hội đồng cổ đông trực tuyến và bỏ phiếu điện tử, Thông qua Dự thảo Nghị quyết lấy ý kiến cổ đông bằng văn bản;",,,,

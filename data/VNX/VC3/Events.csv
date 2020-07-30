@@ -1,0 +1,44 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2007-12-13,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2007-12-13,,,,,,,
+2008-03-05,investorRight,MEETING,Họp cổ đông,2008-03-13,2008-04-24,2008-04-24,ĐHCĐ thường niên 2008,,,,
+2008-03-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2008-03-13,2008-04-21,2008-04-21,Cổ tức năm 2007 (1.700 đ/cp),1700,17,,2007
+2008-12-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2008-12-22,2009-01-15,2009-01-15,Cổ tức đợt 1/2008 (1.500 đ/cp),1500,15,1,2008
+2009-02-26,investorRight,MEETING,Họp cổ đông,2009-03-06,2009-04-13,2009-04-13,ĐHCĐ thường niên 2009,,,,
+2009-02-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2009-03-06,2009-04-22,2009-04-22,Cổ tức đợt 2/2008 (300 đ/cp),300,3,2,2008
+2010-03-12,investorRight,MEETING,Họp cổ đông,2010-03-17,,,ĐHCĐ thường niên 2010,,,,
+2010-03-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-03-17,2010-04-28,2010-04-28,Tạm ứng cổ tức năm 2009 (1.800 đ/cp),1800,18,,2009
+2011-02-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-03-09,2011-05-26,2011-05-26,Tạm ứng cổ tức năm 2010 (1.800 đ/cp),1800,18,,2010
+2011-02-28,investorRight,MEETING,Họp cổ đông,2011-03-09,2011-04-21,2011-04-21,ĐHCĐ thường niên 2011,,,,
+2012-02-27,investorRight,MEETING,Họp cổ đông,2012-03-02,2012-04-06,2012-04-06,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2012-02-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-03-02,2012-05-17,2012-05-17,Tạm ứng cổ tức năm 2011 (1.800 đ/cp),1800,18,,2011
+2012-04-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-04-23,2012-05-17,2012-05-17,Trả cổ tức đợt 2/2011 (400 đ/cp),400,4,2,2011
+2012-11-06,investorRight,POLL,Lấy ý kiến cổ đông,2012-11-14,,,v/v Điều chỉnh chỉ tiêu kế hoạch kinh doanh năm 2012,,,,
+2013-03-15,investorRight,MEETING,Họp cổ đông,2013-03-21,,,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-09-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-09-10,2013-10-01,2013-10-01,Cổ tức đợt 1/2012 (500 đ/cp),500,5,1,2012
+2013-11-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-11-13,2013-11-29,2013-11-29,Trả cổ tức bằng tiền đợt 2/2012 (500đ/cp),500,5,2,2012
+2014-02-27,investorRight,MEETING,Họp cổ đông,2014-03-05,,,Đại hội đồng cổ đông thường niên năm 2014,,,,
+2014-05-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-05-20,2014-06-06,2014-06-06,Cổ tức đợt 1 năm 2013 (500đ/cp),500,5,1,2013
+2014-06-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-06-25,2014-07-10,2014-07-10,Trả cổ tức đợt 2 năm 2013 (500 đ/cp),500,5,2,2013
+2015-03-02,investorRight,MEETING,Họp cổ đông,2015-03-09,,,ĐHĐCĐ thường niên năm 2015,,,,
+2015-08-10,investorRight,MEETING,Họp cổ đông,2015-08-14,,,ĐHCĐ bất thường năm 2015,,,,
+2015-09-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-09-22,2015-10-08,2015-10-08,Trả cổ tức năm 2014 (1.500đ/cp),1500,15,,2014
+2015-10-28,investorRight,KINDDIV,Cổ phiếu thưởng,2015-11-03,2015-11-05,,Tỷ lệ 100:150,,150,,
+2015-11-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-12-02,,,Số lượng 11.999.894 cp,,,,
+2016-03-08,investorRight,MEETING,Họp cổ đông,2016-03-22,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
+2016-05-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-06,2016-06-07,,"Trả cổ tức năm 2015, Tỷ lệ 100:10",,10,,2015
+2016-05-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-06,2016-06-20,2016-06-20,Trả cổ tức năm 2015 (800 đ/cp),800,8,,2015
+2016-07-08,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-14,,,Số lượng 1.999.848cp,,,,
+2017-03-01,investorRight,MEETING,Họp cổ đông,2017-02-17,2017-03-10,2017-03-10,ĐHĐCĐ thường niên năm 2017,,,,
+2017-03-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-04-11,2017-04-12,,"Trả cổ tức năm 2016, Tỷ lệ 100:29",,29,,2016
+2017-03-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-04-11,2017-05-03,2017-05-03,Trả cổ tức năm 2016 (500 đ/cp),500,5,,2016
+2017-05-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-05-25,,,Số lượng 6379719 cp,,,,
+2018-01-16,investorRight,MEETING,Họp cổ đông,2018-02-02,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-03,investorRight,POLL,Lấy ý kiến cổ đông,2018-05-21,,,V/v thông qua quyết định đầu tư 51% cổ phần KPF,,,,
+2018-08-28,investorRight,MEETING,Họp cổ đông,2018-08-17,2018-09-10,2018-09-10,ĐHĐCĐ bất thường năm 2018,,,,
+2018-09-12,schedEvent,schedIssue,Dự kiến phát hành,2020-01-16,2020-01-16,,"Dự kiến phát hành 28379461 cp cho CĐHH, tỷ lệ 100:100, giá 15.000 đ/cp",,100,,
+2019-03-13,investorRight,MEETING,Họp cổ đông,2019-03-29,2019-04-25,2019-04-25,ĐHĐCĐ thường niên năm 2019,,,,
+2019-10-30,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-11-08,2019-11-11,,"Trả cổ tức năm 2017, Tỷ lệ 100:15",,15,,2017
+2019-10-30,investorRight,ISSUE,Phát hành thêm,2019-11-08,2019-12-20,,"Phát hành 28,379,461 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:100",,100,,
+2019-12-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-12-23,,,Số lượng 4256720 cp,,,,
+2020-02-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-03-06,,,Số lượng 28379461 cp,,,,
+2020-04-20,investorRight,MEETING,Họp cổ đông,2020-05-06,,,ĐHĐCĐ thường niên năm 2020,,,,

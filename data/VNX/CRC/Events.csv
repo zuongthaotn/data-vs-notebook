@@ -1,0 +1,9 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-05-30,investorRight,MEETING,Họp cổ đông,2018-06-15,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-08-13,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-08-20,,,Giá tham chiếu 12.700 đ/cp,,,,
+2018-08-20,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-20,2019-03-08,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-10-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-10-31,2018-11-21,2018-11-21,Trả cổ tức năm 2017 (500 đ/cp),500,5,,2017
+2019-04-12,stockAlert,noticed,Nhắc nhở,2019-04-12,,,Chậm CBTT quyết định giảm sở hữu tại công ty con,,,,
+2019-05-16,investorRight,MEETING,Họp cổ đông,2019-03-28,2019-05-25,2019-05-25,ĐHĐCĐ thường niên năm 2019,,,,
+2019-11-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-20,2019-12-19,2019-12-19,Trả cổ tức năm 2018 (500 đ/cp),500,5,,2018
+2020-05-21,investorRight,MEETING,Họp cổ đông,2020-06-05,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,

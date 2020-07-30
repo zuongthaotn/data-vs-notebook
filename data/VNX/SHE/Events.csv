@@ -1,0 +1,11 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2019-01-17,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2019-01-25,,,Giá tham chiếu 20.000 đ/cp,,,,
+2019-01-23,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-01-25,2019-10-07,,Thời gian niêm yết dưới 6 tháng,,,,
+2019-02-15,investorRight,MEETING,Họp cổ đông,2019-02-25,2019-03-29,2019-03-29,Họp ĐHĐCĐ thường niên năm 2019.,,,,
+2019-02-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-02-25,2019-03-26,2019-03-26,Tạm ứng cổ tức năm 2018 (1000 đ/cp).,1000,10,,2018
+2019-06-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-27,2019-07-15,2019-07-15,Trả cổ tức đợt 2/2018 (1000 đ/cp),1000,10,2,2018
+2019-11-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-19,2019-12-05,2019-12-05,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
+2020-03-31,investorRight,MEETING,Họp cổ đông,2020-03-25,2020-04-28,2020-04-28,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-07,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 75,000cp ESOP",,1.5,,
+2020-07-07,investorRight,KINDDIV,Cổ phiếu thưởng,2020-07-16,2020-07-17,,Tỷ lệ 100:30,,30,,
+2020-07-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-16,2020-07-31,2020-07-31,Trả cổ tức đợt 2/2019 (1000 đ/cp),1000,10,2,2019

@@ -1,0 +1,18 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-01-12,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-01-18,,,Giá tham chiếu 11.500 đ/cp,,,,
+2018-01-18,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-01-18,2018-07-19,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-03-09,investorRight,MEETING,Họp cổ đông,2018-03-29,2018-04-16,2018-04-16,ĐHĐCĐ thường niên năm 2018,,,,
+2018-06-07,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến phát hành 3.000.000 cp để trả cổ tức năm 2017, tỷ lệ 100:15",,15,,2017
+2018-06-19,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-07-02,2018-07-03,,"Trả cổ tức năm 2017, Tỷ lệ 100:15",,15,,2017
+2018-07-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 2999993 cp,,,,
+2019-02-20,investorRight,MEETING,Họp cổ đông,2019-03-13,2019-04-16,2019-04-16,Họp ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-17,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỉ lệ 15%",,15,,2018
+2019-05-09,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-05-23,2019-05-24,,"Trả cổ tức năm 2018, Tỷ lệ 100:15",,15,,2018
+2019-06-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-06-28,,,"Số lượng 3,449,882 cp",,,,
+2019-07-12,investorRight,MEETING,Họp cổ đông,2019-08-01,2019-08-27,2019-08-27,ĐHĐCĐ bất thường năm 2019,,,,
+2019-08-27,schedEvent,schedIssue,Dự kiến phát hành,2020-06-08,2020-06-08,,"Dự kiến phát hành cổ phiếu để bổ sung vốn lưu động và cơ cấu lại nguồn vốn, giảm tỷ trọng nợ vay trong cơ cấu nguồn vốn, trả nợ đến hạn.",,50,,
+2020-04-08,investorRight,ISSUE,Phát hành thêm,2020-04-13,2020-05-27,,"Phát hành 26,449,875 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:100",,100,,
+2020-05-19,investorRight,MEETING,Họp cổ đông,2020-03-13,2020-06-09,2020-06-09,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-07-22,,,"Số lượng 31,296 cp",,,,
+2020-07-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-06-09,,,"Số lượng 8,518,829 cp",,,,
+2020-07-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:12",,12,,2019

@@ -1,0 +1,20 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-02-13,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2017-02-28,,,Giá tham chiếu 90.000 đ/cp,,,,
+2017-02-27,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-02-28,2017-09-07,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-03-22,investorRight,MEETING,Họp cổ đông,2017-04-03,2017-04-20,2017-04-20,ĐHĐCĐ thường niên năm 2017,,,,
+2017-04-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-09,2017-05-30,2017-05-30,Trả cổ tức đợt 2/2016 (1000 đ/cp),1000,10,2,2016
+2017-06-08,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến tạm ứng cổ tức đợt 1/2017 (2000 đ/cp),2000,20,1,2017
+2017-06-08,schedEvent,schedIssue,Dự kiến phát hành,2017-09-22,2017-09-22,,"Dự kiến phát hành cp thưởng cho CĐHH, tỷ lệ 100:40",,40,,
+2017-07-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-07-28,2017-08-15,2017-08-15,Trả cổ tức đợt 1/2017 (2000 đ/cp),2000,20,1,2017
+2017-09-08,investorRight,KINDDIV,Cổ phiếu thưởng,2017-09-22,2017-09-25,,Tỷ lệ 100:40,,40,,
+2017-10-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 128955224 cp,,,,
+2017-11-29,investorRight,POLL,Lấy ý kiến cổ đông,2017-12-18,,,V/v điều chỉnh tỷ lệ chia cổ tức dự kiến năm 2017,,,,
+2018-01-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-01-22,2018-02-07,2018-02-07,Trả cổ tức đợt 2/2017 (1000 đ/cp),1000,10,2,2017
+2018-03-13,investorRight,MEETING,Họp cổ đông,2018-04-06,2018-04-26,2018-04-26,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-09,2018-05-25,2018-05-25,Trả cổ tức đợt 3/2017 (1000 đ/cp),1000,10,3,2017
+2018-05-22,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-06-29,2018-07-02,,"Trả cổ tức năm 2017, Tỷ lệ 100:20",,20,,2017
+2018-08-09,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-08-20,,,Số lượng 90268050 cp,,,,
+2018-08-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-09-05,2018-09-19,2018-09-19,Trả cổ tức đợt 1/2018 (2000 đ/cp),2000,20,1,2018
+2018-08-31,investorRight,POLL,Lấy ý kiến cổ đông,2018-09-19,,,V/v xin thông qua chủ trương phát hành trái phiếu chuyển đổi,,,,
+2019-04-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-04-23,2019-05-10,2019-05-10,Trả cổ tức đợt 2/2018 (1000 đ/cp),1000,10,2,2018
+2020-06-09,investorRight,MEETING,Họp cổ đông,2020-05-22,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,

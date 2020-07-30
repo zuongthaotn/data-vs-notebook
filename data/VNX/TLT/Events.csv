@@ -1,0 +1,31 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2006-12-08,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2006-12-08,,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
+2007-03-13,investorRight,MEETING,Họp cổ đông,2007-03-08,2007-03-26,2007-03-26,ĐHCĐ thường niên 2007,,,,
+2007-04-12,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2007-04-18,2007-04-20,,"Trả cổ tức năm 2006, Tỷ lệ 100:25",,25,,2006
+2007-10-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2007-10-10,2007-11-30,2007-11-30,Trả cổ tức đợt 1/2007 (1000 đ/cp),1000,10,1,2007
+2007-10-02,investorRight,ISSUE,Phát hành thêm,2007-10-10,2007-11-23,,"Phát hành cho cổ đông hiện hữu, tỷ lệ 100:200, giá 15000 đ/cp",,200,,
+2007-10-02,investorRight,ISSUE,Phát hành thêm,2007-10-11,2007-11-23,,"Tỷ lệ 100:, giá 25000 đ/cp",,,,
+2007-10-02,investorRight,ISSUE,Phát hành thêm,2007-10-11,2007-11-23,,"Tỷ lệ 100:, giá 15000 đ/cp",,,,
+2008-03-10,investorRight,MEETING,Họp cổ đông,2008-03-18,2008-04-11,2008-04-11,ĐHCĐ thường niên 2008,,,,
+2008-05-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2008-05-13,2008-06-20,2008-06-20,Trả cổ tức đợt 2/2007 (1500 đ/cp),1500,15,2,2007
+2008-10-29,investorRight,MEETING,Họp cổ đông,2008-11-06,2008-12-01,2008-12-01,ĐHCĐ bất thường năm 2008,,,,
+2009-03-04,investorRight,MEETING,Họp cổ đông,2009-03-12,2009-04-17,2009-04-17,ĐHCĐ thường niên 2009,,,,
+2009-06-19,investorRight,POLL,Lấy ý kiến cổ đông,2009-06-26,2009-07-15,2009-07-15,Lấy ý kiến cổ đông bằng văn bản thông qua việc Chủ tịch Hội đồng quản trị kiêm Giám đốc điều hành,,,,
+2010-02-04,investorRight,MEETING,Họp cổ đông,2010-02-11,2010-03-12,2010-03-12,ĐHCĐ thường niên 2010,,,,
+2011-02-10,investorRight,MEETING,Họp cổ đông,2011-02-17,2011-03-10,2011-03-10,ĐHCĐ thường niên 2011,,,,
+2011-09-22,investorRight,POLL,Lấy ý kiến cổ đông,2011-10-03,,,v/v Điều chỉnh các chỉ tiêu Kế hoạch sản xuất kinh doanh năm 2011,,,,
+2012-02-06,investorRight,MEETING,Họp cổ đông,2012-02-13,2012-03-10,2012-03-10,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2012-04-19,stockAlert,alert,Cảnh báo,2012-04-19,,,CP thuộc diện cảnh báo,,,,
+2012-11-14,investorRight,MEETING,Họp cổ đông,2012-11-22,2012-12-13,2012-12-13,Đại hội đồng cổ đông bất thường năm 2012,,,,
+2013-02-01,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2013-02-28,,,Chuyển sang sàn UPCOM,,,,
+2013-06-11,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2013-06-19,,,Giá tham chiếu 1.100đ/cp,,,,
+2014-02-25,investorRight,MEETING,Họp cổ đông,2014-02-26,2014-03-31,2014-03-31,Đại hội đồng cổ đông thường niên năm 2014,,,,
+2014-06-30,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2014-06-30,,,CP sàn UPCOM,,,,
+2015-01-23,investorRight,MEETING,Họp cổ đông,2015-02-10,2015-03-20,2015-03-20,ĐHĐCĐ thường niên năm 2015,,,,
+2015-12-18,investorRight,MEETING,Họp cổ đông,2016-01-08,2016-03-23,2016-03-23,ĐHCĐ thường niên năm 2016,,,,
+2017-02-16,investorRight,MEETING,Họp cổ đông,2017-02-14,2017-03-17,2017-03-17,ĐHĐCĐ thường niên năm 2017,,,,
+2018-01-11,investorRight,MEETING,Họp cổ đông,2018-01-30,,,ĐHĐCĐ thường niên năm 2018,,,,
+2019-01-30,investorRight,MEETING,Họp cổ đông,2019-02-15,2019-03-21,2019-03-21,ĐHĐCĐ thường niên năm 2019,,,,
+2019-06-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-07-09,2019-08-28,2019-08-28,Trả cổ tức năm 2018 (450 đ/cp),450,4.5,,2018
+2020-02-05,investorRight,MEETING,Họp cổ đông,2020-02-27,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-15,2020-08-25,2020-08-25,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019

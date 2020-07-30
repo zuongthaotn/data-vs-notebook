@@ -1,0 +1,47 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2007-12-18,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2007-12-18,2009-12-08,,Ngày giao dịch đầu tiên trên HNX,,,,
+2008-03-03,investorRight,MEETING,Họp cổ đông,2008-03-10,2008-04-27,2008-04-27,ĐHCĐ thường niên 2008,,,,
+2008-03-03,investorRight,POLL,Lấy ý kiến cổ đông,2008-03-10,2008-03-25,2008-03-25,"Trả cổ tức năm 2007 bằng cổ phiếu, phát hành cổ phiếu thưởng cho cổ đông hiện hữu và kế hoạch sản xuất kinh doanh năm 2008",,,,
+2008-06-11,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2008-06-18,2008-06-20,,Tỷ lệ 100:43,,43,,2007
+2008-06-11,investorRight,KINDDIV,Cổ phiếu thưởng,2008-06-18,2008-06-20,,Tỷ lệ 100:7,,7,,
+2008-12-03,investorRight,POLL,Lấy ý kiến cổ đông,2008-12-09,2008-12-22,2008-12-22,Xin ý kiến cổ đông bằng văn bản về kế hoạch hoạt động sản xuất kinh doanh năm 2009,,,,
+2009-03-16,investorRight,MEETING,Họp cổ đông,2009-03-23,2009-04-25,2009-04-25,ĐHCĐ thường niên 2009,,,,
+2009-04-29,investorRight,KINDDIV,Cổ phiếu thưởng,2009-05-08,2009-05-12,,Tỷ lệ 100:30,,30,,
+2009-04-29,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2009-05-08,2009-05-12,,Tỷ lệ 100:20,,20,,2008
+2009-07-08,investorRight,POLL,Lấy ý kiến cổ đông,2009-07-15,2009-07-28,2009-07-28,Xin ý kiến cổ đông bằng văn bản,,,,
+2009-11-11,investorRight,POLL,Lấy ý kiến cổ đông,2009-11-12,2009-11-25,2009-11-25,"Xin ý kiến cổ đông về phương án phát hành cp thưởng cho cổ đông hiện hữu, điều chỉnh kế hoạch HĐKD",,,,
+2009-12-18,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2009-12-18,,,Ngày giao dịch đầu tiên trên HOSE,,,,
+2010-03-09,investorRight,MEETING,Họp cổ đông,2010-03-18,2010-04-27,2010-04-27,ĐHCĐ thường niên 2010,,,,
+2010-06-21,investorRight,KINDDIV,Cổ phiếu thưởng,2010-06-28,2010-06-30,,Tỷ lệ 100:20,,20,,
+2010-06-21,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2010-06-28,2010-06-30,,"Trả cổ tức năm 2009, Tỷ lệ 100:30",,30,,2009
+2011-03-08,investorRight,MEETING,Họp cổ đông,2011-03-16,2011-04-23,2011-04-23,ĐHCĐ thường niên năm 2011,,,,
+2012-03-01,investorRight,MEETING,Họp cổ đông,2012-03-13,2012-04-27,2012-04-27,ĐHCĐ thường niên 2012,,,,
+2013-03-06,investorRight,MEETING,Họp cổ đông,2013-03-13,,,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-04-02,stockAlert,alert,Cảnh báo,2013-04-02,2014-04-01,,CP thuộc diện cảnh báo,,,,
+2013-09-10,investorRight,POLL,Lấy ý kiến cổ đông,2013-09-18,,,Vv phát hành cổ phiếu riêng lẻ,,,,
+2014-03-24,investorRight,MEETING,Họp cổ đông,2014-03-28,,,Đại hội cổ đông thường niên năm 2014,,,,
+2014-04-17,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành chào bán riêng lẻ,,,,
+2014-05-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-04-24,,,Số lượng 100.000.000 cp,,,,
+2014-09-09,investorRight,POLL,Lấy ý kiến cổ đông,2014-09-17,,,Vv thay đổi kế hoạch phát triển của Công ty,,,,
+2014-10-27,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành trái phiếu chuyển đổi, số lượng 1.200 TP",,,,
+2014-10-27,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành cho CĐCL, số lượng 120.000.000 cp",,,,
+2015-03-10,investorRight,MEETING,Họp cổ đông,2015-03-16,2015-04-27,2015-04-27,ĐHĐCĐ thường niên năm 2015,,,,
+2015-03-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-01-15,,,Số lượng 80.000.000 cp,,,,
+2016-03-03,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-14,2016-04-14,ĐHCĐ thường niên năm 2016,,,,
+2016-04-15,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu thưởng cho cán bộ,,,,
+2016-04-15,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu để tăng vốn từ nguồn vốn chủ sở hữu tỷ lệ 10:1,,10,,
+2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,Phát hành cổ phiếu để trả cổ tức năm 2015 tỷ lệ 10:1,,10,,2015
+2016-08-03,investorRight,POLL,Lấy ý kiến cổ đông,2016-08-17,,,v/v thông qua điều chỉnh các kế hoạch cân đối nguồn vốn,,,,
+2016-08-29,investorRight,POLL,Lấy ý kiến cổ đông,2016-08-17,2016-09-14,2016-09-14,Về thời điểm trả cổ tức và điều chỉnh phương án phát hành riêng lẻ 120 triệu cổ phiếu,,,,
+2016-09-15,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành riêng lẻ 50 triệu cp để tăng vốn,,,,
+2017-04-10,investorRight,MEETING,Họp cổ đông,2017-03-20,2017-04-21,2017-04-21,ĐHĐCĐ thường niên năm 2017,,,,
+2018-03-26,investorRight,MEETING,Họp cổ đông,2018-03-22,2018-04-10,2018-04-10,ĐHĐCĐ thường niên năm 2018,,,,
+2019-02-01,stockAlert,noticed,Nhắc nhở,2019-01-31,,,Chậm CBTT Nghị quyết HĐQT liên quan đến GD các bên liên quan,,,,
+2019-03-29,investorRight,MEETING,Họp cổ đông,2019-03-22,2019-04-12,2019-04-12,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-11,stockAlert,noticed,Nhắc nhở,2019-04-11,,,Chậm trả cổ tức,,,,
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền đợt 2/2018, tỉ lệ 5%",500,5,2,2018
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền đợt 1/2018, tỉ lệ 5%",500,5,1,2018
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỉ lệ 20%",,20,,2018
+2019-06-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-07-12,2019-08-15,2019-08-15,Trả cổ tức đợt 1/2018 (500 đ/cp),500,5,1,2018
+2019-09-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-10-24,2019-11-29,2019-11-29,Trả cổ tức đợt 2/2018 (500 đ/cp),500,5,2,2018
+2020-06-12,investorRight,MEETING,Họp cổ đông,2020-05-26,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,

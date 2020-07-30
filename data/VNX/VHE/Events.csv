@@ -1,0 +1,8 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2019-01-08,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2019-01-14,,,Giá tham chiếu 15.000 đ/cp,,,,
+2019-01-11,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-01-14,2020-04-01,,Thời gian niêm yết dưới 6 tháng,,,,
+2019-03-06,investorRight,MEETING,Họp cổ đông,2019-03-19,2019-04-06,2019-04-06,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 tỷ lệ 12%,,12,,2019
+2020-06-02,investorRight,MEETING,Họp cổ đông,2020-06-09,2020-06-27,2020-06-27,ĐHCĐ thường niên năm 2020,,,,
+2020-06-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:20",,20,,2019
+2020-06-27,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 5,280,000cp cho CĐCL",,50,,

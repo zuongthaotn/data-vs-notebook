@@ -1,0 +1,16 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-01-19,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2017-02-06,,,Giá tham chiếu 18.000 đ/cp,,,,
+2017-02-06,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-02-06,2017-08-17,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-02-24,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-04-15,2017-04-15,ĐHĐCĐ thường niên năm 2017,,,,
+2017-04-15,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 1,000,000 cp cho người lao động (ESOP), tỷ lệ 100:2",,2,,
+2017-04-15,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 10,000,000 cp cho cổ đông hiện hữu, tỷ lệ 100:20",,20,,
+2017-10-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-11-02,2017-12-20,2017-12-20,Trả cổ tức năm 2016 (500đ/cp),500,5,,2016
+2018-03-02,investorRight,MEETING,Họp cổ đông,2018-03-19,2018-04-16,2018-04-16,ĐHĐCĐ thường niên năm 2018,,,,
+2019-02-22,investorRight,MEETING,Họp cổ đông,2019-03-14,2019-04-16,2019-04-16,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-17,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến phát hành cp trả cổ tức, tỷ lệ 100:5",,5,,2018
+2019-08-16,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-08-16,,,LNST BCTC kiểm soát xét 6 tháng 2019 âm,,,,
+2019-09-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:5",,5,,2017
+2019-09-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:2.5",,2.5,,2018
+2019-09-24,investorRight,MEETING,Họp cổ đông,2019-10-14,2019-10-29,2019-10-29,ĐHĐCĐ bất thường năm 2019,,,,
+2020-04-16,stockAlert,alert,Cảnh báo,2020-04-23,,,LNST 2019 và LNST chưa pp tại 31/12/2019 trong BCTC 2019 âm,,,,
+2020-05-11,investorRight,MEETING,Họp cổ đông,2020-05-29,2020-06-25,2020-06-25,ĐHĐCĐ thường niên năm 2020,,,,

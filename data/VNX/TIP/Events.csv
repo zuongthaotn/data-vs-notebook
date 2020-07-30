@@ -1,0 +1,21 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2012-12-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-12-21,2017-01-05,2017-01-05,Cổ tức đợt 1 năm 2016 (1.000đ/cp),1000,10,1,2016
+2015-10-22,investorRight,KINDDIV,Cổ phiếu thưởng,2015-11-02,2015-11-04,,tỷ lệ: 1:0.5,,50,,
+2016-03-21,investorRight,MEETING,Họp cổ đông,2016-04-04,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức năm 2015 tỉ lệ 5%,,5,,2015
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức năm 2016 tỉ lệ 15%,,15,,2016
+2016-04-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-11,2016-05-25,2016-05-25,Trả cổ tức đợt 2/2015 (500 đ/cp),500,5,2,2015
+2016-05-05,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-06-06,,,Giá tham chiếu 15.000đ/cp,,,,
+2016-06-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-06-15,2017-01-05,,Thời gian niêm yết dưới 06 tháng,,,,
+2016-10-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,Tạm ứng cổ tức đợt 1/2016 (1000 đ/cp),1000,10,1,2016
+2017-02-08,investorRight,MEETING,Họp cổ đông,2017-02-22,2017-03-23,2017-03-23,Đại hội đồng cổ đông thường niên năm 2017,,,,
+2017-03-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-04-11,2017-04-27,2017-04-27,Trả cổ tức đợt 2/2016 (500đ/cp),500,5,2,2016
+2018-02-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-02-27,2018-03-09,2018-03-09,Tạm ứng cổ tức đợt 1/2017 ( 1000 đ/cp ),1000,10,1,2017
+2018-03-23,investorRight,MEETING,Họp cổ đông,2018-02-27,2018-04-04,2018-04-04,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-04-19,2018-05-08,2018-05-08,Trả cổ tức đợt 2/2017 (500 đ/cp),500,5,2,2017
+2018-12-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-01-10,2019-01-24,2019-01-24,Tạm ứng cổ tức đợt 1/2018 (1500 đ/cp),1500,15,1,2018
+2019-02-25,investorRight,MEETING,Họp cổ đông,2019-03-19,2019-04-23,2019-04-23,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-14,2019-05-28,2019-05-28,Trả cổ tức đợt 2/2018 (500 đ/cp),500,5,2,2018
+2019-12-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-30,2020-01-14,2020-01-14,Trả cổ tức đợt 1/2019 (1500 đ/cp),1500,15,1,2019
+2020-04-24,investorRight,MEETING,Họp cổ đông,2020-03-11,2020-05-05,2020-05-05,ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-06,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 14,000,000cp cho CĐHH",,53.84,,

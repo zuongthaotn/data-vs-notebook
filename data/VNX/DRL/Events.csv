@@ -1,0 +1,41 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2012-04-03,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2012-04-11,,,Giá tham chiếu 20.000đ/cp,,,,
+2012-05-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-05-10,2012-05-28,2012-05-28,Cổ tức năm 2012 (588đ/cp),588,5.88,,2012
+2012-05-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-05-10,2012-05-28,2012-05-28,Trả cổ tức còn lại năm 2011 (412đ/cp),412,4.12,,2011
+2013-01-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-01-10,2013-01-28,2013-01-28,Cổ tức năm 2012 (2.000 đ/cp),2000,20,,2012
+2013-03-14,investorRight,MEETING,Họp cổ đông,2013-03-25,2013-04-17,2013-04-17,Đại hội đồng cổ đông  thường niên năm 2013,,,,
+2013-04-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-05-08,2013-05-27,2013-05-27,Trả cổ tức đợt 3.2012 (1175 đ/cp),1175,11.75,3,2012
+2013-11-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-11-22,2013-12-18,2013-12-18,Tạm ứng cổ tức đợt 1.2013(2000đ/cp),2000,20,1,2013
+2014-03-13,investorRight,MEETING,Họp cổ đông,2014-03-25,2014-04-24,2014-04-24,Đại hội cổ đông thường niên năm 2014,,,,
+2014-05-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-05-14,2014-05-30,2014-05-30,Trả cổ tức còn lại 2013 (1116đ/cp),1116,11.16,,2013
+2014-05-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-05-14,2014-05-30,2014-05-30,Tạm ứng cổ tức 2014 (384đ/cp),384,3.84,,2014
+2014-11-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-12-29,2015-01-27,2015-01-27,Trả cổ tức đợt 2/2014 (2000 đ/cp),2000,20,2,2014
+2015-03-09,investorRight,MEETING,Họp cổ đông,2015-03-13,2015-04-15,2015-04-15,ĐHĐCĐ thường niên năm 2015,,,,
+2015-04-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-08,2015-05-28,2015-05-28,Tạm ứng cổ tức năm 2015 (518 đ/cp),518,5.18,,2015
+2015-04-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-08,2015-05-28,2015-05-28,Trả cổ tức còn lại 2014 (982 đ/cp),982,9.82,,2014
+2015-11-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-12-17,2016-01-20,2016-01-20,Trả cổ tức đợt 2/2015 (2000 đ/cp),2000,20,2,2015
+2016-02-03,investorRight,MEETING,Họp cổ đông,2016-02-25,2016-05-20,2016-05-20,ĐHCĐ thường niên năm 2016,,,,
+2016-05-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 tỉ lệ 27.41%/cp,,27.41,,2016
+2016-05-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức còn lại năm 2015 (911đ/cp),911,9.11,,2015
+2016-05-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-07,2016-06-20,2016-06-20,Trả cổ tức năm 2016 (289 đ/cp),289,2.89,,2016
+2016-05-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-07,2016-06-20,2016-06-20,Trả cổ tức còn lại năm 2015 (911 đ/cp),911,9.11,,2015
+2016-12-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-12-30,2017-01-19,2017-01-19,Trả cổ tức năm 2016 (2000 đ/cp),2000,20,,2016
+2017-02-15,investorRight,MEETING,Họp cổ đông,2017-02-23,2017-03-15,2017-03-15,ĐHĐCĐ thường niên năm 2017,,,,
+2017-03-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-04-04,2017-04-24,2017-04-24,Trả cổ tức năm 2016 (1100 đ/cp),1100,11,,2016
+2017-08-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-22,2017-09-11,2017-09-11,Trả cổ tức đợt 1/2017 (2000 đ/cp),2000,20,1,2017
+2017-08-28,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-08-28,,,Vi phạm pháp luật thuế,,,,
+2017-11-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 2/2017 (2000đ/cp),2000,20,2,2017
+2017-12-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-01-08,2018-01-24,2018-01-24,Trả cổ tức đợt 2/2017 (2000 đ/cp),2000,20,2,2017
+2018-04-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-14,2018-05-25,2018-05-25,Tạm ứng cổ tức năm 2018 (3000 đ/cp),3000,30,,2018
+2018-04-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-14,2018-05-25,2018-05-25,Trả cổ tức năm 2017 (3000 đ/cp),3000,30,,2017
+2018-08-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-09-05,2018-09-17,2018-09-17,Tạm ứng trả cổ tức năm 2018 (1500đ/cp),1500,15,,2018
+2018-12-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-01-09,2019-01-21,2019-01-21,Trả cổ tức đợt 3/2018 (2000 đ/cp),2000,20,3,2018
+2019-01-10,investorRight,MEETING,Họp cổ đông,2019-02-25,2019-03-25,2019-03-25,Họp ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-04-19,2019-05-06,2019-05-06,Trả cổ tức đợt 4/2018 (898 đ/cp),898,8.98,4,2018
+2019-04-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-04-19,2019-05-06,2019-05-06,Trả cổ tức đợt 1/2019 (602đ/cp),602,6.02,1,2019
+2019-09-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-10-02,2019-10-15,2019-10-15,Trả cổ tức đợt 2/2019 (2000 đ/cp),2000,20,2,2019
+2019-12-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 3/2019 (2000 đ/cp),2000,20,3,2019
+2019-12-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-20,2020-01-09,2020-01-09,Trả cổ tức đợt 3/2019 (2000 đ/cp),2000,20,3,2019
+2020-01-08,investorRight,MEETING,Họp cổ đông,2020-02-14,2020-03-17,2020-03-17,ĐHĐCĐ thường niên năm 2020,,,,
+2020-04-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-04-24,2020-05-12,2020-05-12,Trả cổ tức đợt 4/2019 (920 đ/cp),920,9.2,4,2019
+2020-04-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-04-24,2020-05-12,2020-05-12,Trả cổ tức năm 2020 (580 đ/cp),580,5.8,,2020

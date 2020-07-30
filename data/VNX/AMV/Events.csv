@@ -1,0 +1,40 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2009-12-30,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2009-12-30,,,Giá tham chiếu 20.000đ/cp,,,,
+2010-04-16,investorRight,MEETING,Họp cổ đông,2010-04-26,2010-05-20,2010-05-20,ĐHCĐ thường niên 2010,,,,
+2010-08-06,investorRight,MEETING,Họp cổ đông,2010-08-13,2010-08-30,2010-08-30,ĐHCĐ bất thường 2010,,,,
+2011-02-08,investorRight,ISSUE,Phát hành thêm,2011-03-04,2011-04-21,,Bán ưu đãi tỷ lệ 1:1 với giá 10.000 đ/cp,,100,,
+2011-04-06,investorRight,MEETING,Họp cổ đông,2011-04-18,2011-05-06,2011-05-06,ĐHĐCĐ thường niên năm 2011,,,,
+2011-09-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2011-09-19,,,Số lượng 15.750 cp,,,,
+2011-10-07,investorRight,POLL,Lấy ý kiến cổ đông,2011-10-12,2011-10-31,2011-10-31,v/v Điều chỉnh phương án chi trả cổ tức bằng cổ phiếu,,,,
+2012-04-09,stockAlert,alert,Cảnh báo,2012-04-09,2013-03-22,,CP thuộc diện cảnh báo,,,,
+2012-04-12,investorRight,MEETING,Họp cổ đông,2012-04-19,2012-05-20,2012-05-20,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2013-01-28,investorRight,MEETING,Họp cổ đông,2013-01-31,2013-02-25,2013-02-25,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-03-21,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2013-03-22,2013-08-22,,CP thuộc diện kiểm soát,,,,
+2014-02-26,stockAlert,alert,Cảnh báo,2014-02-27,2016-03-04,,CP thuộc diện cảnh báo,,,,
+2014-03-19,investorRight,MEETING,Họp cổ đông,2014-03-21,2014-04-25,2014-04-25,Đại hội cổ đông thường niên năm 2014,,,,
+2014-08-25,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cho cổ đông chiến lược,,,,
+2015-01-20,investorRight,MEETING,Họp cổ đông,2015-01-28,2015-03-02,2015-03-02,ĐHĐCĐ thường niên năm 2015,,,,
+2016-02-23,investorRight,MEETING,Họp cổ đông,2016-03-03,2016-04-04,2016-04-04,ĐHCĐ thường niên năm 2016,,,,
+2016-03-03,stockAlert,control,Kiểm soát (Không hạn chế giao dịch),2016-03-04,,,"Lợi nhuận sau thuế năm 2014, 2015 âm",,,,
+2016-03-04,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-03-04,,,Chứng khoán thuộc diện bị kiểm soát,,,,
+2016-07-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-07-05,2019-01-07,,Chứng khoán thuộc diện bị kiểm soát,,,,
+2016-08-11,stockAlert,alert,Cảnh báo,2016-08-12,2018-02-07,,LNST chưa phân phối tại BCTN soát xét năm 2016 là số âm,,,,
+2016-12-29,investorRight,MEETING,Họp cổ đông,2017-01-11,,,ĐHĐCĐ bất thường,,,,
+2017-01-05,investorRight,MEETING,Họp cổ đông,2017-01-19,,,Đại hội cổ đông bất thường năm 2017,,,,
+2017-02-21,schedEvent,schedIssue,Dự kiến phát hành,2017-06-16,2017-06-16,,"Phát hành cổ phiếu cho cổ đông chiến lược 
+",,,,
+2017-05-23,investorRight,MEETING,Họp cổ đông,2017-06-07,,,Họp ĐHĐCĐ thường niên năm 2017,,,,
+2017-08-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-07,,,Số lượng 25000000CP,,,,
+2018-05-03,investorRight,MEETING,Họp cổ đông,2018-05-22,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-11-19,investorRight,POLL,Lấy ý kiến cổ đông,2018-12-05,,,"V/v thay đổi trụ sở chính của công ty 
+",,,,
+2019-04-03,investorRight,MEETING,Họp cổ đông,2019-04-23,,,ĐHĐCĐ thường niên 2019,,,,
+2019-06-10,schedEvent,schedDiv,Dự kiến cổ tức,2019-08-09,2019-08-09,,"Dự kiến trả cổ tức bằng cổ phiếu 2018, tỷ lệ 40%",,40,,2018
+2019-08-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-08-09,2019-08-12,,"Trả cổ tức năm 2018, Tỷ lệ 100:40",,40,,2018
+2019-09-30,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-08-09,2019-11-25,2019-11-25,Thay đổi ngày trả cổ tức năm 2018 từ ngày 01/10/2019 sang ngày 25/11/2019,2000,20,,2018
+2019-10-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-18,,,Số lượng 10846295 cp,,,,
+2019-11-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-08-09,2020-01-15,2020-01-15,Trả cổ tức năm 2018 (2000 đ/cp),2000,20,,2018
+2019-11-21,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-08-09,2020-01-15,2020-01-15,Thay đổi ngày trả cổ tức năm 2018 từ ngày 25/11/2019 sang ngày 15/01/2020,2000,20,,2018
+2020-05-15,investorRight,MEETING,Họp cổ đông,2020-05-27,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (2000 đ/cp),2000,20,,2019
+2020-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:40",,40,,2019

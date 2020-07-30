@@ -1,0 +1,35 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2008-03-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2007-12-27,2008-05-05,2008-05-05,Trả cổ tức năm 2007 (1200 đ/cp),1200,12,,2007
+2008-11-21,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2008-11-21,2020-08-03,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
+2009-02-26,investorRight,MEETING,Họp cổ đông,2009-03-06,2009-04-09,2009-04-09,ĐHCĐ thường niên 2009,,,,
+2009-04-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2009-05-08,2009-06-02,2009-06-02,Trả cổ tức năm 2008 (1500 đ/cp),1500,15,,2008
+2010-03-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-03-22,2010-05-05,2010-05-05,Trả cổ tức năm 2009 (1500 đ/cp),1500,15,,2009
+2010-03-17,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2010-03-22,2010-05-05,2010-05-05,Thay đổi ngày trả cổ tức từ 3/5/2010 sang 5/5/2010,1500,15,,2009
+2010-03-17,investorRight,MEETING,Họp cổ đông,2010-03-22,2010-04-17,2010-04-17,ĐHCĐ thường niên 2010,,,,
+2011-02-22,investorRight,MEETING,Họp cổ đông,2011-02-25,2011-03-25,2011-03-25,ĐHCĐ thường niên 2011,,,,
+2011-05-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-05-25,2011-06-14,2011-06-14,Trả cổ tức năm 2010 (1800 đ/cp),1800,18,,2010
+2011-05-20,investorRight,KINDDIV,Cổ phiếu thưởng,2011-05-25,2011-05-27,,Tỷ lệ 100:50,,50,,
+2011-10-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2011-10-31,,,Số lượng 4.999.229 cp,,,,
+2012-02-09,investorRight,MEETING,Họp cổ đông,2012-02-20,2012-03-24,2012-03-24,ĐHĐCĐ thường niên năm 2012,,,,
+2012-04-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-04-18,2012-05-09,2012-05-09,Trả cổ tức năm 2011 (1500 đ/cp),1500,15,,2011
+2013-01-18,investorRight,MEETING,Họp cổ đông,2013-02-06,2013-03-29,2013-03-29,ĐHĐCĐ thường niên năm 2013,,,,
+2013-04-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-05-03,2013-05-20,2013-05-20,Trả cổ tức năm 2012 (900 đ/cp),900,9,,2012
+2014-01-08,investorRight,MEETING,Họp cổ đông,2014-01-16,2014-03-28,2014-03-28,ĐHĐCĐ thường niên năm 2014,,,,
+2014-04-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-05-07,2014-05-20,2014-05-20,Trả cổ tức năm 2013 (1100đ/cp),1100,11,,2013
+2014-06-30,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2014-06-30,,,Lợi nhuận sau thuế 6 tháng đầu năm 2014 âm,,,,
+2015-01-14,investorRight,MEETING,Họp cổ đông,2015-01-29,2015-03-27,2015-03-27,ĐHCĐ thường niên năm 2015,,,,
+2015-04-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-04-22,2015-05-25,2015-05-25,Trả cổ tức năm 2014 (200đ/cp),200,2,,2014
+2016-01-25,investorRight,MEETING,Họp cổ đông,2016-03-01,2016-04-26,2016-04-26,ĐHCĐ thường niên năm 2016,,,,
+2016-05-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-19,2016-06-15,2016-06-15,Trả cổ tức năm 2015 (400 đ/cp),400,4,,2015
+2016-07-04,schedEvent,schedIssue,Dự kiến phát hành,2016-09-14,2016-09-14,,Phát hành 11.849.390cp tăng vốn điều lệ từ nguồn vốn chủ sở hữu,,79,,
+2016-08-26,investorRight,KINDDIV,Cổ phiếu thưởng,2016-09-14,2016-09-15,,Tỷ lệ 100:79,,79,,
+2016-11-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-12-02,,,"Số lượng 11,847,544 cp",,,,
+2017-02-17,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-04-14,2017-04-14,ĐHĐCĐ thường niên năm 2017,,,,
+2018-02-02,investorRight,MEETING,Họp cổ đông,2018-02-28,2018-04-05,2018-04-05,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-24,2018-06-25,2018-06-25,Trả cổ tức năm 2017 (300 đ/cp),300,3,,2017
+2019-01-16,investorRight,MEETING,Họp cổ đông,2019-02-14,2019-03-14,2019-03-14,ĐHĐCĐ thường niên năm 2019,,,,
+2019-03-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-04-09,2019-04-24,2019-04-24,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
+2019-10-31,investorRight,MEETING,Họp cổ đông,2019-11-19,2019-12-16,2019-12-16,ĐHĐCĐ bất thường năm 2019,,,,
+2020-05-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-05-22,2020-06-10,2020-06-10,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019
+2020-05-21,investorRight,MEETING,Họp cổ đông,2020-06-04,2020-06-26,2020-06-26,ĐHĐCĐ bất thường năm 2020,,,,
+2020-07-27,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-08-04,,,Hủy niêm yết trên HNX,,,,

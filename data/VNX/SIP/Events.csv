@@ -1,0 +1,5 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2019-05-31,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2019-06-06,,,Giá tham chiếu 17200 đ/cp,,,,
+2019-12-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-31,2020-01-17,2020-01-17,Trả cổ tức đợt 1/2019 (1000 đ/cp),1000,10,1,2019
+2020-05-06,investorRight,MEETING,Họp cổ đông,2020-05-28,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-23,2020-08-12,2020-08-12,Trả cổ tức đợt 2/2019 (900 đ/cp),900,9,2,2019

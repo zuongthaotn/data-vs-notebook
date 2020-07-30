@@ -1,0 +1,20 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-09-21,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-10-05,,,Giá tham chiếu 15.000đ/cp,,,,
+2016-10-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-10-05,2017-04-05,,Thời gian niêm yết dưới 06 tháng,,,,
+2016-10-31,schedEvent,schedDiv,Dự kiến cổ tức,2016-12-05,2016-12-05,,"Trả cổ tức năm 2015, tỷ lệ 100:10",,10,,2015
+2016-12-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-12-05,2016-12-06,,"Trả cổ tức năm 2015, Tỷ lệ 100:10",,10,,2015
+2017-01-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-01-12,,,Số lượng 32999442 cp,,,,
+2017-05-08,investorRight,MEETING,Họp cổ đông,2017-05-23,2017-06-24,2017-06-24,ĐHĐCĐ thường niên năm 2017,,,,
+2017-06-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-07-11,2017-08-15,2017-08-15,Trả cổ tức năm 2016 (800 đ/cp),800,8,,2016
+2017-12-05,investorRight,MEETING,Họp cổ đông,2017-12-22,2018-02-12,2018-02-12,ĐHĐCĐ bất thường năm 2017,,,,
+2018-03-16,investorRight,MEETING,Họp cổ đông,2018-04-04,2018-06-15,2018-06-15,ĐHCĐ thường niên năm 2018,,,,
+2018-06-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2017 (850đ/cp),850,8.5,,2017
+2018-06-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-07-05,2018-08-06,2018-08-06,Trả cổ tức năm 2017 (850đ/cp),850,8.5,,2017
+2018-10-25,investorRight,MEETING,Họp cổ đông,2018-11-13,2018-12-14,2018-12-14,ĐHĐCĐ bất thường năm 2018,,,,
+2019-04-23,investorRight,MEETING,Họp cổ đông,2019-05-14,2019-06-15,2019-06-15,Họp ĐHCĐ thường niên năm 2019,,,,
+2019-06-17,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng tiền năm 2018, tỷ lệ 6.9",690,6.9,,2018
+2019-06-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-07-05,2019-08-08,2019-08-08,Trả cổ tức năm 2018 (690 đ/cp),690,6.9,,2018
+2019-11-18,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (450 đ/cp),450,4.5,,2019
+2019-11-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-22,2019-12-20,2019-12-20,Trả cổ tức năm 2019 (450 đ/cp),450,4.5,,2019
+2020-04-23,investorRight,MEETING,Họp cổ đông,2020-05-14,2020-06-20,2020-06-20,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-09,2020-08-10,2020-08-10,Trả cổ tức đợt 2/2019 (550 đ/cp),550,5.5,2,2019

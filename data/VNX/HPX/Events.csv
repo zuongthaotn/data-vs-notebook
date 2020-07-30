@@ -1,0 +1,15 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-07-25,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-07-25,2019-04-05,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-08-27,schedEvent,schedDiv,Dự kiến cổ tức,2018-11-01,2018-11-01,,"Dự kiến trả cổ tức năm 2017, tỷ lệ 100:15",,15,,2017
+2018-10-02,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-11-01,2018-11-02,,"Trả cổ tức năm 2017, Tỷ lệ 100:15",,15,,2017
+2018-12-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-12-14,,,Số lượng 22499985 cp,,,,
+2018-12-06,schedEvent,schedIssue,Dự kiến phát hành,2018-12-20,2018-12-20,,"Phát hành 27.496.497 cp tăng vốn cổ phần từ VCSH, tỷ lệ 100:15.94",,15.94,,
+2018-12-20,investorRight,KINDDIV,Cổ phiếu thưởng,2018-12-20,2018-12-21,,Tỷ lệ 100:15.94,,15.94,,
+2019-01-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-01-24,,,Số lượng 27496320 cp,,,,
+2019-02-21,investorRight,MEETING,Họp cổ đông,2019-03-12,2019-03-29,2019-03-29,ĐHĐCĐ thường niên năm 2019,,,,
+2019-10-17,stockAlert,noticed,Nhắc nhở,2019-10-16,,,Chậm CBTT điều lệ sửa đổi,,,,
+2019-12-25,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 29,999,445cp cho CĐHH",,15,,
+2020-03-03,investorRight,MEETING,Họp cổ đông,2020-03-27,2020-04-24,2020-04-24,ĐHĐCĐ thường niên năm 2020,,,,
+2020-03-16,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-03-27,2020-03-30,,"Trả cổ tức năm 2018, Tỷ lệ 100:15",,15,,2018
+2020-04-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-04-27,,,Số lượng 29999201 cp,,,,
+2020-05-20,investorRight,MEETING,Họp cổ đông,2020-06-08,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,

@@ -1,0 +1,13 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-04-14,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2017-04-21,,,Giá tham chiếu 43.200 đ/cp,,,,
+2017-04-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-04-21,2017-11-16,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-07-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-07-20,2017-08-24,2017-08-24,Trả cổ tức năm 2016 (3224 đ/cp),3224,32.24,,2016
+2018-04-04,investorRight,MEETING,Họp cổ đông,2018-04-10,2018-04-27,2018-04-27,ĐHĐCĐ thường niên năm 2018,,,,
+2018-06-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-25,2018-07-24,2018-07-24,Trả cổ tức năm 2017 (3000đ/cp),3000,30,,2017
+2019-03-19,investorRight,MEETING,Họp cổ đông,2019-04-04,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-30,2019-07-23,2019-07-23,Trả cổ tức năm 2018 (2600 đ/cp),2600,26,,2018
+2019-10-03,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-10-03,2019-10-28,,Chứng khoán không đủ điều kiện giao dịch ký quỹ,,,,
+2020-03-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-03-30,2020-04-27,2020-04-27,Trả cổ tức năm 2019 (2000 đ/cp),2000,20,,2019
+2020-05-08,investorRight,POLL,Lấy ý kiến cổ đông,2020-05-15,,,V/v: Thông qua tổ chức ĐHĐCĐ bằng hình thức trực tuyến,,,,
+2020-05-08,investorRight,MEETING,Họp cổ đông,2020-05-15,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-14,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 443,500cp ra công chúng",,,,

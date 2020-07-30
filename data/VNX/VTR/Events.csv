@@ -1,0 +1,9 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-04-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-18,2017-06-15,2017-06-15,Trả cổ tức năm 2016 (2000đ/cp),2000,20,,2016
+2018-02-28,investorRight,MEETING,Họp cổ đông,2018-03-20,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-25,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-06-04,2018-06-05,,Trả cổ tức bằng cổ phiếu đợt 2 năm 2017(100:30),,30,2,2017
+2019-03-06,investorRight,MEETING,Họp cổ đông,2019-03-22,2019-04-20,2019-04-20,ĐHĐCĐ thường niên năm 2019,,,,
+2019-09-18,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2019-09-27,,,Giá tham chiếu: 40.000 đ/cp,,,,
+2020-01-08,investorRight,POLL,Lấy ý kiến cổ đông,2020-01-30,,,V/v thông qua mức giá phát hành CP riêng lẻ cho dối tác chiến lược năm 2019,,,,
+2020-05-14,investorRight,MEETING,Họp cổ đông,2020-05-27,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-14,schedEvent,schedIssue,Dự kiến phát hành,2020-06-18,2020-06-18,,"Dự kiến phát hành 556,000cp ESOP",,4.57,,

@@ -1,0 +1,9 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-10-10,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-10-18,,,Giá tham chiếu 12.000 đ/cp,,,,
+2018-10-18,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-10-18,,,Thời gian niêm yết dưới 6 tháng,,,,
+2019-03-20,investorRight,MEETING,Họp cổ đông,2019-03-11,2019-03-29,2019-03-29,ĐHĐCĐ thường niên năm 2019,,,,
+2019-07-03,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 4.000.000 cp riêng lẻ cho NĐT, giá 10.000 đ/cp",,,,
+2019-07-04,schedEvent,schedIssue,Dự kiến phát hành,2020-01-17,2020-01-17,,Dự kiến phát hành 7800000 cp để tăng nguồn vốn cổ phần từ nguồn vốn chủ sở hữu,,60,,
+2019-12-31,investorRight,KINDDIV,Cổ phiếu thưởng,2020-01-13,2020-01-14,,Tỷ lệ 100:60,,60,,
+2020-02-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-02-27,,,"Số lượng 7,799,997 cp",,,,
+2020-03-18,investorRight,MEETING,Họp cổ đông,2020-02-28,2020-05-22,2020-05-22,ĐHĐCĐ thường niên năm 2020,,,,

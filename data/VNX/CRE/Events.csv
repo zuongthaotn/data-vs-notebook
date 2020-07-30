@@ -1,0 +1,12 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-08-22,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-09-05,,,Giá tham chiếu 50.000 đ/cp,,,,
+2018-09-06,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-09-06,2019-03-08,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-12-03,investorRight,POLL,Lấy ý kiến cổ đông,2018-12-19,,,V/v tăng vốn điều lệ và các nội dung khác thuộc thẩm quyền của ĐHĐCĐ,,,,
+2019-01-10,schedEvent,schedDiv,Dự kiến cổ tức,2019-02-14,2019-02-14,,"Dự kiến trả cổ tức năm 2018, tỷ lệ 100:15",,15,,2018
+2019-01-10,schedEvent,schedIssue,Dự kiến phát hành,2019-02-14,2019-02-14,,"Dự kiến phát hành 22.500.000 cp tăng vốn điều lệ từ VCSH, tỷ lệ 100:45",,45,,
+2019-01-28,investorRight,KINDDIV,Cổ phiếu thưởng,2019-02-14,2019-02-15,,Tỷ lệ 100:45,,45,,
+2019-01-29,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-02-14,2019-02-15,,"Trả cổ tức năm 2018, Tỷ lệ 100:15",,15,,2018
+2019-03-19,investorRight,MEETING,Họp cổ đông,2019-03-22,2019-04-19,2019-04-19,ĐHĐCĐ thường niên năm 2019,,,,
+2019-03-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 30000000 cp,,,,
+2019-04-22,schedEvent,schedIssue,Dự kiến phát hành,2019-02-14,2019-02-14,,"Dự kiến phát hành cổ phiếu cho cổ đông hiện hữu, tỉ lệ 100:100",,100,,
+2020-05-15,investorRight,MEETING,Họp cổ đông,2020-05-25,,,ĐHĐCĐ thường niên năm 2020,,,,

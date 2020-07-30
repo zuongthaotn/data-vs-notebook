@@ -1,0 +1,36 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-06-27,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-07-11,,,Giá tham chiếu 11.000 đ/cp,,,,
+2016-07-07,investorRight,MEETING,Họp cổ đông,2016-06-06,2016-07-17,2016-07-17,ĐHĐCĐ thường niên năm 2016,,,,
+2016-08-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2015 tỷ lệ 2000:107,,5.36,,2015
+2016-09-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-09-19,2016-09-20,,"Trả cổ tức năm 2015, Tỷ lệ 100:5.36",,5.36,,2015
+2016-11-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-09,,,Số lượng 1606621 cp,,,,
+2017-03-01,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-07-11,2018-08-23,,Thời gian niêm yết dưới 06 tháng,,,,
+2017-05-15,investorRight,MEETING,Họp cổ đông,2017-03-16,2017-05-25,2017-05-25,ĐHĐCĐ thường niên năm 2017,,,,
+2017-05-26,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành 47409931 cp cho CĐHH, tỷ lệ 100:150",,150,,
+2017-05-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền mặt năm 2016, tỷ lệ 200đ/cp",200,2,,2016
+2017-05-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Phát hành cổ phiếu để trả cổ tức năm 2016, tỷ lệ 3%",,3,,2016
+2017-12-15,investorRight,MEETING,Họp cổ đông,2017-12-06,2017-12-29,2017-12-29,ĐHĐCĐ bất thường năm 2017,,,,
+2017-12-29,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 47.000.000 cp chào bán riêng lẻ,,,,
+2017-12-29,schedEvent,schedDiv,Dự kiến cổ tức,2019-07-09,2019-07-09,,"Dự kiến trả cổ tức năm 2017 bằng cổ phiếu, tỷ lệ 100:3",,3,,2017
+2018-03-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-03-12,2018-04-05,2018-04-05,Trả cổ tức năm 2016 (200 đ/cp),200,2,,2016
+2018-03-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-03-12,2018-03-13,,"Trả cổ tức năm 2016, Tỷ lệ 100:3",,3,,2016
+2018-04-12,stockAlert,noticed,Nhắc nhở,2018-04-11,,,Chậm CBTT KQ phát hành cp để trả cổ tức,,,,
+2018-04-19,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 22.500.000 cp riêng lẻ đợt 2, giá 10.000 đ/cp",,,,
+2018-04-19,schedEvent,schedIssue,Dự kiến phát hành,2018-10-18,2018-10-18,,"Dự kiến phát hành 24.500.000 cp riêng lẻ đợt 1, giá 10.000 đ/cp",,,,
+2018-05-03,stockAlert,noticed,Nhắc nhở,2018-05-02,,,Chậm công bố thay đổi GCNĐKDN lần 17,,,,
+2018-06-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-06-21,,,"Số lượng 947,677 cp",,,,
+2018-08-22,stockAlert,alert,Cảnh báo,2018-08-29,,,LNST Quý I/2020 âm,,,,
+2018-08-23,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-23,,,Chứng khoán thuộc diện cảnh báo,,,,
+2018-08-31,investorRight,MEETING,Họp cổ đông,2018-09-13,2018-09-29,2018-09-29,ĐHĐCĐ thường niên năm 2018,,,,
+2018-10-24,stockAlert,noticed,Nhắc nhở,2018-10-23,,,Chậm CBTT kết quả phát hành cổ phiếu để trả cổ tức,,,,
+2019-04-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-12-23,,,"Số lượng 24,500,000 cp",,,,
+2019-06-18,stockAlert,noticed,Nhắc nhở,2019-06-18,,,Nhắc nhở chậm CBTT,,,,
+2019-06-21,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-07-09,2019-07-10,,"Trả cổ tức năm 2017, Tỷ lệ 100:3",,3,,2017
+2019-08-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-09-19,,,"Số lượng 1,710,734 cp",,,,
+2019-08-24,investorRight,MEETING,Họp cổ đông,2019-09-12,2019-09-29,2019-09-29,ĐHĐCĐ thường niên năm 2019,,,,
+2020-04-08,schedEvent,schedDiv,Dự kiến cổ tức,2020-05-23,2020-05-23,,Dự kiến trả cổ tức năm 2018 (150 đ/cp),150,1.5,,2018
+2020-05-26,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-05-07,2020-06-16,2020-06-16,Thay đổi thời gian trả cổ tức năm 2018(150đ/1cp) từ 26/05/2020 sang 16/06/2020,150,1.5,,2018
+2020-06-10,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-05-07,2020-08-17,2020-08-17,Thay đổi thời gian trả cổ tức năm 2018(150đ/1cp) từ 16/6/2020 đến 17/8/2020,150,1.5,,2019
+2020-06-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-05-07,2020-08-17,2020-08-17,Trả cổ tức năm 2018 (150 đ/cp),150,1.5,,2018
+2020-06-12,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-05-07,2020-08-17,2020-08-17,Thay đổi ngày trả cổ tức năm 2018 từ ngày 26/05/2020 sang ngày 17/08/2020,150,1.5,,2018
+2020-07-20,stockAlert,noticed,Nhắc nhở,2020-07-17,,,Không công bố thông tin giao dịch cổ phiếu quỹ,,,,

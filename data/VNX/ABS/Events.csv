@@ -1,0 +1,6 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-07-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:25",,25,,2019
+2020-02-27,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-03-18,,,Giá tham chiếu: 10.800 đ/cp,,,,
+2020-03-18,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-03-18,,,Thời gian niêm yết dưới 06 tháng,,,,
+2020-03-24,investorRight,MEETING,Họp cổ đông,2020-04-10,2020-04-29,2020-04-29,ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-10,2020-06-30,2020-06-30,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019

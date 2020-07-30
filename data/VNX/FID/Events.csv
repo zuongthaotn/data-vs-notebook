@@ -1,0 +1,27 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-05-13,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2015-05-20,,,Giá tham chiếu 11.500đ/cp,,,,
+2015-06-01,investorRight,MEETING,Họp cổ đông,2015-06-05,,,ĐHĐCĐ thường niên 2015,,,,
+2015-09-30,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2015-10-13,2015-10-15,,"Trả cổ tức năm 2014, Tỷ lệ 100:10",,10,,2014
+2015-11-23,investorRight,MEETING,Họp cổ đông,2015-12-01,,,Đại hội cổ đông bất thường năm 2015,,,,
+2015-11-25,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-05-20,2015-11-26,,Thời gian niêm yết dưới 6 tháng,,,,
+2015-11-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-12-01,,,Số lượng 999.999 cp,,,,
+2016-03-16,investorRight,ISSUE,Phát hành thêm,2016-03-25,2016-05-11,,"Phát hành 10,999,999 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:100",,100,,
+2016-06-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-06-17,,,"Số lượng 10,999,999 cp",,,,
+2016-06-13,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2016-06-17,2016-05-23,,7827089 cp niêm yết bổ sung bị hạn chế chuyển nhượng,,,,
+2016-06-14,investorRight,MEETING,Họp cổ đông,2016-06-23,,,ĐHĐCĐ thường niên năm 2016,,,,
+2016-08-09,investorRight,MEETING,Họp cổ đông,2016-08-18,2016-09-08,2016-09-08,ĐHĐCĐ bất thường năm 2016,,,,
+2016-09-13,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-25,2016-10-25,,"Trả cổ tức năm 2015 , tỷ lệ 100:7",,7,,2015
+2016-10-17,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-25,2016-10-26,,"Trả cổ tức năm 2015, Tỷ lệ 100:7",,7,,2015
+2017-01-17,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2017-01-20,2018-08-20,,Không tuân thủ quy định về quản trị công ty,,,,
+2017-01-17,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-01-20,2018-09-20,,CP thuộc diện bị kiểm soát và hạn chế giao dịch,,,,
+2017-04-20,stockAlert,alert,Cảnh báo,2017-04-21,2018-08-20,,Chậm CBTT BCTC kiểm toán 2016 quá 15 ngày làm việc,,,,
+2017-04-24,investorRight,MEETING,Họp cổ đông,2017-01-24,,,ĐHĐCĐ bất thường năm 2017,,,,
+2017-06-06,investorRight,POLL,Lấy ý kiến cổ đông,2017-06-14,2017-06-26,2017-06-26,V/v chuyển đổi hình thức chi trả cổ tức và kế hoạch 2017,,,,
+2017-06-26,investorRight,MEETING,Họp cổ đông,2017-06-15,2017-07-03,2017-07-03,ĐHĐCĐ thường niên năm 2017,,,,
+2017-09-19,investorRight,POLL,Lấy ý kiến cổ đông,2017-09-29,2017-10-16,2017-10-16,v/v thay đổi địa chỉ mới để chuyển trụ sở đăng ký của Công ty,,,,
+2018-05-29,investorRight,MEETING,Họp cổ đông,2018-06-11,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-07-04,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 1.176.000 cp ESOP, giá 10.000 đ/cp",,,,
+2018-08-20,stockAlert,alert,Cảnh báo,2018-08-20,2019-07-03,,CP không vi phạm sau 6 tháng vào diện kiểm soát,,,,
+2018-09-19,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-09-20,,,LNST T6.2019 âm,,,,
+2019-04-01,investorRight,MEETING,Họp cổ đông,2019-04-10,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2020-03-18,investorRight,MEETING,Họp cổ đông,2020-04-01,,,ĐHĐCĐ thường niên năm 2020,,,,

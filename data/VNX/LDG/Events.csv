@@ -1,0 +1,40 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-08-05,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2015-08-12,,,Giá tham chiếu 14.000đ/cp,,,,
+2015-08-12,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-08-12,,,Thời gian niêm yết dưới 6 tháng,,,,
+2015-08-20,investorRight,MEETING,Họp cổ đông,2015-09-07,,,ĐHĐCĐ bất thường năm 2015,,,,
+2015-11-13,investorRight,MEETING,Họp cổ đông,2015-11-24,,,Tổ chức Đại hội đồng cổ đông bất thường lần 2 năm 2015,,,,
+2016-02-16,investorRight,MEETING,Họp cổ đông,2016-03-01,2016-04-04,2016-04-04,ĐHĐCĐ thường niên năm 2016,,,,
+2016-06-21,investorRight,POLL,Lấy ý kiến cổ đông,2016-07-06,2016-07-30,2016-07-30,V/v phát hành cổ phiếu trả cổ tức năm 2015,,,,
+2016-08-03,schedEvent,schedDiv,Dự kiến cổ tức,2016-09-09,2016-09-09,,Dự kiến phát hành tối đa 13.500.000 cổ phiếu để trả cổ tức năm 2015  tỷ lệ 100:18,,18,,2015
+2016-08-29,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-09-09,2016-09-12,,"Trả cổ tức năm 2015, Tỷ lệ 100:18",,18,,2015
+2016-10-07,stockAlert,noticed,Nhắc nhở,2016-10-06,,,Chậm CBTT thay đổi SLCP có quyền biểu quyết đang lưu hành,,,,
+2016-10-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-03,,,Số lượng 13499755 cp,,,,
+2016-12-19,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành 61.500.245 CP để tăng vốn điều lệ,,,,
+2017-02-14,investorRight,MEETING,Họp cổ đông,2017-01-03,2017-02-13,2017-02-13,ĐHĐCĐ thường niên năm 2017,,,,
+2017-02-14,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-26,2017-06-26,,"Trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 5:1",,20,,2016
+2017-02-14,schedEvent,schedIssue,Dự kiến phát hành,2017-07-10,2017-07-10,,Phát hành 300000 cổ phiếu ESOP,,,,
+2017-02-14,schedEvent,schedIssue,Dự kiến phát hành,2017-09-19,2017-09-19,,Phát hành cổ phiếu cho nhà đầu tư chiến lược 53500294cp,,,,
+2017-06-07,investorRight,POLL,Lấy ý kiến cổ đông,2017-06-26,,,"V/v: Thành lập công ty con đảm nhiệm đầu tư, phát triển",,,,
+2017-06-12,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-06-26,2017-06-27,,"Trả cổ tức năm 2016, Tỷ lệ 100:20",,20,,2016
+2017-08-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-17,,,"Số lượng 17,699,757 cp",,,,
+2017-08-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-07-10,,,Số lượng 258000 cp,,,,
+2017-10-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 53500294 cp,,,,
+2018-02-26,investorRight,MEETING,Họp cổ đông,2018-02-06,2018-03-09,2018-03-09,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến phát hành 2.879.405 cp để trả cổ tức năm 2017, tỷ lệ 100:18",,18,,2017
+2018-05-24,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-06-06,2018-06-07,,"Trả cổ tức năm 2017, Tỷ lệ 100:18",,18,,2017
+2018-06-06,schedEvent,schedIssue,Dự kiến phát hành,2018-06-06,2018-06-06,,Phát hành 28791648 cổ phiếu trong năm 2018,,,,
+2018-07-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-07-13,,,"Số lượng 28,791,648 cp",,,,
+2018-08-29,schedEvent,schedIssue,Dự kiến phát hành,2018-09-18,2018-09-18,,Dự kiến phát hành 2.000.000 cp ESOP,,1.06,,
+2018-10-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 1865000 cp,,,,
+2018-10-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-09-18,,,Số lượng 559500 cp,,,,
+2018-10-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-18,,,Số lượng 559500 cp,,,,
+2019-01-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
+2019-01-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng cổ phiếu năm 2019, tỉ lệ 100:15",,15,,2019
+2019-02-27,investorRight,MEETING,Họp cổ đông,2019-02-01,2019-03-11,2019-03-11,ĐHĐCĐ thường niên năm 2019,,,,
+2019-03-04,stockAlert,noticed,Nhắc nhở,2019-03-01,,,Chậm CB thay đổi SLCP có quyền biểu quyết đang lưu hành,,,,
+2019-03-11,schedEvent,schedIssue,Dự kiến phát hành,2019-05-09,2019-05-09,,"Phát hành 2,000,000cp ESOP",,,,
+2019-04-23,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-05-09,2019-05-10,,"Trả cổ tức năm 2018, Tỷ lệ 100:25",,25,,2018
+2019-06-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 49597997 cp,,,,
+2019-06-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-06-25,,,Số lượng 47636997 cp,,,,
+2019-06-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2022-05-23,,,Số lượng 1961000 cp,,,,
+2020-06-05,investorRight,MEETING,Họp cổ đông,2020-02-07,2020-06-18,2020-06-18,ĐHĐCĐ thường niên năm 2020,,,,

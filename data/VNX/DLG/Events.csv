@@ -1,0 +1,55 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2010-06-14,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2010-06-22,,,Giá tham chiếu 25.000đ/cp,,,,
+2010-09-13,investorRight,POLL,Lấy ý kiến cổ đông,2010-09-20,,,Lấy ý kiến cổ đông bằng văn bản,,,,
+2010-11-12,investorRight,POLL,Lấy ý kiến cổ đông,2010-11-23,,,Lấy ý kiến cổ đông bằng văn bản,,,,
+2011-01-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2011-02-11,2011-02-15,,"Trả cổ tức năm 2009, Tỷ lệ 100:6.6",,6.6,,2009
+2011-01-28,investorRight,KINDDIV,Cổ phiếu thưởng,2011-02-11,2011-02-15,,Tỷ lệ 100:3.4,,3.4,,
+2011-01-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-02-11,2011-03-04,2011-03-04,Trả cổ tức 6 tháng cuối năm 2010 (2.000 đ/cp),2000,20,,2010
+2011-04-14,investorRight,MEETING,Họp cổ đông,2011-04-25,2011-05-28,2011-05-28,ĐHCĐ thường niên năm 2011,,,,
+2011-08-17,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2011-08-26,2011-08-30,,"Trả cổ tức năm 2010, Tỷ lệ 100:10",,10,,2010
+2011-09-22,investorRight,POLL,Lấy ý kiến cổ đông,2011-09-30,,,xin ý kiến thông qua niêm yết bổ sung cp phát hành chi trả cổ tức,,,,
+2011-11-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2011-12-05,,,Số lượng 3.200.881 cp,,,,
+2012-03-14,investorRight,MEETING,Họp cổ đông,2012-03-22,2012-04-14,2012-04-14,ĐHCĐ thường niên 2012,,,,
+2012-09-05,stockAlert,warning,Cảnh cáo toàn thị trường,2012-09-05,,,CP bị cảnh cáo toàn thị trường,,,,
+2012-09-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2012-10-05,,,Số lượng 31.874.400 cp,,,,
+2013-04-18,investorRight,MEETING,Họp cổ đông,2013-04-26,2013-05-25,2013-05-25,Đại hội đồng cổ đông  thường niên năm 2013,,,,
+2013-04-24,stockAlert,noticed,Nhắc nhở,2013-04-24,,,CP bị nhắc nhở,,,,
+2013-11-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2013-12-06,,,Số lượng  2.659.790 cp,,,,
+2014-03-18,investorRight,MEETING,Họp cổ đông,2014-03-26,2014-04-28,2014-04-28,Đại hội cổ đông thường niên năm 2014,,,,
+2014-07-25,investorRight,ISSUE,Phát hành thêm,2014-08-05,2014-09-12,,"Tỷ lệ 1:1, giá 10.000đ/cp",,100,,
+2014-07-25,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2014-08-05,2014-08-07,,"Trả cổ tức năm 2013, Tỷ lệ 100:6",,6,,2013
+2014-07-25,investorRight,KINDDIV,Cổ phiếu thưởng,2014-08-05,2014-08-07,,Tỷ lệ 100:8,,8,,
+2014-08-19,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cho ESOP,,,,
+2014-08-19,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành cho CĐHH, tỷ lệ 1:1",,100,,
+2014-08-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Phát hành để trả cổ tức năm 2013,,,,2013
+2014-08-19,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành để tăng vốn điều lệ năm 2014, tỷ lệ 100:8",,8,,
+2014-10-17,investorRight,MEETING,Họp cổ đông,2014-10-24,2014-11-27,2014-11-27,Đại hội đồng cổ đông bất thường năm 2014,,,,
+2014-10-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-10-29,,,"Số lượng 79.508.610 cp,",,,,
+2015-01-15,stockAlert,noticed,Nhắc nhở,2015-01-15,,,Chậm nộp BCTC kiểm toán năm 2014,,,,
+2015-03-04,investorRight,MEETING,Họp cổ đông,2015-03-16,2015-04-24,2015-04-24,ĐHĐCĐ thường niên năm 2015,,,,
+2015-08-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-18,,,Số lượng 19.932.609 cp,,,,
+2016-03-04,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-16,2016-04-16,ĐHCĐ thường niên năm 2016,,,,
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2016 (800đ/cp),800,8,,2016
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,2016-12-02,2016-12-02,,Phát hành cổ phiếu để trả cổ tức năm 2015 tỷ lệ 3%,,3,,2015
+2016-04-19,schedEvent,schedIssue,Dự kiến phát hành,2016-12-02,2016-12-02,,Phát hành 4.383.722 cổ phiếu thưởng để tăng vốn tỷ lệ 2%,,2,,
+2016-04-19,schedEvent,schedIssue,Dự kiến phát hành,2016-12-02,2016-12-02,,Chào bán 219.186.117 cp cho cổ đông hiện hữu,,,,
+2016-05-04,schedEvent,schedIssue,Dự kiến phát hành,2016-05-27,2016-05-27,,"Dự khiến phát hành 5000000 CP chuyển đổi trước hạn trái phiếu chuyển đổi phát hành năm 2015, tỷ lệ 100:1000",,,,
+2016-05-25,stockAlert,noticed,Nhắc nhở,2016-05-25,,,Chậm nộp CBTT về báo cáo tiến độ sử dụng vốn theo quy định,,,,
+2016-06-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-06-14,,,"Số lượng 50,000,000 cp",,,,
+2016-08-15,schedEvent,schedIssue,Dự kiến phát hành,,,,"Chào bán 199.186.117 cp , tỷ lệ 100: 90.88",,90.88,,
+2016-11-22,investorRight,KINDDIV,Cổ phiếu thưởng,2016-12-02,2016-12-05,,Tỷ lệ 100:2,,2,,
+2016-11-22,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-12-02,2016-12-05,,"Trả cổ tức năm 2015, Tỷ lệ 100:3",,3,,2015
+2017-01-06,investorRight,ISSUE,Phát hành thêm,2016-12-02,2017-02-08,,"Phát hành 199,186,117 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:90.88",,90.88,,
+2017-01-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-01-20,,,Số lượng 10958225 cp,,,,
+2017-02-13,schedEvent,schedIssue,Dự kiến phát hành,2017-02-13,2017-02-13,,Dự kiến chào bán cổ phiếu ra công chúng,,,,
+2017-03-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-03-10,,,Số lượng 54913473 cp,,,,
+2017-03-14,investorRight,MEETING,Họp cổ đông,2017-03-27,2017-04-29,2017-04-29,Đại hội cổ đông thường niên năm 2017,,,,
+2017-10-04,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-10-04,,,BCTC HN soát xét 2Q.2017 có ý kiến ngoại trừ của kiểm toán.,,,,
+2018-05-14,investorRight,MEETING,Họp cổ đông,2018-04-27,2018-06-23,2018-06-23,ĐHĐCĐ thường niên năm 2018,,,,
+2018-06-25,schedEvent,schedDiv,Dự kiến cổ tức,2018-10-03,2018-10-03,,"Dự kiến phát hành 14.252.890 cp trả cổ tức năm 2017, tỷ lệ 100:5",,5,,2017
+2018-09-19,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-10-03,2018-10-04,,"Trả cổ tức năm 2017, Tỷ lệ 100:5",,5,,2017
+2018-11-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-11-08,,,Số lượng 14251905CP,,,,
+2019-05-13,investorRight,MEETING,Họp cổ đông,2019-05-24,2019-06-29,2019-06-29,Họp ĐHĐCĐ thường niên năm 2019,,,,
+2019-08-06,stockAlert,noticed,Nhắc nhở,2019-08-06,,,Nhắc nhở chậm CBTT,,,,
+2020-05-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-05-21,,,BCTC hợp nhất 2019 không có ý kiến chấp nhận toàn phần,,,,
+2020-05-22,stockAlert,alert,Cảnh báo,2020-05-29,,,LNST năm 2019 âm,,,,

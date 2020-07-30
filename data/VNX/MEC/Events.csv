@@ -1,0 +1,45 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2006-12-14,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2006-12-14,2020-05-25,,,,,,
+2007-03-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2007-03-27,2007-04-25,2007-04-25,Cổ tức năm 2006 (1.500 đ/cp),1500,15,,2006
+2007-03-23,investorRight,MEETING,Họp cổ đông,2007-03-27,2007-04-20,2007-04-20,ĐHCĐ thường niên năm 2007,,,,
+2007-07-17,investorRight,ISSUE,Phát hành thêm,2007-07-23,2007-08-30,,Tỷ lệ 5:9 với giá 10.000 đ/cp,,180,,
+2007-07-17,investorRight,POLL,Lấy ý kiến cổ đông,2007-07-23,2007-08-06,2007-08-06,Lấy ý kiến cổ đông về việc niêm yết bổ sung số cổ phiếu phát hành thêm cho cổ đông hiện hữu,,,,
+2008-03-21,investorRight,MEETING,Họp cổ đông,2008-03-28,2008-04-26,2008-04-26,ĐHCĐ thường niên 2008,,,,
+2008-03-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2008-03-28,2008-05-16,2008-05-16,Cổ tức năm 2007 (1.200 đ/cp),1200,12,,2007
+2009-02-26,investorRight,MEETING,Họp cổ đông,2009-03-05,2009-04-22,2009-04-22,ĐHCĐ thường niên 2009,,,,
+2009-02-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2009-03-05,2009-06-01,2009-06-01,Cổ tức năm 2008 (1.500 đ/cp),1500,15,,2008
+2009-11-24,investorRight,ISSUE,Phát hành thêm,2009-12-02,2010-01-19,,"Tỷ lệ thực hiện 4:3, giá 10000đ/cp",,75,,
+2010-03-12,investorRight,MEETING,Họp cổ đông,2010-03-17,2010-04-10,2010-04-10,ĐHCĐ thường niên 2010,,,,
+2010-10-13,investorRight,POLL,Lấy ý kiến cổ đông,2010-10-20,,,Lấy ý kiến cổ đông văn bản,,,,
+2010-11-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-11-16,2010-12-01,2010-12-01,Cổ tức đợt 2/2009 (400 đ/cp),400,4,2,2009
+2011-02-24,investorRight,MEETING,Họp cổ đông,2011-03-02,2011-04-02,2011-04-02,ĐHCĐ thường niên 2011,,,,
+2012-02-22,investorRight,MEETING,Họp cổ đông,2012-03-02,2012-04-26,2012-04-26,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2012-02-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-03-02,2012-10-02,2012-10-02,Trả cổ tức năm 2010 (1.500 đ/cp) (Thay đổi ngày thanh toán),1500,15,,2010
+2012-07-24,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,,2012-10-20,2012-10-20,Cổ tức 1.500đ. Thay đổi ngày TT 20.06.2012 sang 20.10.2012,,,,
+2012-10-02,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2012-03-02,2012-12-28,2012-12-28,Trả cổ tức năm 2010 (1.500 đ/cp) (Thay đổi ngày thanh toán),,,,
+2013-01-03,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2012-03-02,2013-06-28,2013-06-28,Thay đổi ngày TT cổ tức năm 2010 từ 28/12/2012 sang 28/6/2013,,,,
+2013-02-19,investorRight,MEETING,Họp cổ đông,2013-02-25,2013-04-26,2013-04-26,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-09-27,investorRight,MEETING,Họp cổ đông,2013-10-02,2013-11-05,2013-11-05,Đại hội cổ đông bất thường năm 2013,,,,
+2014-01-16,investorRight,MEETING,Họp cổ đông,2014-02-06,2014-05-17,2014-05-17,Đại hội đồng cổ đông thường niên 2014,,,,
+2014-09-15,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-09-22,,,Số lượng: 735000 cp,,,,
+2015-02-14,investorRight,MEETING,Họp cổ đông,2015-03-05,2015-04-27,2015-04-27,ĐHĐCĐ thường niên năm 2015,,,,
+2015-07-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-07-16,2015-11-02,2015-11-02,Trả cổ tức năm 2011 (900đ/cp),900,9,,2011
+2015-10-12,investorRight,MEETING,Họp cổ đông,2015-10-16,2015-11-21,2015-11-21,ĐHĐCĐ bất thường năm 2015,,,,
+2016-05-17,investorRight,MEETING,Họp cổ đông,2016-03-10,2016-06-08,2016-06-08,ĐHĐCĐ thường niên năm 2016,,,,
+2016-06-10,schedEvent,schedDiv,Dự kiến cổ tức,2016-09-21,2016-09-21,,Dự kiến phát hành 618800 cp để trả cổ tức năm 2012 tỷ lệ 100 : 8,,8,,2012
+2016-09-07,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-09-21,2016-09-22,,"Trả cổ tức năm 2012, Tỷ lệ 100:8",,8,,2012
+2016-11-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-11,,,Số lượng 618620 cp,,,,
+2017-03-09,stockAlert,alert,Cảnh báo,2017-03-10,2017-09-11,,"LNST Cty mẹ, LNST chưa phân phối tại ngày 31/12/2016 âm",,,,
+2017-03-09,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-03-10,2017-10-04,,CP bị đưa vào diện bị cảnh báo,,,,
+2017-04-07,investorRight,MEETING,Họp cổ đông,2017-03-03,2017-04-26,2017-04-26,ĐHĐCĐ thường niên năm 2017,,,,
+2017-08-11,investorRight,MEETING,Họp cổ đông,2017-07-13,2017-08-25,2017-08-25,ĐHĐCĐ bất thường năm 2017,,,,
+2017-11-09,stockAlert,noticed,Nhắc nhở,2017-11-08,,,Vi phạm CBTT 3 lần từ ngày 01.01.2017,,,,
+2018-02-28,investorRight,MEETING,Họp cổ đông,2018-03-23,2018-04-07,2018-04-07,ĐHĐCĐ thường niên năm 2018,,,,
+2018-09-06,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-09-07,,,Chậm nộp BCTC bán niên năm 2019,,,,
+2019-03-22,investorRight,MEETING,Họp cổ đông,2019-04-05,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-05,stockAlert,alert,Cảnh báo,2019-04-09,2020-06-03,,LNSTcủa CTM năm 2018 và LNST chưa phân phối trên BCTC âm,,,,
+2019-10-04,stockAlert,noticed,Nhắc nhở,2019-10-03,,,Vi phạm công bố thông tin 3 lần từ ngày 01.01.2019,,,,
+2020-04-27,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-05-26,,,Hủy niêm yết trên HNX,,,,
+2020-05-26,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-06-02,,,Giá tham chiếu 500 đ/cp,,,,
+2020-06-01,investorRight,MEETING,Họp cổ đông,2020-06-11,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-09,investorRight,MEETING,Họp cổ đông,2020-06-22,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,

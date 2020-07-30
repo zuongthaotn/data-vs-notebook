@@ -1,0 +1,19 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-10-19,investorRight,MEETING,Họp cổ đông,2016-10-28,,,ĐHĐCĐ bất thường năm 2016,,,,
+2016-12-27,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-01-03,2019-04-22,,Giá tham chiếu 28.000 đ/cp,,,,
+2017-02-09,investorRight,MEETING,Họp cổ đông,2016-12-14,2017-02-20,2017-02-20,Đại hội đồng cổ đông bất thường năm 2017,,,,
+2017-05-11,investorRight,MEETING,Họp cổ đông,2017-05-25,2017-06-20,2017-06-20,ĐHCĐ thường niên năm 2017,,,,
+2017-06-20,schedEvent,schedIssue,Dự kiến phát hành,2018-04-19,2018-04-19,,Dự kiến phát hành 191.191.377cp chào bán cho cổ đông hiện hữu,,15.58,,
+2017-07-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-31,2017-10-02,2017-10-02,Trả cổ tức năm 2016 (600 đ/cp),600,6,,2016
+2018-01-19,investorRight,POLL,Lấy ý kiến cổ đông,2018-01-29,,,V/v Phương án vốn cho 04 tàu bay Airbus A350 có lịch nhận năm 2018-2019,,,,
+2018-04-13,investorRight,MEETING,Họp cổ đông,2018-04-19,2018-05-10,2018-05-10,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-31,2018-06-29,2018-06-29,Trả cổ tức năm 2017 (800 đ/cp),800,8,,2017
+2018-07-03,investorRight,ISSUE,Phát hành thêm,2018-04-19,2018-07-31,,"Phát hành 191,191,377 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:15.58",,15.58,,
+2019-02-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-02-22,,,Số lượng 190757069 cp,,,,
+2019-04-03,investorRight,MEETING,Họp cổ đông,2019-04-18,2019-05-10,2019-05-10,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-17,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2019-04-23,,,Hủy niêm yết trên UPCOM,,,,
+2019-04-24,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2019-05-07,,,Giá tham chiếu 40.600 đ/cp,,,,
+2019-05-07,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-05-07,2020-01-05,,Thời gian niêm yết dưới 6 tháng,,,,
+2019-05-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-31,2019-06-28,2019-06-28,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
+2020-04-06,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-04-06,2020-07-03,,BCTC HN 6 tháng 2019 không có ý kiến chấp nhận toàn phần,,,,
+2020-05-27,investorRight,MEETING,Họp cổ đông,2020-06-12,2020-08-10,2020-08-10,ĐHĐCĐ thường niên năm 2020,,,,

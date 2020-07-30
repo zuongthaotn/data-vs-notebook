@@ -1,0 +1,25 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-10-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-10-20,2015-11-16,2015-11-16,Tạm ứng cổ tức đợt 1/2015 (400đ/cp),400,4,1,2015
+2016-03-24,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2016-03-30,2016-11-24,,Giá tham chiếu 16.000 đ/cp,,,,
+2016-04-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 (1000đ/cp),1000,10,,2016
+2016-05-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-01,2016-06-15,2016-06-15,Trả cổ tức đợt 2/2015 (500 đ/cp),500,5,2,2015
+2016-10-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-25,2016-11-04,2016-11-04,Cổ tức đợt 1 năm 2016 (500đ/cp),500,5,1,2016
+2016-11-21,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2016-11-25,2016-11-30,,Hủy niêm yết trên UPCOM,,,,
+2016-11-24,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2016-11-30,,,Giá tham chiếu 24.900 đ/cp,,,,
+2016-11-29,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-11-29,2017-07-05,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-03-09,investorRight,MEETING,Họp cổ đông,2017-03-20,,,ĐHĐCĐ thường niên năm 2017,,,,
+2017-04-19,schedEvent,schedIssue,Dự kiến phát hành,2017-12-28,2017-12-28,,"Dự kiến phát hành 33.000.000cp cho CĐHH, tỷ lệ 2:1",,50,,
+2017-05-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-24,2017-06-12,2017-06-12,Trả cổ tức đợt 2/2016 (500 đ/cp),500,5,2,2016
+2017-12-01,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-12-14,2017-12-28,2017-12-28,Trả cổ tức đợt 1/2017 (500 đ/cp),500,5,1,2017
+2017-12-21,investorRight,ISSUE,Phát hành thêm,2017-12-28,2018-02-27,,"Phát hành 33,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:50",,50,,
+2018-03-19,investorRight,MEETING,Họp cổ đông,2018-04-06,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-06-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-06-14,,,Số lượng 33000000 cp,,,,
+2018-08-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-08-30,2018-09-10,2018-09-10,Trả cổ tức đợt 1/2018 (500 đ/cp),500,5,1,2018
+2018-09-19,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-09-20,2019-04-05,,Chậm CBTT BCTC bán niên đã soát xét quá 5 ngày,,,,
+2018-12-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-12-27,2019-01-25,2019-01-25,Tạm ứng cổ tức đợt 2/2018 (200 đ/cp),200,2,2,2018
+2019-06-10,investorRight,MEETING,Họp cổ đông,2019-04-09,2019-06-19,2019-06-19,ĐHĐCĐ thường niên năm 2019,,,,
+2019-10-09,investorRight,MEETING,Họp cổ đông,2019-10-28,,,ĐHĐCĐ bất thường năm 2019,,,,
+2019-11-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:4",,4,,2018
+2019-11-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-04,2019-12-16,2019-12-16,Trả cổ tức đợt 3/2018 (400 đ/cp),400,4,3,2018
+2020-02-19,investorRight,MEETING,Họp cổ đông,2020-03-19,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-09,2020-06-25,2020-06-25,Trả cổ tức năm 2019 (1400 đ/cp),1400,14,,2019

@@ -1,0 +1,10 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-05-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-29,2017-06-13,2017-06-13,Trả cổ tức năm 2016 (2500 đ/cp),2500,25,,2016
+2017-07-04,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-07-10,,,Giá tham chiếu 25.800 đ/cp,,,,
+2018-03-20,investorRight,MEETING,Họp cổ đông,2018-04-06,2018-04-27,2018-04-27,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-17,2018-05-31,2018-05-31,Trả cổ tức năm 2017 (3390 đ/cp),3390,33.9,,2017
+2018-05-21,stockAlert,suspend,Tạm ngừng giao dịch,2018-05-23,2018-05-28,,Chậm CBTT BCTC năm 2017 quá 45 ngày,,,,
+2019-03-15,investorRight,MEETING,Họp cổ đông,2019-04-05,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-15,2019-05-31,2019-05-31,Trả cổ tức năm 2018 (3300 đ/cp),3300,33,,2018
+2020-03-17,investorRight,MEETING,Họp cổ đông,2020-04-07,2020-06-19,2020-06-19,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-03,2020-07-15,2020-07-15,Trả cổ tức năm 2019 (3168 đ/cp),3168,31.68,,2019

@@ -1,0 +1,21 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-01-24,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-02-06,,,Giá tham chiếu 11.200 đ/cp,,,,
+2017-03-07,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-04-02,2017-04-02,"ĐHCĐ thường niên năm 2017. 
+",,,,
+2017-04-04,schedEvent,schedIssue,Dự kiến phát hành,2018-04-13,2018-04-13,,"Dự kiến phát hành 5,000,000 cp cho đối tác chiến lược để tăng vốn điều lệ",,,,
+2017-08-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-31,2017-09-29,2017-09-29,Trả cổ tức năm 2016 (500 đ/cp),500,5,,2016
+2017-08-25,investorRight,POLL,Lấy ý kiến cổ đông,2017-09-06,,,V/v Bổ sung ngành nghề kinh doanh của Công ty,,,,
+2017-08-25,investorRight,POLL,Lấy ý kiến cổ đông,2017-09-06,,,V/v: Lấy ý kiến cổ đông bằng văn bản,,,,
+2018-05-08,investorRight,MEETING,Họp cổ đông,2018-04-24,2018-05-20,2018-05-20,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-05-24,,,Số lượng 5000000 cp,,,,
+2018-07-04,schedEvent,schedIssue,Dự kiến phát hành,2018-12-17,2018-12-17,,Phát hành 10.000.000 cp để tăng vốn điều lệ năm 2018,,,,
+2018-08-21,investorRight,POLL,Lấy ý kiến cổ đông,2018-08-27,,,v/v phát hành cổ phiếu riêng lẻ tăng vốn điều lệ Công ty,,,,
+2018-09-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-10-11,2018-11-09,2018-11-09,Trả cổ tức năm 2017 (300 đ/cp),300,3,,2017
+2018-09-28,investorRight,POLL,Lấy ý kiến cổ đông,2018-10-11,,,V/v điều chỉnh phương án tăng vốn điều lệ năm 2018,,,,
+2018-10-22,investorRight,MEETING,Họp cổ đông,2018-11-07,2018-11-22,2018-11-22,ĐHĐCĐ bất thường năm 2018,,,,
+2019-01-09,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-01-15,,,Số lượng 10000000 cp,,,,
+2019-02-20,investorRight,MEETING,Họp cổ đông,2019-02-27,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-03-13,schedEvent,schedIssue,Dự kiến phát hành,2019-12-11,2019-12-11,,Phát hành 3300000 cp tăng vốn điều lệ,,,,
+2019-08-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-08-09,2019-08-30,2019-08-30,Trả cổ tức năm 2018 (500 đ/cp),500,5,,2018
+2019-12-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-01-10,,,Số lượng 3300000 cp,,,,
+2020-05-27,investorRight,MEETING,Họp cổ đông,2020-06-05,,,ĐHĐCĐ thường niên năm 2020,,,,

@@ -1,0 +1,23 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-11-21,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2017-11-29,,,Giá tham chiếu 45.000 đ/cp,,,,
+2017-11-24,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-11-29,2018-06-22,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-01-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-02-01,2018-02-28,2018-02-28,"Trả cổ tức đợt 1 năm 2017 (1500 đ/cp) 
+",1500,15,1,2017
+2018-02-28,schedEvent,schedDiv,Dự kiến cổ tức,2018-10-25,2018-10-25,,"Dự kiến phát hành 1.600.000 cp để trả cổ tức đợt 2/2017, tỷ lệ 100:20",,20,2,2017
+2018-04-09,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-04-20,2018-04-23,,"Trả cổ tức năm 2017, Tỷ lệ 100:20",,20,,2017
+2018-04-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-04-20,2018-05-04,2018-05-04,Trả cổ tức năm 2017 (500 đ/cp),500,5,,2017
+2018-04-10,investorRight,MEETING,Họp cổ đông,2018-03-14,2018-04-04,2018-04-04,ĐHĐCĐ thường niên năm 2018,,,,
+2018-06-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-06-07,,,Số lượng 1599982CP,,,,
+2018-10-10,schedEvent,schedIssue,Dự kiến phát hành,2018-10-25,2018-10-25,,Chuyển đổi trái phiếu thành 1500000 CP theo số 83/NQ-HĐQT/CIAS,,,,
+2018-10-11,investorRight,CONVERT,TP chuyển đổi,2018-10-19,2018-11-23,2018-10-23,"Chuyển đổi trái phiếu đợt 1, tỷ lệ 100:50",,50,,
+2018-12-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-12-10,,,Số lượng 1500000 cp,,,,
+2019-03-08,investorRight,MEETING,Họp cổ đông,2019-03-26,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-06-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-18,2019-06-28,2019-06-28,Trả cổ tức đợt 1/2018 (2000 đ/cp),2000,20,1,2018
+2019-06-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến phát hành cổ phiếu trả cổ tức năm 2018, tỷ lệ 100:10",,10,,2018
+2019-06-10,schedEvent,schedIssue,Dự kiến phát hành,2019-11-26,2019-11-26,,Dự kiến phát hành cổ phiếu ra công chúng cho CĐHH,,54.05,,
+2019-09-03,investorRight,ISSUE,Phát hành thêm,2019-09-11,2019-10-09,,"Phát hành 6,000,000 cp cho CĐHH, giá 15000 đ/cp, tỷ lệ 100:54.05",,54.05,,
+2019-09-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-09-11,,,Trả cổ tức đợt 2/2018 (1000 đ/cp),1000,10,2,2018
+2019-09-04,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-09-11,2019-09-12,,"Trả cổ tức năm 2018, Tỷ lệ 100:10",,10,,2018
+2019-10-18,schedEvent,schedIssue,Dự kiến phát hành,2019-10-18,2019-10-18,,"Dự kiến chuyển đổi 300.000 trái phiếu thành cổ phiếu, tỷ lệ 1:10, giá 10.000 đ/cp",,1000,,
+2020-01-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-01-16,,,Số lượng 8609922 cp,,,,
+2020-05-21,investorRight,MEETING,Họp cổ đông,2020-05-29,2020-06-17,2020-06-17,ĐHĐCĐ thường niên năm 2020,,,,

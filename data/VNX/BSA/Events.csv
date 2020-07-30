@@ -1,0 +1,16 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-05-04,investorRight,MEETING,Họp cổ đông,2018-05-16,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-08-13,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2018-08-20,,,Giá tham chiếu 15.300 đ/cp,,,,
+2018-12-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-12-19,2018-12-20,,"Trả cổ tức năm 2017, Tỷ lệ 100:20",,20,,2017
+2018-12-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-12-19,2018-12-28,2018-12-28,Trả cổ tức năm 2017 (400đ/cp),400,4,,2017
+2019-02-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-03-04,,,Số lượng 7604390 cp,,,,
+2019-06-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng tiền năm 2018, tỉ lệ 4%",400,4,,2018
+2019-06-10,schedEvent,schedDiv,Dự kiến cổ tức,2019-12-17,2019-12-17,,Dự kiến trả cổ tức bằng cổ phiếu năm 2018 với tỷ lệ 16%,,16,,2018
+2019-06-11,investorRight,MEETING,Họp cổ đông,2019-05-30,2019-06-20,2019-06-20,ĐHĐCĐ thường niên năm 2019,,,,
+2019-12-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-12-17,2019-12-18,,"Trả cổ tức năm 2018, Tỷ lệ 100:16",,16,,2018
+2019-12-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-17,2020-04-23,2020-04-23,Trả cổ tức năm 2018 (400 đ/cp),400,4,,2018
+2019-12-23,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-12-17,2020-04-23,2020-04-23,Thay đổi ngày chi trả cổ tức năm 2018 từ ngày 25/12/2019 sang ngày 23/4/2020,400,4,,2018
+2020-02-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-02-17,,,Số lượng 7300146 cp,,,,
+2020-03-19,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-12-17,2020-03-25,2020-03-25,Thay đổi ngày chi trả cổ tức năm 2018 từ ngày 23/4/2020 sang ngày 25/3/2020,400,4,,2018
+2020-04-24,investorRight,MEETING,Họp cổ đông,2020-05-12,2020-05-28,2020-05-28,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-11,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-06-19,2020-06-22,,"Trả cổ tức năm 2019, Tỷ lệ 100:13.4",,13.4,,2019

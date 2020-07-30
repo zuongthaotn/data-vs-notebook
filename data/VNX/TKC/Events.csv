@@ -1,0 +1,37 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2009-11-30,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2009-12-01,,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
+2010-01-19,investorRight,POLL,Lấy ý kiến cổ đông,2010-01-26,2010-02-09,2010-02-09,Lấy ý kiến cổ đông v/v phát hành cp thưởng và tăng VĐL,,,,
+2010-05-12,investorRight,MEETING,Họp cổ đông,2010-05-19,2010-06-12,2010-06-12,ĐHCĐ thường niên 2010,,,,
+2010-06-11,investorRight,ISSUE,Phát hành thêm,2010-06-28,2010-08-13,,Phát hành 297.500 cổ phiếu ESOP,,,,
+2010-06-16,investorRight,ISSUE,Phát hành thêm,2010-06-28,2010-08-13,,Tỷ lệ 3:1 với giá 15.000 đ/cp,,33.33,,
+2010-06-16,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2010-06-28,2010-06-30,,Tỷ lệ 100:20,,20,,
+2010-12-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-12-23,2011-01-10,2011-01-10,Trả cổ tức đợt 1/2010 (1000 đ/cp),1000,10,1,2010
+2011-03-21,investorRight,MEETING,Họp cổ đông,2011-03-29,,,ĐHCĐ thường niên 2011,,,,
+2011-07-21,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2011-07-28,2011-08-01,,"Trả cổ tức đợt 2/2010, Tỷ lệ 100:10",,10,2,2010
+2011-10-28,investorRight,POLL,Lấy ý kiến cổ đông,2011-11-04,,,v/v niêm yết bổ sung cp và thay đổi Giấy chứng nhận đăng ký kinh doanh do tăng vốn điều lệ,,,,
+2012-02-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2012-02-10,,,Số lượng 886.831 cp,,,,
+2012-03-14,investorRight,MEETING,Họp cổ đông,2012-03-19,,,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2012-11-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-11-27,2012-12-25,2012-12-25,Trả cổ tức đợt 1/2011 (500 đ/cp),500,5,1,2011
+2012-11-22,investorRight,POLL,Lấy ý kiến cổ đông,2012-11-27,2012-12-20,2012-12-20,v/v Điều chỉnh kế hoạch sản xuất kinh doanh năm 2012,,,,
+2013-04-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-04-22,2013-05-27,2013-05-27,Trả cổ tức đợt 2/2011 (500 đ/cp),500,5,2,2011
+2013-04-16,investorRight,MEETING,Họp cổ đông,2013-04-22,,,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2014-04-21,investorRight,MEETING,Họp cổ đông,2014-04-22,2014-06-21,2014-06-21,Đại hội cổ đông thường niên năm 2014,,,,
+2014-06-30,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2014-06-30,,,Lợi nhuận sau thuế 6 tháng đầu năm 2014 âm,,,,
+2014-11-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-11-21,2014-12-19,2014-12-19,Trả cổ tức năm 2013 (250 đ/cp),250,2.5,,2013
+2015-01-22,investorRight,POLL,Lấy ý kiến cổ đông,2015-01-28,,,v/v Điều chỉnh kế hoạch SXKD năm 2014 và phát hành cổ phiếu thưởng cho cổ đông hiện hữu năm 2015,,,,
+2015-05-13,investorRight,MEETING,Họp cổ đông,2015-05-15,2015-06-27,2015-06-27,ĐHĐCĐ thường niên năm 2015,,,,
+2015-08-18,investorRight,KINDDIV,Cổ phiếu thưởng,2015-08-26,2015-08-28,,Tỷ lệ 100:10,,10,,
+2015-08-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-08-04,2016-04-29,2016-04-29,Trả cổ tức năm 2014 (500đ/cp),500,5,,2014
+2015-10-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-10-28,,,Số lượng 975.516 cp,,,,
+2015-12-08,investorRight,POLL,Lấy ý kiến cổ đông,2015-12-16,,,V/v Điều chỉnh kế hoạch sản xuất kinh doanh năm 2015,,,,
+2016-04-28,investorRight,MEETING,Họp cổ đông,2016-05-11,2016-06-18,2016-06-18,ĐHCĐ thường niên 2016,,,,
+2016-06-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2016 tỷ lệ 10%,,10,,2016
+2016-10-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-24,2016-11-30,2016-11-30,Cổ tức năm 2015 (500đ/cp),500,5,,2015
+2017-04-04,investorRight,MEETING,Họp cổ đông,2017-04-19,2017-06-03,2017-06-03,"ĐHĐCĐ thường niên năm 2017 
+",,,,
+2017-09-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-09-26,2017-10-24,2017-10-24,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
+2018-04-19,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-04-20,2019-01-07,,Chậm CBTT BCTC quá 5 ngày làm việc,,,,
+2019-05-14,investorRight,MEETING,Họp cổ đông,2019-05-28,2019-06-22,2019-06-22,Họp ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-06,2019-06-19,2019-06-19,Trả cổ tức năm 2017 (750 đ/cp),750,7.5,,2017
+2019-08-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-08-23,2020-07-07,,BCTC BN 2019 không có ý kiến chấp nhận toàn phần từ ĐVKT,,,,
+2020-05-22,investorRight,MEETING,Họp cổ đông,2020-06-05,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,

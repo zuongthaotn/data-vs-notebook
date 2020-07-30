@@ -1,0 +1,24 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-03-05,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2015-03-11,,,Giá tham chiếu 12.000đ/cp,,,,
+2015-05-18,investorRight,MEETING,Họp cổ đông,2015-05-22,2015-06-15,2015-06-15,ĐHĐCĐ thường niên năm 2015,,,,
+2015-10-05,investorRight,ISSUE,Phát hành thêm,2015-10-08,2015-11-11,,"Tỷ lệ 5:2, giá 10.000 đ/cp",,40,,
+2015-12-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-12-31,,,Số lượng 4.955.400 cp,,,,
+2016-03-29,investorRight,MEETING,Họp cổ đông,2016-04-05,2016-04-28,2016-04-28,ĐHCĐ thường niên năm 2016,,,,
+2016-05-05,schedEvent,schedDiv,Dự kiến cổ tức,2016-07-27,2016-07-27,,Dự kiến chi trả cổ tức năm 2015 cho cổ đông hiện hữu,,3.5,,2015
+2016-05-05,schedEvent,schedIssue,Dự kiến phát hành,2016-07-27,2016-07-27,,Dự kiến phát hành cp cho cổ đông hiện hữu,,57.28,,
+2016-07-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-07-27,2016-07-28,,"Trả cổ tức năm 2015, Tỷ lệ 100:3.5",,3.5,,2015
+2016-07-19,investorRight,ISSUE,Phát hành thêm,2016-07-27,2016-09-05,,"Phát hành 10,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:57.29",,57.29,,
+2016-10-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-10-06,,,"Số lượng 10,121,090 cp",,,,
+2016-10-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-17,2016-12-01,2016-12-01,Trả cổ tức năm 2015 (189 đ/cp),189,1.89,,2015
+2016-11-30,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2016-10-17,2016-12-01,2016-12-01,Thay đổi ngày trả cổ tức năm 2015 từ ngày 30/12/2016 sang ngày 1/12/2016,189,2,,2015
+2017-04-13,investorRight,MEETING,Họp cổ đông,2017-03-29,2017-04-28,2017-04-28,ĐHĐCĐ thường niên năm 2017,,,,
+2017-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 7%",,7,,2017
+2017-08-11,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-08-09,2018-01-05,,Công ty vi phạm pháp luật thuế,,,,
+2018-04-17,investorRight,MEETING,Họp cổ đông,2018-04-05,2018-04-28,2018-04-28,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cố tức năm 2016 bằng cổ phiếu, tỷ lệ 100:19",,1.9,,2016
+2018-09-19,stockAlert,alert,Cảnh báo,2018-09-20,,,Chậm nộp BCTC bán niên soát xét 2018,,,,
+2018-09-19,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-09-20,,,Chậm công bố BCTC  2019 quá 05 ngày làm việc,,,,
+2019-06-21,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-06-25,2019-08-29,,LNST năm 2017 và 2018 trên BCTC âm,,,,
+2019-07-11,investorRight,MEETING,Họp cổ đông,2019-04-12,2019-07-19,2019-07-19,ĐHĐCĐ thường niên năm 2019,,,,
+2019-10-03,stockAlert,noticed,Nhắc nhở,2019-10-03,,,Vi phạm quy định về CBTT,,,,
+2020-04-07,investorRight,MEETING,Họp cổ đông,2020-04-24,,,ĐHĐCĐ thường niên năm 2020,,,,

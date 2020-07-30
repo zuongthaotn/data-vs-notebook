@@ -1,0 +1,24 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-08-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 100:20",,20,,2017
+2017-09-01,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-09-08,2019-12-04,,Giá tham chiếu 66.000 đ/cp,,,,
+2018-03-15,investorRight,MEETING,Họp cổ đông,2018-03-30,2018-04-23,2018-04-23,Họp ĐHĐCĐ thường niên năm 2018,,,,
+2018-10-23,schedEvent,schedIssue,Dự kiến phát hành,2018-11-28,2018-11-28,,"Dự kiến phát hành 3.800.000 cp cho CĐHH, tỷ lệ 100:58.46, giá 30.000 đ/cp",,58.46,,
+2018-10-23,schedEvent,schedIssue,Dự kiến phát hành,2018-11-28,2018-11-28,,"Dự kiến phát hành 6.500.000 cp tăng vốn cổ phần từ VCSH, tỷ lệ 1:1, giá 30.000 đ/cp",,100,,
+2018-10-24,investorRight,MEETING,Họp cổ đông,2018-11-09,,,Họp ĐHĐCĐ năm 2018,,,,
+2018-11-21,investorRight,KINDDIV,Cổ phiếu thưởng,2018-11-28,2018-11-29,,Tỷ lệ 100:100,,100,,
+2018-11-21,investorRight,ISSUE,Phát hành thêm,2018-11-28,2019-01-02,,"Phát hành 3,800,000 cp cho CĐHH, giá 30000 đ/cp, tỷ lệ 100:58.46",,58.46,,
+2019-02-19,investorRight,MEETING,Họp cổ đông,2019-03-06,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-03-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-04-01,,,"Số lượng 10,300,000 cp",,,,
+2019-03-29,schedEvent,schedIssue,Dự kiến phát hành,2019-08-09,2019-08-09,,"Dự kiến phát hành 16800000 cp tăng vốn điều lệ, tỉ lệ 1:1, Giá 30000 đ/cp",,100,,
+2019-03-29,schedEvent,schedIssue,Dự kiến phát hành,2019-08-15,2019-08-15,,"Dự kiến phát hành 840000 cp ESOP, tỉ lệ 100:5, giá 10000 đ/cp",,5,,
+2019-05-29,investorRight,MEETING,Họp cổ đông,2019-06-14,2019-07-08,2019-07-08,ĐHĐCĐ bất thường năm 2019 lần 1,,,,
+2019-07-31,investorRight,KINDDIV,Cổ phiếu thưởng,2019-08-09,2019-08-12,,Tỷ lệ 100:100,,100,,
+2019-07-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-08-09,2019-08-23,2019-08-23,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
+2019-09-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-01,,,Số lượng 17640000 cp,,,,
+2019-11-28,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2019-12-05,,,Hủy ĐKGD trên UPCOM,,,,
+2019-12-04,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2019-12-12,,,Giá tham chiếu: 45.900 đ/cp,,,,
+2019-12-20,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-12-20,2020-07-03,,Thời gian niêm yết dưới 06 tháng,,,,
+2020-01-31,investorRight,MEETING,Họp cổ đông,2020-02-20,2020-03-18,2020-03-18,ĐHĐCĐ thường niên năm 2020,,,,
+2020-04-21,investorRight,MEETING,Họp cổ đông,2020-04-29,,,ĐHĐCĐ bất thường năm 2020,,,,
+2020-06-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-26,2020-09-18,2020-09-18,Trả cổ tức đợt 1/2019 (500 đ/cp),500,5,1,2019
+2020-07-09,investorRight,MEETING,Họp cổ đông,2020-07-27,,,ĐHĐCĐ bất thường năm 2020 lần 2,,,,

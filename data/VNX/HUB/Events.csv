@@ -1,0 +1,10 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-03-13,investorRight,MEETING,Họp cổ đông,2018-03-27,,,ĐHĐCĐ thường niên nhiệm kỳ 2016 - 2020,,,,
+2018-05-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-21,2018-06-05,2018-06-05,Chi trả cổ tức năm 2017 (1500đ/cp),1500,15,,2017
+2018-12-28,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2019-02-26,,,Giá tham chiếu 25.000 đ/cp,,,,
+2019-03-08,investorRight,MEETING,Họp cổ đông,2019-03-26,2019-04-11,2019-04-11,ĐHĐCĐ thường niên lần 3 nhiệm kỳ 2016-2020,,,,
+2019-04-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-04-03,2019-10-03,,Thời gian niêm yết dưới 6 tháng,,,,
+2019-05-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-22,2019-06-12,2019-06-12,Trả cổ tức năm 2018 (1500 đ/cp),1500,15,,2018
+2020-03-02,investorRight,MEETING,Họp cổ đông,2020-04-03,2020-04-24,2020-04-24,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Thưởng cp cho CĐHH, tỷ lệ 100:25",,25,,
+2020-06-26,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành cp để tăng vốn điều lệ, tỷ lệ 100:30",,30,,

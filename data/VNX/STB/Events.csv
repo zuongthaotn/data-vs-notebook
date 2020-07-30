@@ -1,0 +1,55 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2006-07-12,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2006-07-12,,,,,,,
+2006-10-06,investorRight,KINDDIV,Cổ phiếu thưởng,2006-10-13,2006-10-17,,Tỷ lệ 100:10,,10,,
+2006-10-19,investorRight,POLL,Lấy ý kiến cổ đông,2006-08-24,,,Lấy ý kiến xin hoãn phát hành cổ phiếu,,,,
+2007-03-02,investorRight,MEETING,Họp cổ đông,2007-02-12,2007-03-19,2007-03-19,ĐHCĐ thường niên năm2007,,,,
+2007-05-29,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2007-06-07,2007-06-11,,"Trả cổ tức năm 2006, Tỷ lệ 100:12",,12,,2006
+2007-05-29,investorRight,ISSUE,Phát hành thêm,2007-06-07,2007-07-23,,"Phát hành  cp cho CBCNV, giá 15000 đ/cp",,100,,
+2007-06-14,investorRight,POLL,Lấy ý kiến cổ đông,2007-06-22,,,Thay đổi địa điểm đặt trụ sở chính của Sacombank,,,,
+2008-01-22,investorRight,MEETING,Họp cổ đông,2008-01-30,2008-03-17,2008-03-17,ĐHĐCĐ thường niên năm 2008,,,,
+2008-07-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2008-07-23,2008-07-25,,"Trả cổ tức năm 2007, Tỷ lệ 100:15",,15,,2007
+2008-12-29,investorRight,MEETING,Họp cổ đông,2008-01-03,2009-03-16,2009-03-16,ĐHĐCĐ thường niên năm 2009,,,,
+2009-09-07,investorRight,ISSUE,Phát hành thêm,2009-09-16,2009-10-30,,Tỷ lệ 20:3 với giá 10.000 đ/cp,,15,,
+2009-09-07,investorRight,ISSUE,Phát hành thêm,2009-09-16,,,Phát hành 5 triệu cp cho cán bộ chủ chốt (ESOP),,,,
+2009-09-07,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2009-09-16,2009-09-18,,Tỷ lệ 100:15,,15,,2008
+2010-01-11,investorRight,MEETING,Họp cổ đông,2010-01-18,2010-03-15,2010-03-15,ĐHCĐ thường niên 2010,,,,
+2010-06-29,investorRight,ISSUE,Phát hành thêm,2010-07-07,2010-08-20,,"phát hành thêm cổ phiếu cho cổ đông hiện hữu, tỷ lệ 10:2, giá 12000đ/cp",,20,,
+2010-06-29,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2010-07-07,2010-07-09,,Tỷ lệ 100:15,,15,,2009
+2011-01-06,investorRight,MEETING,Họp cổ đông,2011-01-13,2011-04-02,2011-04-02,ĐHCĐ thường niên 2011,,,,
+2011-08-02,investorRight,ISSUE,Phát hành thêm,2011-08-10,2011-09-27,,"Phát hành 137688451 cp cho CĐHH, giá 10000 đ/cp",,15,,
+2011-08-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-08-10,2011-08-30,2011-08-30,Cổ tức năm 2010 (1.500đ/cp),1500,15,,2010
+2011-11-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2011-12-07,,,Số lượng 156.044.651 cp,,,,
+2012-02-14,investorRight,MEETING,Họp cổ đông,2012-02-17,2012-04-27,2012-04-27,Đại hội đồng cổ đông thường niên năm 2011 (hủy ngày đkcc),,,,
+2012-02-14,investorRight,POLL,Lấy ý kiến cổ đông,2012-02-17,2012-03-01,2012-03-01,v/v bầu cử bổ sung vào HĐQT và Ban kiểm soát (hủy ngày đkcc),,,,
+2012-04-10,investorRight,MEETING,Họp cổ đông,2012-04-18,,,ĐHCĐ thường niên 2011,,,,
+2012-04-10,investorRight,POLL,Lấy ý kiến cổ đông,2012-04-18,2012-04-27,2012-04-27,số lượng thành viên HĐQT và BKS nhiệm kỳ 2011 - 2015,,,,
+2013-01-25,investorRight,POLL,Lấy ý kiến cổ đông,2013-02-01,2013-02-25,2013-02-25,Lấy ý kiến cổ đông bằng văn bản về bầu bổ sung thành viên HĐQT,,,,
+2013-03-06,investorRight,MEETING,Họp cổ đông,2013-03-21,2013-04-25,2013-04-25,ĐHĐCĐ thường niên năm 2013,,,,
+2013-05-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2013-05-20,2013-05-22,,"Trả cổ tức năm 2011, Tỷ lệ 100:14",,14,,2011
+2013-05-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-05-20,2013-06-10,2013-06-10,Trả cổ tức năm 2012 (600 đ/cp),600,6,,2012
+2013-06-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2013-07-08,,,Số lượng 136.324.897 cp,,,,
+2013-08-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-06-27,,,số lượng  32.219.029 cp,,,,
+2013-11-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-11-29,2013-12-16,2013-12-16,Tạm ứng cổ tức năm 2013(800đ/cp),800,8,,2013
+2014-02-12,investorRight,MEETING,Họp cổ đông,2014-02-21,2014-03-25,2014-03-25,Đại hội cổ đông thường niên năm 2014,,,,
+2014-08-13,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành cổ phiếu cho CĐHH, tỷ lệ 100:8",,8,,
+2014-08-13,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành cổ phiếu trả cổ tức cho CĐHH, tỷ lệ 100:14",,14,,
+2014-08-13,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu dành cho cán bộ cốt cán của ngân hàng,,,,
+2014-08-13,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu cho cổ đông nước ngoài,,,,
+2014-08-13,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành cổ phiếu thưởng cho CĐHH, tỷ lệ 100:15",,15,,
+2014-08-13,schedEvent,schedIssue,Dự kiến phát hành,,,,Chuyển nhượng cổ phiếu quỹ,,,,
+2014-09-10,investorRight,POLL,Lấy ý kiến cổ đông,2014-09-18,,,Vv bổ sung ngành nghề kinh doanh,,,,
+2015-03-10,investorRight,MEETING,Họp cổ đông,2015-03-18,2015-04-21,2015-04-21,ĐHĐCĐ thường niên năm 2015,,,,
+2015-06-01,investorRight,MEETING,Họp cổ đông,2015-06-09,2015-07-11,2015-07-11,ĐHĐCĐ bất thường năm 2015,,,,
+2015-10-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2015-10-16,2015-10-20,,"Trả cổ tức năm 2014, Tỷ lệ 100:20",,20,,2014
+2015-10-13,investorRight,KINDDIV,Cổ phiếu thưởng,2015-10-16,2015-10-20,,Tỷ lệ 100:10,,10,,
+2015-10-13,investorRight,MERGER,Sáp nhập,2015-10-16,,,Phân phối bổ sung cp tỷ lệ 100:8.75 do hoán đổi cổ phần để sáp nhập Southern Bank,,8.75,,
+2015-11-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-11-26,,,Số lượng 242.704.126 cp,,,,
+2016-02-29,investorRight,MEETING,Họp cổ đông,2016-03-11,,,ĐHCĐ thường niên năm 2016,,,,
+2016-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,trả cổ tức năm 2016 tỉ lệ 20%/ cổ phần,,20,,2016
+2017-05-25,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-06-30,2017-06-30,ĐHĐCĐ thường niên năm 2017,,,,
+2017-08-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-09-25,,,Số lượng 400000000 cp,,,,
+2017-10-06,investorRight,POLL,Lấy ý kiến cổ đông,2017-10-17,,,V.v thông qua các vấn đề thuộc thẩm quyền của ĐHĐCĐ,,,,
+2018-01-22,investorRight,MEETING,Họp cổ đông,2018-02-08,2018-04-20,2018-04-20,ĐHĐCĐ thường niên năm 2018,,,,
+2019-01-22,investorRight,MEETING,Họp cổ đông,2019-02-21,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm tài chính 2018,,,,
+2020-04-07,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-24,,,V/v thông qua phương án tổ chức ĐHĐCĐ thường niên năm 2020,,,,
+2020-04-09,investorRight,MEETING,Họp cổ đông,2020-04-24,2020-06-05,2020-06-05,ĐHĐCĐ thường niên năm 2020,,,,

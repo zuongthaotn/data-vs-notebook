@@ -1,0 +1,36 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2010-02-12,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2010-03-17,,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
+2010-04-09,investorRight,MEETING,Họp cổ đông,2010-04-13,,,ĐHCĐ thường niên 2010,,,,
+2010-04-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-04-13,2010-05-17,2010-05-17,Cổ tức năm 2009 (1.000 đ/cp),1000,10,,2009
+2010-09-01,investorRight,ISSUE,Phát hành thêm,2010-09-13,2010-10-28,,"Tỷ lệ 100:8, giá 20000đ/cp",,8,,
+2010-09-01,investorRight,KINDDIV,Cổ phiếu thưởng,2010-09-13,2010-09-15,,Tỷ lệ 100:50,,50,,
+2010-09-01,investorRight,KINDDIV,Cổ phiếu thưởng,2010-09-13,2010-09-15,,Tỷ lệ: 100:50,,50,,
+2010-09-01,investorRight,ISSUE,Phát hành thêm,2010-09-13,2010-10-28,,"Phát hành cho cổ đông hiện hữu, tỷ lệ 100:8, giá 20000 đ/cp",,8,,
+2011-04-07,investorRight,MEETING,Họp cổ đông,2011-04-13,,,ĐHCĐ thường niên 2011,,,,
+2011-04-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-04-13,2011-04-29,2011-04-29,Tạm ứng cổ tức năm 2010 (1.500 đ/cp),1500,15,,2010
+2012-03-26,investorRight,MEETING,Họp cổ đông,2012-04-04,,,ĐHĐCĐ thường niên năm 2012,,,,
+2012-05-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-05-15,2012-05-30,2012-05-30,Trả cổ tức năm 2011 (1.700 đ/cp),1700,17,,2011
+2013-01-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-01-08,2013-01-24,2013-01-24,Tạm ứng cổ tức năm 2012 (1.500 đ/cp),1500,15,,2012
+2013-03-01,investorRight,MEETING,Họp cổ đông,2013-03-06,2013-03-25,2013-03-25,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2013-04-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-04-16,2013-05-08,2013-05-08,Trả cổ tức đợt 2/2012 (1.000 đ/cp),1000,10,2,2012
+2014-02-27,investorRight,MEETING,Họp cổ đông,2014-03-06,2014-03-22,2014-03-22,Đại hội đồng cổ đông thường niên năm 2014,,,,
+2014-03-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-04-08,2014-04-25,2014-04-25,Trả cổ tức năm 2013 (5000đ/cp),5000,50,,2013
+2015-03-04,investorRight,MEETING,Họp cổ đông,2015-03-12,2015-04-16,2015-04-16,ĐHĐCĐ thường niên năm 2015,,,,
+2015-05-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-18,2015-06-05,2015-06-05,Trả cổ tức năm 2014 (5.000đ/cp),5000,50,,2014
+2016-03-22,investorRight,MEETING,Họp cổ đông,2016-03-30,,,ĐHCĐ thường niên năm 2016,,,,
+2016-05-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-25,2016-06-13,2016-06-13,Trả cổ tức năm 2015 (7000 đ/cp),7000,70,,2015
+2017-03-15,investorRight,MEETING,Họp cổ đông,2017-03-28,2017-04-22,2017-04-22,Đại hội đồng cổ đông thường niên năm 2017,,,,
+2017-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2016 (5000đ/cp) 
+",5000,50,,2016
+2017-05-29,schedEvent,schedDiv,Dự kiến cổ tức,2017-07-06,2017-07-06,,"Dự kiến phát hành 4500011 cp để trả cổ tức năm 2016, tỷ lệ 100:150",,150,,2016
+2017-06-23,investorRight,MEETING,Họp cổ đông,2017-07-06,2017-07-21,2017-07-21,ĐHCĐ bất thường năm 2017,,,,
+2017-06-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-07-06,2017-07-21,2017-07-21,Trả cổ tức năm 2016 (5000 đ/cp),5000,50,,2016
+2017-06-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-07-06,2017-07-07,,"Trả cổ tức năm 2016, Tỷ lệ 100:150",,150,,2016
+2017-10-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-10-10,,,Số lượng 4499983CP,,,,
+2018-03-09,investorRight,MEETING,Họp cổ đông,2018-03-23,2018-04-10,2018-04-10,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-17,2018-05-25,2018-05-25,Trả cổ tức năm 2017 (2000 đ/cp),2000,20,,2017
+2019-03-22,investorRight,MEETING,Họp cổ đông,2019-04-09,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-30,2019-06-14,2019-06-14,Trả cổ tức năm 2018 (1200 đ/cp),1200,12,,2018
+2020-02-27,investorRight,MEETING,Họp cổ đông,2020-03-13,2020-03-30,2020-03-30,ĐHĐCĐ bất thường năm 2020,,,,
+2020-05-08,investorRight,MEETING,Họp cổ đông,2020-05-15,2020-05-29,2020-05-29,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-29,2020-07-15,2020-07-15,Trả cổ tức năm 2019 (1800 đ/cp),1800,18,,2019

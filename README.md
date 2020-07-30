@@ -16,7 +16,7 @@ npm run download -- --exchange=$EXCHANGE --type=BalanceSheet,IncomeStatement,ICa
 npm run download -- --exchange=$EXCHANGE --type=BalanceSheetQuarter,IncomeStatementQuarter,ICashFlowQuarter,IndicatorsQuarter --update=1
 
 # Prices
-npm run download -- --exchange=VNX --type=Price
+npm run download -- --exchange=VNX --type=Price,Events
 npm run download -- --exchange=VN30F --type=Prices
 npm run download -- --exchange=VN30F --type=Price --symbols=gold,E1VFVN30
 ```

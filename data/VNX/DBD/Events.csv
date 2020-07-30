@@ -1,0 +1,18 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-01-11,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-01-16,2018-06-07,,Giá tham chiếu 25.000 đ/cp,,,,
+2017-02-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-02-27,2017-03-15,2017-03-15,Tạm ứng cổ tức năm 2016 (1500đ/cp),1500,15,,2016
+2017-02-14,investorRight,MEETING,Họp cổ đông,2017-02-27,2017-03-25,2017-03-25,ĐHCĐ thường niên năm 2017,,,,
+2018-03-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến tạm ứng cổ tức bằng tiền năm 2017 (1500đ/cp),1500,15,,2017
+2018-03-09,investorRight,MEETING,Họp cổ đông,2018-03-22,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-03-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-03-22,2018-04-04,2018-04-04,Tạm ứng cổ tức năm 2017 (1500 đ/cp),1500,15,,2017
+2018-06-05,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2018-06-08,,,Hủy niêm yết trên UPCOM,,,,
+2018-06-08,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-06-15,,,Giá tham chiếu 48.000 đ/cp,,,,
+2018-06-15,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-06-15,2019-01-07,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-10-30,investorRight,POLL,Lấy ý kiến cổ đông,2018-11-15,,,V/v điều chỉnh ngành nghề kinh doanh,,,,
+2018-12-21,stockAlert,noticed,Nhắc nhở,2018-12-20,,,Nhắc nhở chậm công bố BB kiểm phiếu và nghị quyết ĐHCĐ 2018,,,,
+2019-02-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2018 (1500 đ/cp),1500,15,,2018
+2019-02-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-03-19,2019-04-04,2019-04-04,Trả cổ tức năm 2018 (1500 đ/cp),1500,15,,2018
+2019-04-05,investorRight,MEETING,Họp cổ đông,2019-03-19,2019-04-20,2019-04-20,ĐHĐCĐ thường niên năm 2019,,,,
+2019-11-07,investorRight,POLL,Lấy ý kiến cổ đông,2019-11-25,2019-12-12,2019-12-12,V/v: Điều chỉnh một số ngành nghề kinh doanh,,,,
+2020-02-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-03-23,2020-04-14,2020-04-14,Trả cổ tức năm 2019 (1500 đ/cp),1500,15,,2019
+2020-05-07,investorRight,MEETING,Họp cổ đông,2020-05-27,,,ĐHĐCĐ thường niên năm 2020,,,,

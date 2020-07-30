@@ -1,0 +1,17 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-03-23,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2015-03-31,,,Giá tham chiếu 14.500đ/cp,,,,
+2015-12-03,investorRight,POLL,Lấy ý kiến cổ đông,2015-12-14,,,"V/v Thông qua sửa đổi bổ sung điều lệ Công ty, điều lệ tổ chức và hoạt động Quỹ Phát triển khoa học công nghệ, thay thế Kiểm soát viên.",,,,
+2016-03-22,investorRight,MEETING,Họp cổ đông,2016-03-30,2016-04-21,2016-04-21,ĐHCĐ thường niên năm 2016,,,,
+2016-04-22,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 9% vốn điều lệ,,9,,2016
+2016-05-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-02,2016-06-22,2016-06-22,Trả cổ tức năm 2015 (800 đ/cp),800,8,,2015
+2016-10-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-11-11,2016-11-28,2016-11-28,Trả cổ tức đợt 1/2016 (400đ/cp),400,4,1,2016
+2016-10-28,investorRight,MEETING,Họp cổ đông,2016-11-11,2016-12-06,2016-12-06,ĐHĐCĐ bất thường năm 2016,,,,
+2017-04-10,investorRight,MEETING,Họp cổ đông,2017-03-16,2017-04-21,2017-04-21,ĐHĐCĐ thường niên năm 2017,,,,
+2017-05-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-06-15,2017-06-28,2017-06-28,Trả cổ tức còn lại năm 2016 (500 đ/cp),500,5,,2016
+2017-12-07,investorRight,POLL,Lấy ý kiến cổ đông,2017-12-27,,,V/v trích kinh phí bổ sung vào nguồn quỹ Nghiên cứu phát triển khoa học công nghệ trong năm 2017,,,,
+2018-05-24,investorRight,MEETING,Họp cổ đông,2018-03-23,2018-06-12,2018-06-12,ĐHĐCĐ thường niên năm 2018,,,,
+2018-08-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-08-22,2018-09-12,2018-09-12,Trả cổ tức năm 2017 (900 đ/cp),900,9,,2017
+2018-12-19,investorRight,MEETING,Họp cổ đông,2018-12-25,2019-01-10,2019-01-10,ĐHĐCĐ bất thường năm 2019,,,,
+2019-04-03,investorRight,MEETING,Họp cổ đông,2019-03-25,2019-04-24,2019-04-24,ĐHĐCĐ thường niên năm 2019,,,,
+2019-08-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-09-25,2019-10-15,2019-10-15,Trả cổ tức năm 2018 (900 đ/cp),900,9,,2018
+2020-04-15,investorRight,MEETING,Họp cổ đông,2020-05-11,2020-06-25,2020-06-25,ĐHĐCĐ thường niên năm 2020,,,,

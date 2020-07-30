@@ -1,0 +1,26 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-07-06,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-07-12,2018-07-25,,Giá tham chiếu 52.000 đ/cp,,,,
+2017-10-27,schedEvent,schedIssue,Dự kiến phát hành,2017-12-14,2017-12-14,,"Dự kiến phát hành 533.772 cp ESOP, giá 10.000 đ/cp",,1.08,,
+2017-12-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-01-04,2018-02-07,2018-02-07,Trả cổ tức năm 2017 (3000 đ/cp),3000,30,,2017
+2017-12-25,investorRight,POLL,Lấy ý kiến cổ đông,2018-01-04,,,V/v thông qua việc niêm yết cổ phiếu của CTCP Dịch vụ Hàng hoá Sài Gòn trên Sở GDCK TP. HCM,,,,
+2018-01-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-01-18,,,Số lượng 3264800 cp,,,,
+2018-02-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-03-05,,,Số lượng 533700 cp,,,,
+2018-06-14,investorRight,MEETING,Họp cổ đông,2018-06-08,2018-06-28,2018-06-28,ĐHĐCĐ thường niên năm 2018,,,,
+2018-07-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-07-11,2018-07-24,2018-07-24,Trả cổ tức đợt 2/2017 (3000 đ/cp),3000,30,2,2017
+2018-07-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (3000 đ/cp),3000,30,,2019
+2018-07-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2018 (4500 đ/cp),4500,45,,2018
+2018-07-20,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2018-07-26,,,Hủy niêm yết trên UPCoM,,,,
+2018-07-27,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-08-03,,,Giá tham chiếu 174.105 đ/cp,,,,
+2018-08-06,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-06,2019-04-05,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-12-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-12-18,2018-12-28,2018-12-28,Tạm ứng cổ tức đợt 1/2018 (3500 đ/cp),3500,35,1,2018
+2019-04-23,investorRight,MEETING,Họp cổ đông,2019-04-05,2019-05-14,2019-05-14,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-05,2019-06-17,2019-06-17,Trả cổ tức đợt 2/2018 (3700 đ/cp),3700,37,2,2018
+2019-07-18,schedEvent,schedIssue,Dự kiến phát hành,2019-09-23,2019-09-23,,"Dự kiến phát hành 380000 cp ESOP, giá 48000 đ/cp",,,,
+2019-10-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-10-31,2019-11-12,2019-11-12,Trả cổ tức đợt 1/2019 (3000 đ/cp),3000,30,1,2019
+2019-11-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-21,,,"Số lượng 190,000 cp",,,,
+2019-11-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-09-20,,,Số lượng 190000 cp,,,,
+2020-04-20,schedEvent,schedIssue,Dự kiến phát hành,2020-06-11,2020-06-11,,"Dự kiến phát hành 380,000cp ESOP",,,,
+2020-05-15,investorRight,MEETING,Họp cổ đông,2020-06-02,2020-06-26,2020-06-26,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-17,2020-07-31,2020-07-31,Trả cổ tức đợt 2/2019 (5000 đ/cp),5000,50,2,2019
+2020-07-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-06-09,,,"Số lượng 190,000 cp",,,,
+2020-07-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2022-06-09,,,"Số lượng 190,000 cp",,,,

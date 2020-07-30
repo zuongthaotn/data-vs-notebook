@@ -1,0 +1,34 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2009-06-23,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2009-06-25,,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
+2009-08-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2009-08-21,2009-09-15,2009-09-15,Cổ tức đợt 1/2009 (680 đ/cp),680,6.8,1,2009
+2010-02-04,investorRight,ISSUE,Phát hành thêm,2010-02-10,2010-03-31,,Tỷ lệ 1:1 với giá 10.000 đ/cp,,100,,
+2010-04-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-04-15,2010-05-19,2010-05-19,Cổ tức đợt 2/2009 (1.120 đ/cp),1120,11.2,2,2009
+2011-05-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-05-24,2011-06-15,2011-06-15,Cổ tức năm 2010 (350 đ/cp),350,3.5,,2010
+2012-02-22,investorRight,MEETING,Họp cổ đông,2012-02-29,,,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2013-02-26,investorRight,MEETING,Họp cổ đông,2013-03-01,2013-04-04,2013-04-04,Đại hội đồng cổ đông thường niên năm 2013,,,,
+2014-03-05,investorRight,MEETING,Họp cổ đông,2014-03-06,,,Đại hội cổ đông năm 2014,,,,
+2014-04-03,stockAlert,alert,Cảnh báo,2014-04-04,2016-04-06,,CP thuộc diện cảnh báo,,,,
+2014-06-30,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2014-06-30,,,Vì thuộc diện bị cảnh báo,,,,
+2014-12-29,investorRight,POLL,Lấy ý kiến cổ đông,2014-12-31,,,Vv thông qua phương án lỗ lũy kế SHS,,,,
+2015-03-11,investorRight,MEETING,Họp cổ đông,2015-03-23,,,ĐHĐCĐ thường niên năm 2015,,,,
+2016-03-03,investorRight,MEETING,Họp cổ đông,2016-03-15,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
+2017-04-27,investorRight,MEETING,Họp cổ đông,2017-03-23,2017-04-26,2017-04-26,ĐHĐCĐ thường niên năm 2017,,,,
+2017-05-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-25,2017-06-12,2017-06-12,Trả cổ tức năm 2016 (800 đ/cp),800,8,,2016
+2017-09-15,investorRight,POLL,Lấy ý kiến cổ đông,2017-09-27,,,Nội dung lấy ý kiến: Xin ý kiến cổ đông bằng văn bản thông qua phương án thay đổi địa điểm đặt Trụ sở chính Công ty,,,,
+2018-02-23,investorRight,MEETING,Họp cổ đông,2018-03-07,,,ĐHCĐ thường niên năm 2018,,,,
+2018-03-30,schedEvent,schedIssue,Dự kiến phát hành,2018-05-18,2018-05-18,,Phát hành riêng lẻ để hoán đổi cổ phần sáp nhập công ty CK SHB,,,,
+2018-04-24,schedEvent,schedDiv,Dự kiến cổ tức,2019-01-14,2019-01-14,,"Phát hành cp để trả cổ tức 2017, tỷ lệ 25% 
+",,25,,2017
+2018-04-24,schedEvent,schedIssue,Dự kiến phát hành,2019-01-14,2019-01-14,,"Phát hành cỏ phiếu cho cổ đông hiện hữu, tỷ lệ 3:2 
+
+",,150,,
+2018-04-24,schedEvent,schedIssue,Dự kiến phát hành,2019-04-08,2019-04-08,,"Dự kiến phát hành 5.260 triệu cp ESOP cho người lao động trong công ty 
+",,4.99,,
+2018-09-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-10-02,,,Số lượng 5395674 cp,,,,
+2018-12-24,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-01-14,2019-01-15,,"Trả cổ tức năm 2017, Tỷ lệ 100:25",,25,,2017
+2018-12-24,investorRight,ISSUE,Phát hành thêm,2019-01-14,2019-02-25,,"Phát hành 70,263,783 cp cho CĐHH, giá 12000 đ/cp, tỷ lệ 100:66.67",,66.67,,
+2019-03-06,investorRight,MEETING,Họp cổ đông,2019-03-21,2019-04-23,2019-04-23,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-05-22,,,Số lượng 101872527 cp,,,,
+2019-06-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-19,2019-07-15,2019-07-15,Trả cổ tức năm 2018 (1500 đ/cp),1500,15,,2018
+2020-04-24,investorRight,MEETING,Họp cổ đông,2020-05-19,2020-06-24,2020-06-24,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-22,2020-08-12,2020-08-12,Trả cổ tức năm 2019 (1200 đ/cp),1200,12,,2019

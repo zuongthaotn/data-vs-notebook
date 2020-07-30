@@ -1,0 +1,12 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-11-06,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2018-11-12,2020-07-31,,Giá tham chiếu 10.700 đ/cp,,,,
+2019-03-15,investorRight,MEETING,Họp cổ đông,2019-04-01,2019-04-23,2019-04-23,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-07,schedEvent,schedDiv,Dự kiến cổ tức,2019-08-14,2019-08-14,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:12",,12,,2018
+2019-05-07,schedEvent,schedIssue,Dự kiến phát hành,2019-10-10,2019-10-10,,Dự kiến phát hành 20.000.000 cổ phiếu để tăng vốn điều lệ,,,,
+2019-07-29,investorRight,POLL,Lấy ý kiến cổ đông,2019-08-13,,,V/v Lấy ý kiến cổ đông bằng văn bản các vấn đề thuộc thẩm quyền quyết định của ĐHĐCĐ,,,,
+2019-08-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-08-14,2019-08-15,,"Trả cổ tức năm 2018, Tỷ lệ 100:12",,12,,2018
+2019-08-30,schedEvent,schedExchange,Dự kiến chuyển sàn,2019-08-30,,,Dự kiến chuyển sàn từ UPCOM sang HOSE,,,,
+2019-12-06,investorRight,MEETING,Họp cổ đông,2019-12-26,,,ĐHĐCĐ bất thường năm 2019,,,,
+2019-12-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-12-31,,,Số lượng 2999999 cp,,,,
+2020-06-03,investorRight,MEETING,Họp cổ đông,2020-06-16,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-28,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-08-03,,,Hủy ĐKGD trên UPCOM,,,,

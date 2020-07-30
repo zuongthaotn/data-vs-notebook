@@ -1,0 +1,8 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-07-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-08-09,2018-08-16,2018-08-16,Tạm ứng cổ tức năm 2018 (500 đ/cp),500,5,,2018
+2018-08-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến tạm ứng cổ tức đợt 2/2018 (2000 đ/cp),2000,20,2,2018
+2018-10-11,investorRight,MEETING,Họp cổ đông,2018-10-26,2018-11-12,2018-11-12,ĐHĐCĐ bất thường năm 2018,,,,
+2018-11-28,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến pát hành 3.063.528 cp cho CĐHH, tỷ lệ 1:2.34, giá 10.000 đ/cp",,234,,
+2019-06-14,investorRight,MEETING,Họp cổ đông,2019-06-07,2019-06-22,2019-06-22,ĐHĐCĐ thường niên năm 2019,,,,
+2020-03-17,investorRight,MEETING,Họp cổ đông,2020-04-01,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-24,investorRight,MEETING,Họp cổ đông,2020-08-05,2020-08-22,2020-08-22,ĐHĐCĐ bất thường năm 2020,,,,

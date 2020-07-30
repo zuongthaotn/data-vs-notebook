@@ -1,0 +1,24 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-10-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-18,2016-10-28,2016-10-28,Cổ tức năm 2015 (1.000đ/cp),1000,10,,2015
+2016-10-24,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2016-10-28,2017-01-10,,Giá tham chiếu 39.000 đ/cp,,,,
+2016-11-04,investorRight,POLL,Lấy ý kiến cổ đông,2016-11-16,,,V/v chuyển sàn giao dịch cổ phiếu từ sàn UPCOM sang niêm yết tại sàn HOSE,,,,
+2016-12-08,schedEvent,schedExchange,Dự kiến chuyển sàn,2016-12-06,,,Chuyển từ UPCOM sang HOSE,,,,
+2017-01-06,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2017-01-11,,,Hủy niêm yết trên UPCOM,,,,
+2017-01-12,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2017-01-19,,,Giá tham chiếu 127.600 đ/cp,,,,
+2017-01-19,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-01-19,2018-01-04,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-03-22,investorRight,MEETING,Họp cổ đông,2017-04-04,2017-04-27,2017-04-27,ĐHĐCĐ thường niên năm 2017,,,,
+2017-09-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-09-19,2017-10-12,2017-10-12,Trả cổ tức năm 2016 (1800đ/cp),1800,18,,2016
+2017-09-08,investorRight,POLL,Lấy ý kiến cổ đông,2017-09-19,,,V/v miễn nhiệm và bầu thay thế thành viên HĐQT,,,,
+2017-10-20,investorRight,POLL,Lấy ý kiến cổ đông,2017-11-06,,,V/v miễn nhiệm và bầu thay thế HĐQT mới,,,,
+2018-05-04,stockAlert,noticed,Nhắc nhở,2018-05-03,,,Chậm nộp BCTN năm 2017,,,,
+2018-05-30,investorRight,MEETING,Họp cổ đông,2018-03-27,2018-06-28,2018-06-28,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-31,stockAlert,noticed,Nhắc nhở,2018-05-30,,,Chậm CB việc điều chỉnh hồi tố năm 2016,,,,
+2018-12-19,investorRight,POLL,Lấy ý kiến cổ đông,2019-01-07,,,"V/v: Miễn nhiệm chức vụ Trưởng Ban kiểm soát, thực hiện Quy trình nhân sự bầu bổ sung kiếm soát viên",,,,
+2018-12-24,stockAlert,noticed,Nhắc nhở,2018-12-21,,,Chậm CBTT nhận đơn từ nhiệm Trưởng BKS,,,,
+2018-12-28,stockAlert,noticed,Nhắc nhở,2018-12-27,,,Vi phạm quy định CBTT 03 lần 1 năm,,,,
+2019-07-29,investorRight,POLL,Lấy ý kiến cổ đông,2019-08-15,,,V/v Xin ý kiến cổ đông bằng văn bản về việc bầu thêm thành viên HĐQT,,,,
+2019-08-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-09-06,2019-10-01,2019-10-01,Trả cổ tức năm 2017 (7557 đ/cp),7557,75.57,,2017
+2019-08-19,stockAlert,noticed,Nhắc nhở,2019-08-19,,,Chậm CBTT,,,,
+2019-10-03,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-10-03,,,BCTC có ý kiến ngoại trừ của kiểm toán,,,,
+2019-12-16,investorRight,POLL,Lấy ý kiến cổ đông,2020-01-02,,,"V/v: Giới thiệu TVHĐQT độc lập, thay đổi TVBKS, bổ sung ngành nghề kinh doanh",,,,
+2020-05-15,investorRight,MEETING,Họp cổ đông,2020-05-29,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,

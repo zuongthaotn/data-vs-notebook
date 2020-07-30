@@ -1,0 +1,15 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-05-11,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-05-25,,,Giá tham chiếu 10.700 đ/cp,,,,
+2018-05-25,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-05-25,2019-01-07,,Thời gian niêm yết dưới 06 tháng,,,,
+2018-07-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2017, tỷ lệ 100:5",,5,,2017
+2018-07-24,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-08-09,2018-08-10,,"Trả cổ tức năm 2017, Tỷ lệ 100:5",,5,,2017
+2018-08-17,investorRight,MEETING,Họp cổ đông,2018-07-20,2018-08-31,2018-08-31,ĐHĐCĐ bất thường năm 2018,,,,
+2018-08-31,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 25.000.000 cp riêng lẻ,,,,
+2018-09-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-09-26,,,"Số lượng 1,299,990 cp",,,,
+2019-03-28,investorRight,MEETING,Họp cổ đông,2019-02-15,2019-04-10,2019-04-10,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,dự kiến trả cổ tức năm 2020 tỷ lệ 7%,,7,,2020
+2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 tỷ lệ 5%,,5,,2019
+2020-03-03,stockAlert,noticed,Nhắc nhở,2020-03-03,,,Chậm nộp BCTC HN quý 4/2019 và sai sót trong lập BCTC,,,,
+2020-03-11,investorRight,MEETING,Họp cổ đông,2020-03-27,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-03-24,stockAlert,alert,Cảnh báo,2020-03-31,,,Chứng khoán thuộc diện cảnh báo,,,,
+2020-03-25,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-03-25,,,Thời gian niêm yết dưới 6 tháng,,,,

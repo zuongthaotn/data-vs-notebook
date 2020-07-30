@@ -1,0 +1,13 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-08-13,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-08-21,,,Giá tham chiếu 14.900 đ/cp,,,,
+2018-08-22,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-22,2019-04-05,,Thời gian niêm yết dưới 6 tháng,,,,
+2019-05-04,investorRight,MEETING,Họp cổ đông,2019-05-23,2019-06-17,2019-06-17,ĐHĐCĐ thường niên năm 2019,,,,
+2019-09-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-09-17,2019-09-18,,"Trả cổ tức năm 2018, Tỷ lệ 100:10",,10,,2018
+2019-09-28,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-09-17,2019-11-29,2019-11-29,Thay đổi ngày trả cổ tức năm 2018 từ ngày 30/09/2019 sang ngày 29/11/2019,,10,,2018
+2019-11-14,stockAlert,noticed,Nhắc nhở,2019-11-14,,,Chậm nộp hồ sơ đăng ký thay đổi niêm yết,,,,
+2019-11-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-09-17,2020-07-31,2020-07-31,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
+2019-11-25,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-09-17,2020-07-31,2020-07-31,Thay đổi ngày chi trả cổ tức năm 2018 từ ngày 29/11/2019 sang ngày 31/07/2020,1000,10,,2018
+2019-12-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 1299942 cp,,,,
+2019-12-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-12-27,,,Số lượng 1299942 cp,,,,
+2020-04-15,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-04-15,,,BCTC 2019 không có ý kiến chấp nhận toàn phần từ TCKT,,,,
+2020-05-27,investorRight,MEETING,Họp cổ đông,2020-06-11,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,

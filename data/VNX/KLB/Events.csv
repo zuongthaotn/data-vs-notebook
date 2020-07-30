@@ -1,0 +1,12 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-03-02,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-04-14,2017-04-14,ĐHĐCĐ thường niên năm 2017,,,,
+2017-06-16,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-06-29,,,Giá tham chiếu 10.000 đ/cp,,,,
+2018-02-05,investorRight,POLL,Lấy ý kiến cổ đông,2018-02-22,,,"Vv: Số lượng thành viên và điều kiện, tiêu chuẩn đề cử, ứng cử thành viên nhiệm kỳ 2018 - 2022",,,,
+2018-04-10,investorRight,MEETING,Họp cổ đông,2018-02-22,2018-04-26,2018-04-26,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-26,schedEvent,schedDiv,Dự kiến cổ tức,2018-09-14,2018-09-14,,"Dự kiến phát hành 14.810.000 cp để trả cổ tức năm 2017, tỷ lệ 100:5",,5,,2017
+2018-04-26,schedEvent,schedIssue,Dự kiến phát hành,2018-09-14,2018-09-14,,"Dự kiến phát hành 8.886.000 cp cho CĐHH, tỷ lệ 100:3",,3,,
+2018-09-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-09-14,2018-09-17,,"Trả cổ tức năm 2017, Tỷ lệ 100:5",,5,,2017
+2018-09-06,investorRight,KINDDIV,Cổ phiếu thưởng,2018-09-14,2018-09-17,,Tỷ lệ 100:3,,3,,
+2018-12-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-12-12,,,Số lượng 23.695.796 cp,,,,
+2019-02-25,investorRight,MEETING,Họp cổ đông,2019-03-14,2019-04-12,2019-04-12,ĐHĐCĐ thường niên năm 2019,,,,
+2020-02-12,investorRight,MEETING,Họp cổ đông,2020-03-04,,,ĐHĐCĐ thường niên năm 2020,,,,

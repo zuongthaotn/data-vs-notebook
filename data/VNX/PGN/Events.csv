@@ -1,0 +1,13 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2019-02-22,investorRight,MEETING,Họp cổ đông,2019-03-13,,,"ĐHĐCĐ thường niên năm 2019 
+
+",,,,
+2019-06-25,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2019-07-04,,,Giá tham chiếu 11.500 đ/cp,,,,
+2019-06-25,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2019-07-04,,,Reference price: VND 11.500/share,,,,
+2019-07-02,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-07-04,2020-01-07,,Thời gian niêm yết dưới 6 tháng,,,,
+2020-03-04,investorRight,MEETING,Họp cổ đông,2020-03-24,2020-04-13,2020-04-13,ĐHĐCĐ thường niên năm 2020,,,,
+2020-04-08,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-03-24,2020-06-05,2020-06-05,Thay đổi thời gian trả cổ tức 2018 từ ngày 8/4/2020 sang ngày 5/6/2020,800,8,,2018
+2020-04-14,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (1200 đ/cp),1200,12,,2019
+2020-04-14,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2020 (1500 đ/cp),1500,15,,2020
+2020-06-03,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-03-24,2020-07-06,2020-07-06,Thay đổi ngày thanh toán cổ tức từ ngày 5/6/2020 đến ngày 6/7/2020,,,,2018
+2020-06-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-03-24,2020-07-06,2020-07-06,Trả cổ tức năm 2018 (800 đ/cp),800,8,,2018

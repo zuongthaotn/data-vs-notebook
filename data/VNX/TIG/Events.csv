@@ -1,0 +1,37 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2010-09-30,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2010-10-08,,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
+2011-01-05,investorRight,POLL,Lấy ý kiến cổ đông,2011-01-11,2011-01-28,2011-01-28,Lấy ý kiến cổ đông bằng văn bản,,,,
+2011-03-10,investorRight,MEETING,Họp cổ đông,2011-03-21,2011-04-29,2011-04-29,ĐHCĐ thường niên năm 2010,,,,
+2011-07-01,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2011-07-06,2011-07-08,,"Trả cổ tức năm 2010, Tỷ lệ 100:10",,10,,2010
+2011-07-20,investorRight,POLL,Lấy ý kiến cổ đông,2011-07-06,,,Lấy ý kiến v/v niêm yết bổ sung cp để chi trả cổ tức năm 2010,,,,
+2011-09-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2011-09-19,,,Số lượng 1.500.000 cp,,,,
+2012-02-28,investorRight,MEETING,Họp cổ đông,2012-03-13,2012-04-26,2012-04-26,ĐHĐCĐ thường niên năm 2012,,,,
+2012-04-12,stockAlert,alert,Cảnh báo,2012-04-12,2013-04-02,,CP thuộc diện cảnh báo,,,,
+2013-03-01,investorRight,MEETING,Họp cổ đông,2013-03-13,2013-04-25,2013-04-25,ĐHĐCĐ thường niên năm 2013,,,,
+2014-02-25,investorRight,MEETING,Họp cổ đông,2014-02-26,2014-04-24,2014-04-24,ĐHĐCĐ thường niên năm 2014,,,,
+2014-03-10,investorRight,POLL,Lấy ý kiến cổ đông,2014-02-26,,,Lấy ý kiến v/v phát hành riêng lẻ và trái phiếu chuyển đổi,,,,
+2014-08-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức bằng cổ phiếu năm 2013,,,,2013
+2014-10-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-10-10,,,Số lượng 10.000.000 cp,,,,
+2015-02-27,investorRight,MEETING,Họp cổ đông,2015-03-10,2015-04-05,2015-04-05,ĐHCĐ thường niên năm 2015,,,,
+2015-06-26,investorRight,ISSUE,Phát hành thêm,2015-07-03,2015-08-03,,"Tỷ lệ 1:1, giá 10.000 đ/cp",,100,,
+2015-06-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2015-07-03,2015-07-07,,Tỷ lệ 100:10,,10,,
+2015-09-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-10-08,,,Số lượng 29.150.000 cp,,,,
+2016-02-24,investorRight,MEETING,Họp cổ đông,2016-03-03,2016-04-26,2016-04-26,ĐHCĐ thường niên năm 2016,,,,
+2016-06-02,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-06-08,,,"Số lượng 12,350,000 cp",,,,
+2016-06-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền 5% và cổ tức bằng cp 10%,,15,,
+2016-06-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2015 bằng tiền (500đ/cp),500,5,,2015
+2016-09-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-07,2016-10-10,,"Trả cổ tức năm 2015, Tỷ lệ 100:10",,10,,2015
+2016-09-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-07,2016-10-21,2016-10-21,Trả cổ tức năm 2015 (500 đ/cp),500,5,,2015
+2016-11-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-22,,,Số lượng 5.565.000 cp,,,,
+2017-02-21,investorRight,MEETING,Họp cổ đông,2017-03-07,2017-04-26,2017-04-26,ĐHĐCĐ thường niên năm 2017,,,,
+2017-06-30,schedEvent,schedDiv,Dự kiến cổ tức,2017-08-01,2017-08-01,,"Dự kiến trả cổ tức năm 2016 bằng CP, tỷ lệ 100:5",,5,,2016
+2017-07-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-08-01,2017-08-02,,"Trả cổ tức năm 2016, Tỷ lệ 100:5",,5,,2016
+2017-09-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-09-26,,,Số lượng 3678250CP,,,,
+2018-05-10,investorRight,MEETING,Họp cổ đông,2018-03-22,2018-05-15,2018-05-15,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2017 (700 đ/cp),700,7,,2017
+2018-05-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến phát hành 5.407.027 cp trả cổ tức năm 2017, tỷ lệ 100:7",,7,,2017
+2018-10-16,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-10-30,2018-10-31,,"Trả cổ tức năm 2017, Tỷ lệ 100:7",,7,,2017
+2018-12-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-12-20,,,Số lượng 5407027 cp,,,,
+2019-03-14,investorRight,MEETING,Họp cổ đông,2019-03-29,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-10-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-10-14,2019-10-25,2019-10-25,Trả cổ tức năm 2018 (500 đ/cp),500,5,,2018
+2020-06-18,investorRight,MEETING,Họp cổ đông,2020-06-01,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,

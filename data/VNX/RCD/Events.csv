@@ -1,0 +1,19 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-01-30,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2015-02-06,,,Giá tham chiếu 10.000đ/cp,,,,
+2015-03-24,investorRight,MEETING,Họp cổ đông,2015-03-30,2015-05-05,2015-05-05,ĐHĐCĐ thường niên năm 2015,,,,
+2015-07-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-07-15,2015-07-31,2015-07-31,Trả cổ tức năm 2014 (750đ/cp),750,7.5,,2014
+2016-05-24,investorRight,MEETING,Họp cổ đông,2016-06-07,2016-06-28,2016-06-28,Đại hội đồng cổ đông thường niên năm 2016,,,,
+2016-07-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-07-15,2016-07-29,2016-07-29,Trả cổ tức năm 2015 (900 đ/cp),900,9,,2015
+2016-07-05,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 10%/VĐL,,10,,2016
+2016-12-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-01-10,2017-01-24,2017-01-24,Cổ tức năm 2016 (1.000đ/cp),1000,10,,2016
+2017-05-16,investorRight,MEETING,Họp cổ đông,2017-05-29,2017-06-28,2017-06-28,ĐHĐCĐ thường niên năm 2017,,,,
+2017-06-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2017 (1500đ/cp),1500,15,,2017
+2017-11-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-11-29,2018-01-15,2018-01-15,Tạm ứng cổ tức năm 2017 (5000 đ/cp),5000,50,,2017
+2018-03-12,investorRight,MEETING,Họp cổ đông,2018-03-29,2018-04-26,2018-04-26,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-07,2018-06-20,2018-06-20,Tạm ứng cổ tức đợt 1/2018 (1.500đ/cp),1500,15,1,2018
+2019-03-15,investorRight,MEETING,Họp cổ đông,2019-01-29,2019-04-25,2019-04-25,ĐHĐCĐ thường niên năm 2019,,,,
+2019-11-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-13,2019-12-25,2019-12-25,Trả cổ tức đợt 1/2019 (5000 đ/cp),5000,50,1,2019
+2020-03-03,investorRight,MEETING,Họp cổ đông,2020-03-30,2020-04-29,2020-04-29,ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-07,stockAlert,noticed,Nhắc nhở,2020-05-07,,,Chậm công bố BCTC kiểm toán năm 2019 quá 30 ngày,,,,
+2020-05-18,stockAlert,suspend,Tạm ngừng giao dịch,2020-05-21,2020-05-25,,Chậm công bố BCTC kiểm toán năm 2019,,,,
+2020-05-25,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-05-26,,,Tổ chức kiểm toán từ chối đưa ra ý kiến đối với BCTC 2019,,,,

@@ -1,0 +1,25 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2010-07-05,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2010-07-16,,,Giá tham chiếu 30.000đ/cp,,,,
+2010-12-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2010-12-15,2011-01-17,2011-01-17,Tạm ứng cổ tức đợt 1/2010 (500 đ/cp),500,5,1,2010
+2011-03-16,investorRight,ISSUE,Phát hành thêm,2011-03-23,2011-05-05,,"Bán ưu đãi cp tỷ lệ 2:1, giá 10.000 đ/cp",,8.4,,
+2011-03-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-03-23,2011-04-25,2011-04-25,Trả cổ tức năm 2010 (1.000 đ/cp),1000,10,,2010
+2012-03-05,investorRight,MEETING,Họp cổ đông,2012-03-15,2012-04-23,2012-04-23,ĐHCĐ thường niên năm tài khóa 2011,,,,
+2013-04-03,investorRight,MEETING,Họp cổ đông,2013-04-11,,,Đại hội đồng cổ đông thường niên năm 2012,,,,
+2014-03-13,investorRight,MEETING,Họp cổ đông,2014-03-26,2014-04-28,2014-04-28,Đại hội cổ đông thường niên năm 2014,,,,
+2014-04-03,stockAlert,alert,Cảnh báo,2014-04-11,2018-04-09,,CP thuộc diện cảnh báo,,,,
+2014-12-24,stockAlert,noticed,Nhắc nhở,2014-12-24,,,Bị nhắc nhở vì chậm CBTT,,,,
+2015-03-16,investorRight,MEETING,Họp cổ đông,2015-03-31,2015-04-27,2015-04-27,ĐHĐCĐ thường niên năm 2015,,,,
+2016-04-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-04-05,2018-04-04,,Chứng khoán thuộc diện cảnh báo,,,,
+2016-04-22,investorRight,MEETING,Họp cổ đông,2016-04-14,2016-04-29,2016-04-29,Họp đại hội cổ đông thường niên tài khóa 2015,,,,
+2016-07-11,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành 6.000.000 cổ phiếu riêng lẻ cho đối tác chiến lược,,,,
+2017-01-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-11-17,,,Số lượng 5000000 cp,,,,
+2017-03-27,investorRight,MEETING,Họp cổ đông,2017-04-07,,,ĐHĐCĐ thường niên năm 2017,,,,
+2018-01-09,schedEvent,schedIssue,Dự kiến phát hành,2018-09-05,2018-09-05,,Dự kiến phát hành 5.000.000 cổ phiếu riêng lẻ cho đối tác chiến lược,,,,
+2018-03-19,investorRight,MEETING,Họp cổ đông,2018-04-02,,,ĐHĐCĐ thường niên năm 2018,,,,
+2018-09-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 2200000 cp,,,,
+2019-06-17,investorRight,MEETING,Họp cổ đông,2019-04-12,2019-06-27,2019-06-27,ĐHĐCĐ thường niên năm 2019,,,,
+2019-10-17,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành cp cho CĐHH,,2.5,,
+2019-10-25,investorRight,MEETING,Họp cổ đông,2019-11-11,2019-12-23,2019-12-23,ĐHĐCĐ bất thường năm 2019,,,,
+2019-12-25,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-12-30,2019-12-31,,"Trả cổ tức năm 2018, Tỷ lệ 100:2.5",,2.5,,2018
+2019-12-25,investorRight,KINDDIV,Cổ phiếu thưởng,2019-12-30,2019-12-31,,Tỷ lệ 100:2.5,,2.5,,
+2020-04-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-04-20,,,"Số lượng 859,832 cp",,,,

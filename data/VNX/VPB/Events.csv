@@ -1,0 +1,22 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-08-09,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2017-08-17,,,Giá tham chiếu 39.000 đ/cp,,,,
+2017-08-17,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-08-17,2018-03-06,,Thời gian niêm yết dưới 06 tháng,,,,
+2017-12-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 164714380 cp,,,,
+2018-02-09,investorRight,MEETING,Họp cổ đông,2018-02-27,2018-03-19,2018-03-19,ĐHĐCĐ thường niên năm 2018,,,,
+2018-06-04,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 473.193.341 cp để tăng VĐL, tỷ lệ 100:31.6",,31.6,,
+2018-06-04,investorRight,KINDDIV,Cổ phiếu thưởng,2018-06-18,2018-06-19,,Tỷ lệ 100:31.6,,31.6,,
+2018-06-04,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-06-18,2018-06-19,,"Trả cổ tức năm 2017, Tỷ lệ 100:30.22",,30.22,,2017
+2018-06-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-28,2018-07-06,2018-07-06,Trả cổ tức năm 2017 (2000 đ/cp),2000,20,,2017
+2018-07-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 925649857 cp,,,,
+2018-08-13,schedEvent,schedIssue,Dự kiến phát hành,2018-09-19,2018-09-19,,"Dự kiến phát hành 33.695.094 cổ phiếu ESOP, tỷ lệ 100:1.39",,1.39,,
+2018-10-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-09-20,,,"Số lượng 6,046,120 cp",,,,
+2019-02-01,investorRight,POLL,Lấy ý kiến cổ đông,2019-02-21,,,"V/v: Thông báo về việc đề cử, ứng cử thành viên Ban kiểm soát nhiệm kỳ 2015 - 2020",,,,
+2019-03-26,investorRight,MEETING,Họp cổ đông,2019-04-05,,,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-02,schedEvent,schedIssue,Dự kiến phát hành,2019-12-17,2019-12-17,,"Dự kiến phát hành 31.000.000 cp cho CBCNV, tỷ lệ 100:1.288, giá 10.000 đ/cp",,1.29,,
+2019-05-29,investorRight,POLL,Lấy ý kiến cổ đông,2019-06-07,,,V/v: Thông qua phương án chào bán trái phiếu và niêm yết trái phiếu tại nước ngoài,,,,
+2019-08-02,investorRight,POLL,Lấy ý kiến cổ đông,2019-08-20,,,V/v Ngân hàng thực hiện mua lại cổ phiếu đã phát hành để làm cổ phiếu quỹ,,,,
+2019-09-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-09-25,,,Số lượng 5182103 cp,,,,
+2019-09-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-18,,,Số lượng 6045682 cp,,,,
+2019-12-30,investorRight,POLL,Lấy ý kiến cổ đông,2020-01-15,,,"V/v đề cử, ứng cử thành viên HĐQT, BKS nhiệm kỳ 2020-2025",,,,
+2020-03-30,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-17,,,V/v: Mua cổ phiếu quỹ năm 2020,,,,
+2020-04-27,investorRight,MEETING,Họp cổ đông,2020-05-13,,,ĐHĐCĐ thường niên năm 2020,,,,

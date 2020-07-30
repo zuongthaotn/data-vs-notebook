@@ -1,0 +1,16 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-04-20,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-04-26,,,Giá tham chiếu 125.000 đ/cp,,,,
+2018-04-26,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-04-26,2019-01-07,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-04-27,schedEvent,schedIssue,Dự kiến phát hành,2018-05-24,2018-05-24,,"Dự kiến phát hành 28.000.000 cp để tăng VCSH, tỷ lệ 100:70",,70,,
+2018-05-11,investorRight,KINDDIV,Cổ phiếu thưởng,2018-05-24,2018-05-25,,Tỷ lệ 100:70,,70,,
+2018-06-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 28000000 cp,,,,
+2019-02-14,investorRight,MEETING,Họp cổ đông,2019-03-05,2019-03-27,2019-03-27,ĐHĐCĐ thường niên năm 2019,,,,
+2019-03-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2018, tỷ lệ 100:15",,15,,2018
+2019-04-11,schedEvent,schedIssue,Dự kiến phát hành,2019-05-09,2019-05-09,,"Dự kiến phát hành cp ESOP, giá 10.000 đ/cp, tỷ lệ 100:1",,1,,
+2019-05-13,investorRight,MEETING,Họp cổ đông,2019-05-27,2019-06-18,2019-06-18,Họp ĐHĐCĐ bất thường năm 2019,,,,
+2019-05-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-05-28,,,Số lượng 340000 cp,,,,
+2019-05-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-05-04,,,Số lượng 340000 cp,,,,
+2019-06-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-14,2019-06-27,2019-06-27,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
+2019-07-17,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-07-31,2019-08-01,,"Trả cổ tức năm 2018, Tỷ lệ 100:15",,15,,2018
+2019-08-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-08-29,,,"Số lượng 10,301,792 cp",,,,
+2020-04-15,investorRight,MEETING,Họp cổ đông,2020-05-07,2020-05-28,2020-05-28,ĐHĐCĐ thường niên năm 2020,,,,

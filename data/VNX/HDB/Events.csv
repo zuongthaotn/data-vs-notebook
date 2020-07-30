@@ -1,0 +1,14 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-12-28,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-01-05,,,Giá tham chiếu 33.000 đ/cp,,,,
+2018-01-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-01-05,2018-07-06,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-03-19,investorRight,MEETING,Họp cổ đông,2018-04-06,2018-04-21,2018-04-21,ĐHĐCĐ thường niên năm 2018,,,,
+2018-05-14,stockAlert,noticed,Nhắc nhở,2018-05-14,,,Nhăc nhở chậm báo cáo các công bố thông tin,,,,
+2018-06-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-20,2018-07-05,2018-07-05,Trả cổ tức đợt 1/2017 (1300 đ/cp),1300,13,1,2017
+2018-08-31,investorRight,POLL,Lấy ý kiến cổ đông,2018-09-19,,,V/v các vấn đề thuộc thẩm quyền Đại hội đồng cổ đông,,,,
+2019-03-24,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 196.199.995 cp cho CĐHH, tỷ lệ 100:20",,20,,
+2019-04-11,investorRight,MEETING,Họp cổ đông,2019-04-01,2019-04-23,2019-04-23,ĐHĐCĐ thường niên năm 2019,,,,
+2019-08-15,investorRight,POLL,Lấy ý kiến cổ đông,2019-09-03,,,V/v mua lại không quá 5% cổ phiếu HDBank đã phát hành làm cổ phiếu quỹ và các vấn đề thuộc thẩm quyền quyết định của ĐHĐCĐ,,,,
+2019-12-27,investorRight,POLL,Lấy ý kiến cổ đông,2020-01-15,,,Về các nội dung thuộc thẩm quyền quyết định của ĐHĐCĐ,,,,
+2020-02-12,investorRight,POLL,Lấy ý kiến cổ đông,2020-02-28,,,V/v: Số lượng thành viên Ban kiểm soát nhiệm kỳ 2017-2022,,,,
+2020-04-17,investorRight,POLL,Lấy ý kiến cổ đông,2020-05-06,,,V/v: Thông qua việc ban hành quy chế tổ chức ĐHĐCĐ trực tuyến và biểu quyết điện tử,,,,
+2020-05-08,investorRight,MEETING,Họp cổ đông,2020-05-26,2020-06-13,2020-06-13,ĐHĐCĐ thường niên năm 2020,,,,

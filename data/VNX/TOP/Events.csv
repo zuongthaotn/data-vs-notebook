@@ -1,0 +1,15 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-07-16,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2015-07-23,,,Giá tham chiếu 10.000đ/cp,,,,
+2015-10-16,investorRight,MEETING,Họp cổ đông,2015-10-22,2015-11-16,2015-11-16,Đại hội cổ đông bất thường năm 2015,,,,
+2016-03-02,investorRight,MEETING,Họp cổ đông,2016-03-14,2016-04-04,2016-04-04,ĐHCĐ thường niên năm 2016,,,,
+2016-03-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-03-14,,,Số lượng 5.850.000 cp,,,,
+2016-06-06,investorRight,ISSUE,Phát hành thêm,2016-06-16,2016-07-18,,"Phát hành 15,600,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:16",,16,,
+2016-08-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-08-16,,,"Số lượng 15,600,000 cp",,,,
+2016-10-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-11-03,2016-11-14,2016-11-14,Cổ tức năm 2016 (450đ/cp),450,4.5,,2016
+2016-10-21,investorRight,POLL,Lấy ý kiến cổ đông,2016-11-03,,,V/v hủy đăng ký giao dịch tại Upcom và niêm yết cổ phiếu công ty lên sàn giao dịch chứng khoán thành phố Hồ Chí Minh.,,,,
+2016-11-30,schedEvent,schedDelisted,Dự kiến hủy niêm yết trên UPCoM,2016-11-28,,,Chuyển niêm yết cổ phiếu sang HOSE,,,,
+2016-12-08,investorRight,MEETING,Họp cổ đông,2017-01-18,2017-02-27,2017-02-27,ĐHĐCĐ thường niên năm 2017,,,,
+2018-05-25,investorRight,MEETING,Họp cổ đông,2018-06-13,2018-06-30,2018-06-30,ĐHĐCĐ thường niên năm 2018,,,,
+2019-04-03,investorRight,MEETING,Họp cổ đông,2019-03-25,2019-04-27,2019-04-27,ĐHĐCĐ thường niên năm 2019,,,,
+2020-02-14,investorRight,MEETING,Họp cổ đông,2020-03-09,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-04-06,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2020-04-09,,,BCTC 2019 không nhận được ý kiến chấp nhận toàn phần,,,,

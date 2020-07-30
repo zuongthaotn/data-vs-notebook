@@ -1,0 +1,63 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2012-07-18,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2012-07-24,,,Giá tham chiếu 24.000đ/cp,,,,
+2012-11-05,investorRight,ISSUE,Phát hành thêm,2012-11-09,2012-12-26,,"Tỷ lệ 100:3.85, giá 20000 đ/cp",,3.85,,
+2012-11-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2012-11-09,2012-11-13,,Tỷ lệ 100:20,,20,,2011
+2013-01-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2013-01-17,2013-02-04,2013-02-04,Trả cổ tức năm 2012 (1000 đ/cp),1000,10,,2012
+2013-02-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2013-02-18,,,Niêm yết bổ sung 2.761.166 cp,,,,
+2013-03-21,investorRight,MEETING,Họp cổ đông,2013-03-27,2013-04-19,2013-04-19,ĐHCĐ Thường niên  2013,,,,
+2013-08-01,investorRight,ISSUE,Phát hành thêm,2013-08-08,2013-09-16,,"Tỷ lệ 100:21.25, giá 10000 đ/cp",,21.25,,
+2013-08-01,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2013-08-08,2013-08-12,,Tỷ lệ 100:20,,20,,2012
+2013-10-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2013-10-21,,,Số lượng 23.192.790 cp,,,,
+2014-01-24,investorRight,MEETING,Họp cổ đông,2014-02-12,2014-03-15,2014-03-15,ĐHĐCĐ thường niên năm 2014,,,,
+2014-03-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-04-02,2014-04-26,2014-04-26,Trả cổ tức năm 2013 (1000đ/cp),1000,10,,2013
+2014-04-17,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2014-04-23,2014-04-25,,"Trả cổ tức năm 2013, Tỷ lệ 100:10",,10,,2013
+2014-06-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-06-25,,,Số lượng: 3.975.781 cổ phiếu phát hành trả cổ tức năm 2013 cho cổ đông hiện hữu.,,,,
+2014-06-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-06-15,,,Số lượng: 993978cổ phiếu phát hành theo chương trình lựa chọn cho người lao động trong công ty,,,,
+2014-06-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-06-15,,,Số lượng: 993977 cổ phiếu phát hành theo chương trình lựa chọn cho người lao động trong công ty,,,,
+2014-08-11,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu cho Cán bộ CNV của công ty theo chương trình ESOP,,,,
+2014-08-11,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu để trả cổ tức cho CĐHH,,,,
+2014-08-11,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu cho cổ đông chiến lược,,,,
+2014-08-11,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu để trả cổ tức bằng cổ phần,,,,
+2015-02-10,investorRight,MEETING,Họp cổ đông,2015-02-24,2015-04-24,2015-04-24,ĐHĐCĐ thường niên năm 2015,,,,
+2015-04-27,stockAlert,noticed,Nhắc nhở,2015-04-27,,,Vv chậm CBTT BCTN năm 2014,,,,
+2015-07-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-07-20,2015-08-03,2015-08-03,Trả cổ tức năm 2014 (1000 đ/cp),1000,10,,2014
+2016-03-09,investorRight,MEETING,Họp cổ đông,2016-03-18,2016-04-23,2016-04-23,ĐHCĐ thường niên năm 2016,,,,
+2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2015 (1.000đ/cp),1000,10,,2015
+2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức năm 2016 (1.000đ/cp),1000,10,,2016
+2016-07-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-08-08,2016-09-09,2016-09-09,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
+2016-09-23,schedEvent,schedIssue,Dự kiến phát hành,2016-10-10,2016-10-10,,"Phát hành 2.000.000 cp chuyển đổi trái phiếu cho VCBS, giá 19.700 đ/cp, tỷ lệ 1:51",,5100,,
+2016-11-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-30,,,Số lượng 2000000 cp,,,,
+2017-02-07,schedEvent,schedIssue,Dự kiến phát hành,2017-02-07,2017-02-07,,Chuyển đổi trái phiếu cho Vietnam Holding Limited và PYN Elite Fund (Non-UCITS),,,,
+2017-03-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 1776568 cp,,,,
+2017-03-16,investorRight,MEETING,Họp cổ đông,2017-03-31,2017-04-29,2017-04-29,ĐHCĐ thường niên năm 2017,,,,
+2017-04-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ không quá 10% /VĐL bằng tiền hoặc bằng cổ phiếu",,10,,2017
+2017-05-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-06-08,2017-08-02,2017-08-02,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
+2017-07-03,schedEvent,schedIssue,Dự kiến phát hành,2017-07-03,2017-07-03,,"Chuyển đổi trái phiếu thành cổ phiếu, 4853494 cp",,,,
+2017-07-18,investorRight,MEETING,Họp cổ đông,2017-07-27,2017-08-19,2017-08-19,ĐHCĐ bất thường năm 2017,,,,
+2017-07-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-01,,,Số lượng 4853494 cp,,,,
+2017-08-22,schedEvent,schedIssue,Dự kiến phát hành,2018-01-12,2018-01-12,,"Dự kiến phát hành 33.000.000 cp cho CĐHH, tỷ lệ 100:60, giá 15.000 đ/cp",,60,,
+2018-01-05,investorRight,ISSUE,Phát hành thêm,2018-01-12,2018-02-23,,"Phát hành 33,000,000 cp cho CĐHH, giá 15000 đ/cp, tỷ lệ 100:60.7",,60.7,,
+2018-03-05,schedEvent,schedIssue,Dự kiến phát hành,2018-04-06,2018-04-06,,Phát hành 2.500.000 cổ phiếu ESOP,,4.6,,
+2018-03-09,investorRight,MEETING,Họp cổ đông,2018-03-29,2018-04-27,2018-04-27,ĐHĐCĐ thường niên năm 2018,,,,
+2018-04-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-04-20,,,"Số lượng 32,507,809 cp",,,,
+2018-04-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-03-11,,,Số lượng 492191 cp,,,,
+2018-05-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-04-04,,,"Số lượng 1,250,000 cp",,,,
+2018-05-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-04-06,,,Số lượng 1250000 cp,,,,
+2018-10-01,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-10-12,2018-10-24,2018-10-24,Trả cổ tức năm 2017 (500 đ/cp),500,5,,2017
+2018-10-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-10-12,2018-10-15,,"Trả cổ tức năm 2017, Tỷ lệ 100:5",,5,,2017
+2018-10-12,stockAlert,noticed,Nhắc nhở,2018-10-12,,,Chậm CBTT phát hành cổ phiếu để trả cổ tức,,,,
+2018-11-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-11-20,,,Số lượng 4491646CP,,,,
+2019-01-07,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-01-07,2019-04-05,,Công ty vi phạm pháp luật thuế,,,,
+2019-03-12,investorRight,MEETING,Họp cổ đông,2019-04-01,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
+2019-05-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2018 bằng tiền (500 đ/cp),500,5,,2018
+2019-05-02,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 25.000.000 cp cho NĐT chiến lược,,,,
+2019-05-02,schedEvent,schedIssue,Dự kiến phát hành,2019-04-10,2019-04-10,,Dự kiến phát hành 19.503.180 cp để tăng VĐL,,,,
+2019-05-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-06-12,,,"Số lượng 19,503,180 cp",,,,
+2019-07-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-07-15,2019-08-16,2019-08-16,Trả cổ tức năm 2018 (500 đ/cp),500,5,,2018
+2019-08-14,schedEvent,schedDiv,Dự kiến cổ tức,2019-08-29,2019-08-29,,"Dự kiến trả cổ tức năm 2018, Tỷ lệ 100:5",,5,,2018
+2019-08-22,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-08-29,2019-08-30,,"Trả cổ tức năm 2018, Tỷ lệ 100:5",,5,,2018
+2019-09-20,stockAlert,noticed,Nhắc nhở,2019-09-20,,,Chậm CBTT phát hành cổ phiếu trả cổ tức năm 2018,,,,
+2019-09-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-22,,,"Số lượng 5,691,151 cp",,,,
+2019-10-07,stockAlert,noticed,Nhắc nhở,2019-10-04,,,Nhắc nhở thực hiện các quy định về quản trị công ty,,,,
+2019-11-05,stockAlert,noticed,Nhắc nhở,2019-11-04,,,Chậm CB giấy chứng nhận ĐKDN thay đổi lần thứ 30,,,,
+2020-02-04,stockAlert,noticed,Nhắc nhở,2020-02-04,,,Chậm nộp BCQT năm 2019,,,,

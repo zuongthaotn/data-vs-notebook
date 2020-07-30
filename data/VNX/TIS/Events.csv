@@ -1,0 +1,17 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2011-03-17,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2011-03-24,,,Ngày giao dịch đầu tiên trên sàn UPCOM,,,,
+2011-05-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-05-12,2011-06-07,2011-06-07,Trả cổ tức năm 2010 (1000 đ/cp),1000,10,,2010
+2012-02-21,investorRight,MEETING,Họp cổ đông,2012-03-01,,,ĐHĐCĐ thường niên năm 2012,,,,
+2012-04-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2012-05-07,2012-05-25,2012-05-25,Trả cổ tức năm 2011 (600 đ/cp),600,6,,2011
+2013-02-26,investorRight,MEETING,Họp cổ đông,2013-03-06,2013-04-24,2013-04-24,ĐHĐCĐ thường niên năm 2013,,,,
+2014-02-14,investorRight,MEETING,Họp cổ đông,2014-02-26,2014-04-08,2014-04-08,ĐHĐCĐ thường niên năm 2014,,,,
+2014-06-30,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2014-06-30,,,CP sàn UPCOM,,,,
+2014-09-19,investorRight,MEETING,Họp cổ đông,2014-09-26,2014-12-11,2014-12-11,ĐHĐCĐ bất thường năm 2014,,,,
+2015-03-09,investorRight,MEETING,Họp cổ đông,2015-03-18,2015-04-20,2015-04-20,ĐHĐCĐ thường niên năm 2015,,,,
+2015-06-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-06-12,,,Số lượng 284.000.000 cp,,,,
+2016-02-16,investorRight,MEETING,Họp cổ đông,2016-02-26,2016-04-14,2016-04-14,ĐHCĐ thường niên năm 2016,,,,
+2017-03-07,investorRight,MEETING,Họp cổ đông,2017-03-17,2017-04-20,2017-04-20,Đại hội cổ đông thường niên năm 2017,,,,
+2017-05-17,investorRight,MEETING,Họp cổ đông,2017-05-26,2017-06-29,2017-06-29,ĐHĐCĐ bất thường năm 2017,,,,
+2018-04-18,investorRight,MEETING,Họp cổ đông,2018-05-09,2018-06-12,2018-06-12,ĐHĐCĐ thường niên năm 2018,,,,
+2019-02-14,investorRight,MEETING,Họp cổ đông,2019-02-27,2019-04-10,2019-04-10,Họp ĐHĐCĐ thường niên năm 2019,,,,
+2020-02-18,investorRight,MEETING,Họp cổ đông,2020-03-09,2020-06-19,2020-06-19,ĐHĐCĐ thường niên năm 2020,,,,

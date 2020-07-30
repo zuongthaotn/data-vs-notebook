@@ -1,0 +1,23 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2010-06-28,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2010-07-05,,,Giá tham chiếu 20.000đ/cp,,,,
+2011-03-15,investorRight,MEETING,Họp cổ đông,2011-03-23,2011-04-15,2011-04-15,ĐHCĐ thường niên năm 2011,,,,
+2011-09-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-10-06,2011-10-26,2011-10-26,Trả cổ tức năm 2010 (785 đ/cp),785,7.85,,2010
+2011-11-01,investorRight,POLL,Lấy ý kiến cổ đông,2011-11-16,,,v/v bổ sung ngành nghề kinh doanh,,,,
+2012-02-07,investorRight,MEETING,Họp cổ đông,2012-02-22,2012-03-23,2012-03-23,ĐHCĐ thường niên năm 2012,,,,
+2012-09-17,investorRight,POLL,Lấy ý kiến cổ đông,2012-09-26,2012-10-10,2012-10-10,v/v bổ sung ngành nghề kinh doanh,,,,
+2013-03-18,investorRight,MEETING,Họp cổ đông,2013-03-28,2013-04-25,2013-04-25,Đại hội cổ đông thường niên 2013,,,,
+2014-03-06,investorRight,MEETING,Họp cổ đông,2014-03-20,2014-04-25,2014-04-25,Đại hội đồng cổ đông thường niên 2014,,,,
+2014-06-30,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2014-06-30,2016-04-01,,Vì thuộc diện bị cảnh báo,,,,
+2015-03-13,investorRight,MEETING,Họp cổ đông,2015-03-25,2015-04-27,2015-04-27,ĐHĐCĐ thường niên năm 2015,,,,
+2016-02-19,investorRight,MEETING,Họp cổ đông,2016-03-03,2016-04-08,2016-04-08,ĐHCĐ thường niên năm 2016,,,,
+2016-04-01,stockAlert,alert,Cảnh báo,2014-04-11,2016-04-04,,CP thuộc diện cảnh báo,,,,
+2016-08-15,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-08-15,2017-04-05,,LNST trên  BCTC Hợp nhất soát xét 6 tháng năm 2016 âm,,,,
+2017-03-07,investorRight,MEETING,Họp cổ đông,2017-03-21,2017-04-27,2017-04-27,Đại hội cổ đông năm 2017,,,,
+2017-06-30,investorRight,POLL,Lấy ý kiến cổ đông,2017-06-13,2017-08-20,2017-08-20,"V/v: Thông qua mức thù lao của Hội đồng quản trị, Ban kiểm soát",,,,
+2018-02-28,investorRight,MEETING,Họp cổ đông,2018-03-21,2018-04-27,2018-04-27,ÐHÐCÐ thu?ng niên nam 2018,,,,
+2018-08-29,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-29,2019-04-05,,LNST 6 tháng đầu năm 2018 là số âm,,,,
+2018-11-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-11-28,2018-12-17,2018-12-17,Trả cổ tức năm 2017 (100 đ/cp),100,1,,2017
+2019-03-15,investorRight,MEETING,Họp cổ đông,2019-04-03,2019-04-29,2019-04-29,ĐHĐCĐ thường niên năm 2019,,,,
+2019-09-03,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-09-03,2020-07-03,,LNST cổ đông cty mẹ trên BCTC 6 tháng đầu 2019 âm,,,,
+2020-05-12,investorRight,MEETING,Họp cổ đông,2020-06-03,2020-06-24,2020-06-24,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-03,stockAlert,noticed,Nhắc nhở,2020-06-03,,,Chậm công bố BCTN 2019,,,,

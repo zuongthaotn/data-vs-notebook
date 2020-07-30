@@ -1,0 +1,10 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2016-12-23,investorRight,ISSUE,Phát hành thêm,2017-01-04,2017-02-13,,"Phát hành 5,962,500 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:36.05",,36.05,,
+2016-12-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-01-04,2017-06-19,2017-06-19,Cổ tức năm 2016 (2.500đ/cp),2500,25,,2016
+2017-06-02,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-06-14,,,Giá tham chiếu 27.000 đ/cp,,,,
+2018-03-01,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-03-19,2018-05-07,2018-05-07,Trả cổ tức năm 2017 (2000 đ/cp),2000,20,,2017
+2018-03-01,investorRight,MEETING,Họp cổ đông,2018-03-19,2018-04-21,2018-04-21,ĐHĐCĐ thường niên năm 2018,,,,
+2019-02-27,investorRight,MEETING,Họp cổ đông,2019-04-02,2019-04-20,2019-04-20,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-06,2019-05-15,2019-05-15,Trả cổ tức năm 2018 (2500 đ/cp),2500,25,,2018
+2020-02-25,investorRight,MEETING,Họp cổ đông,2020-03-17,2020-04-18,2020-04-18,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-17,2020-07-30,2020-07-30,Trả cổ tức năm 2019 (2500 đ/cp),2500,25,,2019

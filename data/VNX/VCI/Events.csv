@@ -1,0 +1,21 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2017-06-30,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2017-07-07,,,Giá tham chiếu 48.000 đ/cp,,,,
+2017-07-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-07-10,2018-03-19,,Thời gian niêm yết dưới 6 tháng,,,,
+2017-08-01,investorRight,POLL,Lấy ý kiến cổ đông,2017-08-17,,,V/v xin phát hành chứng quyền có bảo đảm,,,,
+2017-08-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-07-16,,,Số lượng 16800000 cp,,,,
+2018-02-26,investorRight,MEETING,Họp cổ đông,2018-03-22,2018-04-16,2018-04-16,ĐHCĐ thường niên năm 2018,,,,
+2018-04-17,schedEvent,schedIssue,Dự kiến phát hành,2018-07-10,2018-07-10,,"Dự kiến phát hành 42.000.000 cổ phần để tăng vốn điều lệ, tỷ lệ 10:3.5",,35,,
+2018-04-17,schedEvent,schedIssue,Dự kiến phát hành,2018-08-24,2018-08-24,,"Dự kiến phát hành 1.000.000 cổ phần ESOP, tỷ lệ 100:0.62, giá 20.000 đ/cp",,0.62,,
+2018-06-25,investorRight,KINDDIV,Cổ phiếu thưởng,2018-07-10,2018-07-11,,Tỷ lệ 100:35,,35,,
+2018-06-25,investorRight,POLL,Lấy ý kiến cổ đông,2018-07-10,,,"V/v thông qua các vấn đề liên quan đến việc chào bán, phát hành và niêm yết chứng quyền có bảo đảm của Công ty",,,,
+2018-06-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-07-10,2018-07-27,2018-07-27,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017
+2018-08-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 41999890 cp,,,,
+2018-10-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-08-19,,,"Số lượng 1,000,000 cp",,,,
+2019-01-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-01-25,2019-02-14,2019-02-14,Trả cổ tức năm 2018 (700 đ/cp),700,7,,2018
+2019-02-28,investorRight,MEETING,Họp cổ đông,2019-03-20,2019-04-22,2019-04-22,Họp ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-16,2019-06-03,2019-06-03,Trả cổ tức đợt 2/2018 (700 đ/cp),700,7,2,2018
+2019-07-29,schedEvent,schedIssue,Dự kiến phát hành,2019-08-19,2019-08-19,,Dự kiến phát hành 1400110 cp cho ESOP theo chương trinh lựa chọn cho người lao động,,0.86,,
+2019-09-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-08-17,,,"Số lượng 1,400,110 cp",,,,
+2020-05-07,investorRight,MEETING,Họp cổ đông,2020-06-01,2020-06-24,2020-06-24,ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-16,2020-08-03,2020-08-03,Trả cổ tức năm 2019 (1500 đ/cp),1500,15,,2019
+2020-07-20,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 1,200,000cp ESOP",,0.73,,

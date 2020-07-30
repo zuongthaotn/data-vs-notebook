@@ -1,0 +1,17 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2015-12-14,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2015-12-18,,,Giá tham chiếu 11.100đ/cp,,,,
+2016-02-24,investorRight,MEETING,Họp cổ đông,2016-03-03,2016-03-24,2016-03-24,ĐHCĐ thường niên năm 2016,,,,
+2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức 2015 tỷ lệ 7%,,7,,2015
+2016-08-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-08-17,2016-09-15,2016-09-15,Trả cổ tức năm 2015 (700 đ/cp),700,7,,2015
+2016-12-16,investorRight,POLL,Lấy ý kiến cổ đông,2016-12-27,,,V/v thông qua quyết định của Đại hội cổ đông về việc sửa đổi Điều lệ tổ chức và hoạt động của công ty,,,,
+2017-03-24,investorRight,MEETING,Họp cổ đông,2017-04-05,2017-04-21,2017-04-21,ĐHĐCĐ thường niên năm 2017,,,,
+2017-08-11,schedEvent,schedIssue,Dự kiến phát hành,2017-11-06,2017-11-06,,Dự kiến phát hành 3.600.100 cp chào bán riêng lẻ,,,,
+2017-09-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-09-27,2017-10-20,2017-10-20,Trả cổ tức năm 2016 (100 đ/cp),100,1,,2016
+2018-01-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-01-18,,,Số lượng 3600100 cp,,,,
+2018-04-10,investorRight,MEETING,Họp cổ đông,2018-03-23,2018-04-24,2018-04-24,ĐHĐCĐ thường niên năm 2018,,,,
+2018-07-06,investorRight,POLL,Lấy ý kiến cổ đông,2018-07-13,,,v/v thông qua các ND thuộc thẩm quyền của ĐHĐCĐ,,,,
+2018-10-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-10-25,2018-11-02,2018-11-02,Trả cổ tức đợt 1/2017 (80 đ/cp),80,0.8,1,2017
+2019-02-15,investorRight,MEETING,Họp cổ đông,2019-03-05,,,"ĐHĐCĐ thường niên năm 2019 
+",,,,
+2019-09-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-10-09,2019-10-18,2019-10-18,Trả cổ tức năm 2018 (50 đ/cp),50,0.5,,2018
+2020-05-20,investorRight,MEETING,Họp cổ đông,2020-06-05,,,ĐHĐCĐ thường niên năm 2020,,,,

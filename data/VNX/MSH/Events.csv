@@ -1,0 +1,9 @@
+disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2018-11-22,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-11-28,,,Giá tham chiếu 45.000 đ/cp,,,,
+2018-11-28,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-11-28,,,Thời gian niêm yết dưới 6 tháng,,,,
+2018-11-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-12-11,2018-12-26,2018-12-26,Tạm ứng cổ tức năm 2018 (4000 đ/cp),4000,40,,2018
+2019-01-30,investorRight,MEETING,Họp cổ đông,2019-02-20,2019-03-16,2019-03-16,ĐHĐCĐ thường niên năm 2019,,,,
+2019-03-18,schedEvent,schedIssue,Dự kiến phát hành,2019-04-17,2019-04-17,,Phát hành ESOP,,,,
+2019-06-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-04-18,,,"Số lượng 2,381,400 cp",,,,
+2019-11-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-11,2019-12-26,2019-12-26,Trả cổ tức năm 2019 (4500 đ/cp),4500,45,,2019
+2020-06-01,investorRight,MEETING,Họp cổ đông,2020-06-02,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,
