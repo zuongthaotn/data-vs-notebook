@@ -48,3 +48,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-09-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-09-26,2019-10-11,2019-10-11,Trả cổ tức năm 2018 (3000 đ/cp),3000,30,,2018
 2020-05-08,investorRight,POLL,Lấy ý kiến cổ đông,2020-05-15,,,"V/v: Cho phép công ty tổ chức ĐHĐCĐ trực tuyến, thực hiện quyền biểu quyết và bỏ phiếu từ xa, trực tuyến",,,,
 2020-05-08,investorRight,MEETING,Họp cổ đông,2020-05-15,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-29,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 4,300,000cp ESOP",,4.5,,
