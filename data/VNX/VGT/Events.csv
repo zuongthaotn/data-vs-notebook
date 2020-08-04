@@ -10,3 +10,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-04-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-07,2019-05-17,2019-05-17,Chi trả cổ tức đợt2/2017 (100đ/cp),100,1,2,2017
 2019-05-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-11,2019-06-24,2019-06-24,Trả cổ tức năm 2018 (600 đ/cp),600,6,,2018
 2020-05-15,investorRight,MEETING,Họp cổ đông,2020-06-05,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-30,stockAlert,suspend,Tạm ngừng giao dịch,2020-08-04,2020-08-06,,Tổ chức đăng ký giao dịch không CBTT về họp ĐHĐCĐ thường niên năm 2020,,,,
