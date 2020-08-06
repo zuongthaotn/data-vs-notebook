@@ -62,3 +62,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-12-26,investorRight,MEETING,Họp cổ đông,2020-01-14,2020-03-25,2020-03-25,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-16,schedEvent,schedIssue,Dự kiến phát hành,2020-07-16,2020-07-16,,"Dự kiến phát hành 40,000,000 cp để thực hiện chứng quyền",,,,
 2020-07-20,investorRight,MEETING,Họp cổ đông,2020-08-07,,,ĐHĐCĐ bất thường năm 2020,,,,
+2020-08-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 40,000,000 cp",,,,
