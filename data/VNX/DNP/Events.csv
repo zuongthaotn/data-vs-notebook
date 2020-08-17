@@ -34,8 +34,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-10-20,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành ESOP năm 2015,,,,
 2015-11-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-11-23,,,Số lượng 5.635.000 cp,,,,
 2016-02-19,investorRight,MEETING,Họp cổ đông,2016-02-29,2016-03-19,2016-03-19,ĐHCĐ thường niên năm 2016,,,,
+2016-05-04,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-22,2016-06-22,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:22",,22,,2015
 2016-05-04,schedEvent,schedIssue,Dự kiến phát hành,2016-06-22,2016-06-22,,Phát hành tăng vốn từ nguồn quỹ đầu tư phát triển,,18,,
-2016-05-04,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-22,2016-06-22,,Phát hành để trả cổ tức 2015,,22,,2015
 2016-06-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-22,2016-06-23,,"Trả cổ tức năm 2015, Tỷ lệ 100:22",,22,,2015
 2016-06-10,investorRight,ISSUE,Phát hành thêm,2016-06-22,2016-08-03,,"Phát hành 8,104,278 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:60",,60,,
 2016-08-11,investorRight,KINDDIV,Cổ phiếu thưởng,2016-06-22,2016-06-23,,Tỷ lệ 100:18,,18,,

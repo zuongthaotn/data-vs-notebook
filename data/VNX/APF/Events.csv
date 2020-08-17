@@ -6,7 +6,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-07-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-08-02,,,"Số lượng 1,960,600 cp",,,,
 2019-03-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-04-02,2019-04-12,2019-04-12,Trả cổ tức đợt 1/2018 (1000 đ/cp),1000,10,1,2018
 2019-03-15,investorRight,MEETING,Họp cổ đông,2019-04-02,2019-04-20,2019-04-20,ĐHĐCĐ thường niên năm 2019,,,,
-2019-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng cổ phiếu năm 2018, tỷ lệ 10:1",,10,,2018
+2019-04-25,schedEvent,schedDiv,Dự kiến cổ tức,2019-05-28,2019-05-28,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:10",,10,,2018
 2019-05-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-17,2019-06-05,2019-06-05,Trả cổ tức đợt 2/2018 (2022 đ/cp),2022,20.22,2,2018
 2019-05-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-05-28,2019-05-29,,"Trả cổ tức năm 2018, Tỷ lệ 100:10",,10,,2018
 2019-07-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-07-22,,,Số lượng 1503019 cp,,,,

@@ -45,16 +45,16 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-11-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-09-01,,,Số lượng 400.000 cp,,,,
 2016-01-14,investorRight,MEETING,Họp cổ đông,2016-01-22,,,ĐHCĐ thường niên năm 2016,,,,
 2016-06-07,investorRight,POLL,Lấy ý kiến cổ đông,2016-06-17,2016-06-28,2016-06-28,V/v thay đổi mục đích sử dụng vốn của đợt phát hành và một số vấn đề tăng vốn,,,,
+2016-07-18,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-05,2016-10-05,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:15",,15,,2015
 2016-07-18,schedEvent,schedIssue,Dự kiến phát hành,2016-10-05,2016-10-05,,Dự kiến phát hành 117.205.570 cổ phiếu cho cổ đông hiện hữu,,100,,
-2016-07-18,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-05,2016-10-05,,Dự kiến phát hành 17.580.835 cổ phiếu trả cổ tức tỷ lệ 15%,,15,,2015
 2016-09-22,investorRight,ISSUE,Phát hành thêm,2016-10-05,2016-11-02,,"Phát hành 117,205,570 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:100",,100,,
 2016-09-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-05,2016-10-06,,"Trả cổ tức năm 2015, Tỷ lệ 100:15",,15,,2015
 2016-11-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-12-06,,,"Số lượng 127,717,127 cp",,,,
 2016-11-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-11-16,,,Số lượng 7068371 cp,,,,
 2016-11-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-07-31,,,Số lượng 1000000 cp,,,,
 2017-03-15,investorRight,MEETING,Họp cổ đông,2017-03-01,2017-03-31,2017-03-31,ĐHĐCĐ thường niên năm 2017,,,,
-2017-03-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến phát hành 32888838 cổ phiếu trả cổ tức tỷ lệ 13%,,13,,2016
-2017-03-20,schedEvent,schedDiv,Dự kiến cổ tức,2017-10-31,2017-10-31,,Dự kiến phát hành 14293995 cổ phiếu trả cổ tức tỷ lệ 5%,,5,,2017
+2017-03-20,schedEvent,schedDiv,Dự kiến cổ tức,2017-05-15,2017-05-15,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:13",,13,,2016
+2017-03-20,schedEvent,schedDiv,Dự kiến cổ tức,2017-10-31,2017-10-31,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:5",,5,,2017
 2017-03-20,schedEvent,schedIssue,Dự kiến phát hành,2017-10-31,2017-10-31,,Phát hành cổ phiếu thưởng cho CBNV (ESOP),,,,
 2017-04-27,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-05-15,2017-05-16,,"Trả cổ tức năm 2016, Tỷ lệ 100:13",,13,,2016
 2017-04-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-15,2017-06-29,2017-06-29,Trả cổ tức năm 2016 (500 đ/cp),500,5,,2016

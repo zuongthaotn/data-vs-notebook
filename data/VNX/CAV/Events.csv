@@ -3,7 +3,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-02-26,investorRight,MEETING,Họp cổ đông,2015-03-06,2015-04-10,2015-04-10,Họp ĐHCĐ thường niên năm 2015,,,,
 2015-04-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-04-23,2015-05-12,2015-05-12,Trả cở tức năm 2014 (3.000đ/cp),3000,30,,2014
 2016-01-28,investorRight,MEETING,Họp cổ đông,2016-02-15,2016-03-15,2016-03-15,ĐHCĐ thường niên năm 2016,,,,
-2016-03-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 30% cho năm 2016,,30,,2016
+2016-03-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:30",,30,,2016
 2016-03-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-03-30,2016-04-11,2016-04-11,Cổ tức bằng tiền năm 2015 (3.000đ/cp),3000,30,,2015
 2016-08-20,investorRight,MEETING,Họp cổ đông,2016-09-08,2016-10-11,2016-10-11,ĐHĐCĐ bất thường năm 2016,,,,
 2017-01-10,investorRight,ISSUE,Phát hành thêm,2016-12-12,2017-02-13,,"Phát hành 28,800,000 cp cho CĐHH, giá 20000 đ/cp, tỷ lệ 100:100",,100,,

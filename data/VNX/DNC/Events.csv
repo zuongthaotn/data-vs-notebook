@@ -23,7 +23,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-02-29,investorRight,MEETING,Họp cổ đông,2016-03-07,,,Đại hội đồng cổ đông thường niên năm 2016,,,,
 2016-02-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-03-07,2016-04-12,2016-04-12,Trả cổ tức đợt 2 năm 2015 (1.000đ/cp),1000,10,2,2015
 2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức bằng tiền mặt 2015 (1.000đ/cp),1000,10,,2015
-2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,2017-05-29,2017-05-29,,"Dự kiến cổ tức 2016, tỷ lệ hơn 18%",,18,,2016
+2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,2017-05-29,2017-05-29,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:18",,18,,2016
 2016-11-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-11-25,2016-12-08,2016-12-08,Cổ tức đợt 1 năm 2016 (1.000đ/cp),1000,10,1,2016
 2017-02-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-03-03,2017-04-05,2017-04-05,Tạm ứng cổ tức đợt 2 năm 2016 (1.000đ/cp),1000,10,2,2016
 2017-03-21,investorRight,MEETING,Họp cổ đông,2017-03-03,2017-03-25,2017-03-25,ĐHĐCĐ thường niên năm 2017,,,,
@@ -44,7 +44,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-02-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-03-05,2019-04-18,2019-04-18,Trả cổ tức đợt 2/2018 (1000 đ/cp),1000,10,2,2018
 2019-02-13,investorRight,MEETING,Họp cổ đông,2019-03-05,2019-04-06,2019-04-06,Họp ĐHĐCĐ thường niên năm 2019.,,,,
 2019-03-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu đợt 3/2019, tỷ lệ 100:25",,25,3,2019
-2019-07-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức đợt 1 năm 2019 bằng tiền, tỷ lệ 10%",1000,10,1,2019
+2019-07-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 1/2019 (1000 đ/cp),1000,10,1,2019
 2019-08-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-09-13,2019-10-04,2019-10-04,Trả cổ tức đợt 1/2019 (1000 đ/cp),1000,10,1,2019
 2019-10-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 2/2019 (1000 đ/cp),1000,10,2,2019
 2020-01-08,investorRight,MEETING,Họp cổ đông,2020-02-17,2020-03-21,2020-03-21,ĐHĐCĐ thường niên năm 2020,,,,

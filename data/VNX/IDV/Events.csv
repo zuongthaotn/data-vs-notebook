@@ -33,7 +33,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-11-04,investorRight,MEETING,Họp cổ đông,2015-11-11,2015-12-12,2015-12-12,Đại hội đồng cổ đông thường niên năm 2016,,,,
 2015-11-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-11-11,2015-11-30,2015-11-30,Trả cổ tức đợt 2/2015 (2000 đ/cp),2000,20,2,2015
 2016-05-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến tạm ứng cổ tức 2016 (2000đ/cp),2000,20,,2016
-2016-05-11,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-28,2016-06-28,,Dự kiến phát hành 2.303.698 cp tạm ứng cổ tức 2016,,30,,2016
+2016-05-11,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-28,2016-06-28,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:30",,30,,2016
 2016-05-11,schedEvent,schedIssue,Dự kiến phát hành,2016-06-28,2016-06-28,,Phát hành 1.535.798 cp tăng vốn cổ phần từ vốn CSH,,20,,
 2016-06-13,investorRight,KINDDIV,Cổ phiếu thưởng,2016-06-28,2016-06-29,,Tỷ lệ 100:20,,20,,
 2016-06-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-28,2016-07-14,2016-07-14,Trả cổ tức đợt 1/2016 (2000 đ/cp),2000,20,1,2016
@@ -45,8 +45,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-03-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-04-04,2017-04-18,2017-04-18,Trả cổ tức đợt 1/2017 (1000 đ/cp),1000,10,1,2017
 2017-06-21,investorRight,POLL,Lấy ý kiến cổ đông,2017-06-29,,,V/v Chủ trương đầu tư KCN Bá Thiện - tỉnh Vĩnh Phúc,,,,
 2017-06-23,investorRight,POLL,Lấy ý kiến cổ đông,2017-07-06,,,V/v thông qua chủ trương đầu tư KCN Bá Thiện – Tỉnh Vĩnh Phúc,,,,
-2017-08-19,schedEvent,schedDiv,Dự kiến cổ tức,2017-09-14,2017-09-14,,Dự kiến phát hành cổ phiếu trả cổ tức năm 2017,,40,,2017
-2017-08-23,schedEvent,schedDiv,Dự kiến cổ tức,2017-09-14,2017-09-14,,"Dự kiến tạm ứng cổ tức bằng cổ phiếu năm 2017, tỷ lệ 10:4",,40,,2017
+2017-08-19,schedEvent,schedDiv,Dự kiến cổ tức,2017-09-14,2017-09-14,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:40",,40,,2017
+2017-08-23,schedEvent,schedDiv,Dự kiến cổ tức,2017-09-14,2017-09-14,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:40",,40,,2017
 2017-09-22,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-09-14,2017-09-15,,"Trả cổ tức năm 2017, Tỷ lệ 100:40",,40,,2017
 2017-10-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-10-31,,,Số lượng 4607324 cp,,,,
 2017-11-28,investorRight,MEETING,Họp cổ đông,2017-12-26,2018-01-20,2018-01-20,ĐHCĐ thường niên năm 2018,,,,
@@ -65,3 +65,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-10-22,investorRight,MEETING,Họp cổ đông,2019-11-21,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-03-24,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 300,000cp ESOP",,1.77,,
 2020-05-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-05-29,2020-06-10,2020-06-10,Trả cổ tức đợt 2/2019 (1500 đ/cp),1500,15,2,2019
+2020-08-11,investorRight,POLL,Lấy ý kiến cổ đông,2020-09-09,,,V/v: Bán cổ phiếu quỹ của công ty,,,,

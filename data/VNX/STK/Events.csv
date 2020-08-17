@@ -3,7 +3,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-10-22,investorRight,KINDDIV,Cổ phiếu thưởng,2015-11-03,2015-11-05,,Tỷ lệ 100:10,,10,,
 2015-12-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-12-09,,,Số lượng 4.230.499 cp,,,,
 2016-01-20,investorRight,MEETING,Họp cổ đông,2016-02-25,2016-03-28,2016-03-28,ĐHCĐ thường niên năm 2016,,,,
-2016-03-30,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-01,2016-06-01,,Dự kiến phát hành cổ phiếu tỷ lệ 10% trả cổ tức năm 2015,,10,,2015
+2016-03-30,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-01,2016-06-01,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
 2016-03-31,schedEvent,schedIssue,Dự kiến phát hành,2016-06-01,2016-06-01,,Phát hành để tăng vốn,,5,,
 2016-04-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-04-19,2016-05-20,2016-05-20,Cổ tức bằng tiền năm 2015 (500đ/cp),500,5,,2015
 2016-05-19,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-01,2016-06-02,,"Trả cổ tức năm 2015, Tỷ lệ 100:10",,10,,2015
@@ -11,7 +11,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-07-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-15,,,Số lượng 6980189CP,,,,
 2017-02-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền 2016 (300đ/cp),300,0.3,,2016
 2017-02-10,investorRight,MEETING,Họp cổ đông,2017-02-24,2017-03-28,2017-03-28,ĐHĐCĐ thường niên năm 2017,,,,
-2017-03-28,schedEvent,schedDiv,Dự kiến cổ tức,2017-07-24,2017-07-24,,Trả cổ tức bằng cổ phiếu cho cổ đông hiện hữu tỷ lệ 12%,,12,,
+2017-03-28,schedEvent,schedDiv,Dự kiến cổ tức,2017-07-24,2017-07-24,,"Dự kiến trả cổ tức bằng cổ phiếu cho CĐHH, tỷ lệ 100:12",,12,,
 2017-06-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-06-30,2017-08-02,2017-08-02,Trả cổ tức năm 2016 (300 đ/cp),300,3,,2016
 2017-07-07,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-07-24,2017-07-25,,"Trả cổ tức năm 2016, Tỷ lệ 100:12",,12,,2016
 2017-08-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 6421774 cp,,,,

@@ -40,7 +40,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2013-08-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2013-08-08,,,Số lượng: 174.166 cp phát hành thêm,,,,
 2013-11-25,investorRight,MERGER,Sáp nhập,2013-12-03,,,Phát hành 796.800 cổ phiếu để hoán đổi cổ phiếu PFV,,50,,
 2014-02-19,investorRight,MEETING,Họp cổ đông,2014-02-27,2014-04-18,2014-04-18,Đại hội đồng cổ đông thường niên năm 2014,,,,
-2014-02-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-03-03,,,Số lượng 34.833 cp,,,,
+2014-02-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-03-03,,,"Số lượng 34,833 cp",,,,
 2014-05-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2014-05-26,,,Số lượng: 796.800 cổ phiếu,,,,
 2014-06-10,investorRight,POLL,Lấy ý kiến cổ đông,2014-06-17,,,V/v: thông qua một số vấn đề thuộc thẩm quyền quyết định của Đại hội đồng cổ đông,,,,
 2014-07-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2014-08-06,2014-08-20,2014-08-20,Trả cổ tức năm 2013 (2149 đ/cp),2149,21.49,,2013
@@ -74,7 +74,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-02-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-03-04,,,Số lượng 10.584.836 cp,,,,
 2016-03-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-03-16,,,Số lượng: 46.451.929 cp,,,,
 2016-03-16,investorRight,MEETING,Họp cổ đông,2016-03-24,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2015 bằng cổ phiếu tỷ lệ 1000:110,,11,,2015
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-27,2016-06-27,,Trả cổ tức năm 2015 bằng cổ phiếu tỷ lệ 100:11,,11,,2015
 2016-06-14,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-27,2016-06-28,,"Trả cổ tức năm 2015, Tỷ lệ 100:11",,11,,2015
 2016-07-08,investorRight,POLL,Lấy ý kiến cổ đông,2016-07-18,,,v/v thông qua một số vấn đề thuộc thẩm quyền quyết định của ĐHCĐ,,,,
 2016-07-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-08-02,,,Số lượng 213379941CP,,,,
@@ -86,7 +86,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-04-11,investorRight,MEETING,Họp cổ đông,2017-03-24,2017-04-26,2017-04-26,ĐHĐCĐ thường niên năm 2017,,,,
 2017-11-07,investorRight,POLL,Lấy ý kiến cổ đông,2017-11-27,,,V/v thông qua các vấn đề thuộc thẩm quyền,,,,
 2018-05-21,investorRight,MEETING,Họp cổ đông,2018-05-03,2018-05-31,2018-05-31,ĐHĐCĐ thường niên năm 2018,,,,
-2018-06-18,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 1000:210",,21,,2017
+2018-06-18,schedEvent,schedDiv,Dự kiến cổ tức,2018-06-28,2018-06-28,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:21",,21,,2017
 2018-06-21,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-06-28,2018-06-29,,"Trả cổ tức năm 2017, Tỷ lệ 100:21",,21,,2017
 2018-07-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 553913276 cp,,,,
 2018-07-27,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến chào bán 84.000.000 cổ phần ưu đãi,,,,

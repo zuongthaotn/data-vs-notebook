@@ -42,7 +42,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-08-11,investorRight,KINDDIV,Cổ phiếu thưởng,2015-08-19,2015-08-21,,Tỷ lệ 100:30,,30,,
 2015-09-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-09-09,,,Số lượng 41.590.808 cp,,,,
 2016-03-03,investorRight,MEETING,Họp cổ đông,2016-03-15,2016-04-10,2016-04-10,ĐHCĐ thường niên năm 2016,,,,
-2016-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2015 bằng cổ phiếu tỷ lệ 12%,,12,,2015
+2016-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:12",,12,,2015
 2017-04-11,investorRight,MEETING,Họp cổ đông,2017-03-24,2017-04-24,2017-04-24,ĐHĐCĐ thường niên năm 2017,,,,
 2017-08-28,investorRight,KINDDIV,Cổ phiếu thưởng,2017-09-28,2017-09-29,,Tỷ lệ 100:34.15,,34.15,,
 2017-11-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 61550367 cp,,,,
@@ -52,7 +52,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-01-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 7250560 cp,,,,
 2019-01-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-02-18,,,Số lượng 7250560 cp,,,,
 2019-02-18,investorRight,MEETING,Họp cổ đông,2019-03-07,2019-03-29,2019-03-29,ĐHĐCĐ thường niên năm 2019,,,,
-2019-08-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng cổ phiếu năm 2018, tỷ lệ 3%",,3,,2018
+2019-08-27,schedEvent,schedDiv,Dự kiến cổ tức,2019-09-24,2019-09-24,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:3",,3,,2018
 2019-09-17,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-09-24,2019-09-25,,"Trả cổ tức năm 2018, Tỷ lệ 100:3",,3,,2018
 2019-10-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-11-14,,,"Số lượng 7,468,277 cp",,,,
 2019-12-24,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 93,492,650cp cho CĐHH",,36.45,,

@@ -6,6 +6,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-04-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-04-27,2018-06-05,2018-06-05,Trả cổ tức năm 2017 (350 đ/cp),350,3.5,,2017
 2018-08-27,investorRight,POLL,Lấy ý kiến cổ đông,2018-09-11,,,V/v Điều chỉnh kế hoạch sản xuất kinh doanh năm 2018 của Công ty,,,,
 2019-03-06,investorRight,MEETING,Họp cổ đông,2019-03-22,2019-04-12,2019-04-12,ĐHĐCĐ thường niên năm 2019,,,,
-2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền năm 2018, tỉ lệ 1.5%",150,1.5,,2018
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2018 (150 đ/cp),150,1.5,,2018
 2019-04-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-14,2019-06-12,2019-06-12,Trả cổ tức năm 2018 (150 đ/cp),150,1.5,,2018
 2020-05-20,investorRight,MEETING,Họp cổ đông,2020-06-01,,,ĐHĐCĐ thường niên năm 2020,,,,

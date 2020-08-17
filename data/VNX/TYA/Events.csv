@@ -16,7 +16,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-02-13,investorRight,MEETING,Họp cổ đông,2015-03-05,2015-04-09,2015-04-09,ĐHCĐ thường niên năm 2015,,,,
 2015-05-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-27,2015-06-18,2015-06-18,Trả cổ tức năm 2014 (1000 đ/cp),1000,10,,2014
 2016-02-29,investorRight,MEETING,Họp cổ đông,2016-03-14,2016-04-14,2016-04-14,ĐHCĐ thường niên năm 2016,,,,
-2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,2016-07-06,2016-07-06,,Dự kiến trả cổ tức 2015 10%/vốn cổ phần,,10,,2015
+2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,2016-07-06,2016-07-06,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
 2016-06-21,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-07-06,2016-07-07,,"Trả cổ tức năm 2015, Tỷ lệ 100:10",,10,,2015
 2016-08-08,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-08-17,,,"Số lượng 556,280 cp",,,,
 2017-02-23,investorRight,MEETING,Họp cổ đông,2017-03-10,2017-04-12,2017-04-12,"ĐHCĐ thường niên năm 2017 
@@ -24,7 +24,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-04-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2016 (1200đ/cp),1200,12,,2016
 2017-05-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-06-13,2017-07-12,2017-07-12,Trả cổ tức năm 2016 (1200đ/cp),1200,12,,2016
 2018-02-26,investorRight,MEETING,Họp cổ đông,2018-03-19,2018-04-19,2018-04-19,ĐHĐCĐ thường niên năm 2018,,,,
-2018-04-04,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2017 tỷ lệ 27%,2700,27,,2017
+2018-04-04,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2017 (2700 đ/cp),2700,27,,2017
 2018-05-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-14,2018-07-20,2018-07-20,Trả cổ tức năm 2017 (2700 đ/cp),2700,27,,2017
 2019-02-14,investorRight,MEETING,Họp cổ đông,2019-03-11,2019-04-11,2019-04-11,ĐHĐCĐ thường niên năm 2019,,,,
 2019-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2018 (1770đ/cp),1770,17.7,,2018

@@ -2,7 +2,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-09-01,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2015-10-07,,,Giá tham chiếu 30.000đ/cp,,,,
 2016-03-02,investorRight,MEETING,Họp cổ đông,2016-03-15,2016-04-27,2016-04-27,ĐHCĐ thường niên năm 2016,,,,
 2016-04-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-04-05,2016-06-06,,Thời gian niêm yết dưới 06 tháng,,,,
-2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,2016-09-08,2016-09-08,,Dự kiến trả cp thưởng 9528000 cp,,20,,2016
+2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,2016-09-08,2016-09-08,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:20",,20,,2016
 2016-06-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-24,2016-07-08,2016-07-08,Trả cổ tức năm 2015 (3000 đ/cp),3000,30,,2015
 2016-08-23,investorRight,KINDDIV,Cổ phiếu thưởng,2016-09-08,2016-09-09,,Tỷ lệ 100:20,,20,,
 2016-09-08,schedEvent,schedIssue,Dự kiến phát hành,2016-09-08,2016-09-08,,Dự kiến phát hành 9.527.993 cổ phiếu  tỷ lệ 100:20 để tăng vốn cổ phần từ nguồn VCSH,,20,,

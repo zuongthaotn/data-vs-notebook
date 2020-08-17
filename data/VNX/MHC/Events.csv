@@ -32,7 +32,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-02-23,investorRight,MEETING,Họp cổ đông,2016-03-29,2016-04-23,2016-04-23,ĐHCĐ thường niên năm 2016,,,,
 2016-04-05,schedEvent,schedIssue,Dự kiến phát hành,2016-04-26,2016-04-26,,Dự kiến Phát hành ESOP,,,,
 2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2015 (1.000đ/cp),1000,10,,2015
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-17,2016-10-17,,Trả cổ tức năm 2015 bằng cổ phiếu tỷ lệ 15%,,15,,2015
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-17,2016-10-17,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:15",,15,,2015
 2016-05-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-04-24,,,Số lượng 1355539CP,,,,
 2016-10-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-17,2016-10-18,,"Trả cổ tức năm 2015, Tỷ lệ 100:15",,15,,2015
 2016-10-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-17,2016-11-18,2016-11-18,Cổ tức năm 2015 (1.000đ/cp),1000,10,,2015
@@ -40,7 +40,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-03-24,investorRight,MEETING,Họp cổ đông,2017-03-21,2017-04-20,2017-04-20,ĐHĐCĐ thường niên năm 2017,,,,
 2017-04-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 100:10",,10,,2017
 2018-03-30,investorRight,MEETING,Họp cổ đông,2018-03-21,2018-04-23,2018-04-23,ĐHĐCĐ thường niên năm 2018,,,,
-2018-05-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng CP năm 2016, tỷ lệ 5%",,5,,2016
+2018-05-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2018-05-25,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-06-29,2018-07-02,,"Trả cổ tức năm 2017, Tỷ lệ 100:15",,15,,2017
 2018-05-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-06-29,2018-07-27,2018-07-27,Trả cổ tức năm 2016 (500đ/cp),500,5,,2016
 2018-08-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 4908686 cp,,,,

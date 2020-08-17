@@ -16,7 +16,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-05-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-26,2015-06-12,2015-06-12,Trả cổ tức năm 2014 (1.200đ/cp),1200,12,,2014
 2015-08-20,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-08-21,,,Lợi nhuận sau thuế 6T.2015 âm,,,,
 2016-03-02,investorRight,MEETING,Họp cổ đông,2016-03-14,2016-04-14,2016-04-14,ĐHCĐ thường niên năm 2016,,,,
-2016-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 6%/VĐL,,6,,2016
+2016-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:6",,6,,2016
 2016-04-27,schedEvent,schedIssue,Dự kiến phát hành,2016-08-17,2016-08-17,,Phát hành cổ phiếu thưởng cho cổ đông hiện hữu 6335259cp,,42,,
 2016-08-03,investorRight,KINDDIV,Cổ phiếu thưởng,2016-08-17,2016-08-18,,Tỷ lệ 100:42,,42,,
 2016-10-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-10-20,,,Số lượng 6.334.394 cp,,,,

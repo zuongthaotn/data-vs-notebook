@@ -32,10 +32,10 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-07-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-07-14,,,Số lượng 2.637.448 cp,,,,
 2015-07-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-08-03,2015-08-20,2015-08-20,Tạm ứng cổ tức đợt 1.2015 (1.500đ/cp),1500,15,1,2015
 2016-03-02,investorRight,MEETING,Họp cổ đông,2016-03-10,2016-04-11,2016-04-11,ĐHCĐ thường niên năm 2016,,,,
-2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 tỷ lệ 30%,,30,,2016
+2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:30",,30,,2016
 2016-04-12,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành cổ phiếu ESOP trong thời hạn 3 năm,,,,
 2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức đợt 2 năm 2015 bằng tiền mặt (1.000đ/cp),1000,10,2,2015
-2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức đợt 2 năm 2015 bằng cổ phiếu tỷ lệ 10%,,10,2,2015
+2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-10,2016-06-10,,"Dự kiến trả cổ tức bằng cổ phiếu đợt 2/2015, tỷ lệ 100:10",,10,2,2015
 2016-05-30,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-10,2016-06-13,,"Trả cổ tức đợt 2/2015, Tỷ lệ 100:10",,10,2,2015
 2016-05-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-10,2016-06-28,2016-06-28,Trả cổ tức đợt 2/2015 (1000 đ/cp),1000,10,2,2015
 2016-07-12,stockAlert,noticed,Nhắc nhở,2016-07-11,,,Chậm CBTT thay đổi SLCP có quyền biểu quyết đang lưu hành,,,,

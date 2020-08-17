@@ -77,7 +77,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-02-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-03-01,2017-04-28,2017-04-28,Trả cổ tức đợt 3/2016 (550 đ/cp),550,5.5,3,2016
 2017-02-17,investorRight,MEETING,Họp cổ đông,2017-03-01,2017-04-28,2017-04-28,ĐHCĐ thường niên 2017,,,,
 2017-04-19,investorRight,CONVERT,TP chuyển đổi,2017-05-12,,2017-06-23,Chuyển đổi TP chuyển đổi CII41401 thành cổ phiếu đợt 4,,90900,,
-2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 21.5%",,21.5,,2017
+2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:21.5",,21.5,,2017
 2017-07-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-07-10,,,Số lượng 4978178 cp,,,,
 2017-08-18,investorRight,MEETING,Họp cổ đông,2017-08-10,2017-09-06,2017-09-06,ĐHĐCĐ bất thường năm 2017,,,,
 2017-09-06,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 123.122.452cp cho CĐHH, giá 10.000 đ/cp, tỷ lệ 2:1",,50,,

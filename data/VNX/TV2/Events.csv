@@ -16,7 +16,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-05-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-28,2015-07-01,2015-07-01,Trả cổ tức năm 2014 (2.200đ/cp),2200,22,,2014
 2016-02-25,investorRight,MEETING,Họp cổ đông,2016-03-04,2016-04-14,2016-04-14,ĐHCĐ thường niên năm 2016,,,,
 2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức bằng tiền mặt 2015 (1000đ/cp),1000,10,,2015
-2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-15,2016-06-15,,"Dự kiến cổ tức bằng cổ phiếu 2015, tỷ lệ 15%",,15,,2015
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-15,2016-06-15,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:15",,15,,2015
 2016-06-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-15,2016-06-29,2016-06-29,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
 2016-06-03,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-15,2016-06-16,,"Trả cổ tức năm 2015, Tỷ lệ 100:15",,15,,2015
 2016-07-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-27,,,Sổ lượng 659.764cp,,,,
@@ -29,7 +29,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-07-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-07-12,,,Số lượng 764706 cp,,,,
 2017-09-06,investorRight,POLL,Lấy ý kiến cổ đông,2017-07-28,2017-08-14,2017-08-14,v/v bổ sung ngành nghề kinh doanh,,,,
 2018-01-24,investorRight,MEETING,Họp cổ đông,2018-02-09,2018-02-28,2018-02-28,ĐHĐCĐ thường niên năm 2018,,,,
-2018-03-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 1:1",,100,,2017
+2018-03-01,schedEvent,schedDiv,Dự kiến cổ tức,2018-03-19,2018-03-19,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:100",,100,,2017
 2018-03-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-03-19,2018-04-04,2018-04-04,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017
 2018-03-09,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-03-19,2018-03-20,,"Trả cổ tức năm 2017, Tỷ lệ 100:100",,100,,2017
 2018-04-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-05-02,,,Số lượng 5863470 cp,,,,

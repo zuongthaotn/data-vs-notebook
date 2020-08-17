@@ -25,7 +25,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-01-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-01-12,,,Số lượng 48.290.433 cp,,,,
 2016-01-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-12-23,,,Số lượng 2.109.567 cp,,,,
 2016-03-03,investorRight,MEETING,Họp cổ đông,2016-03-14,2016-04-12,2016-04-12,ĐHCĐ thường niên năm 2016,,,,
-2016-04-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2016, tỷ lệ 15%",,15,,2016
+2016-04-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:15",,15,,2016
 2016-04-13,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu thưởng năm 2016 để tăng vốn tỷ lệ 30%,,30,,
 2016-04-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức đợt 2 năm 2015 (700đ/cp),700,7,2,2015
 2016-09-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-09-20,2016-10-05,2016-10-05,Trả cổ tức còn lại năm 2015 ( 700đ/cp),700,7,,2015
@@ -53,8 +53,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-10-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-10-16,,,Số lượng 19391036 cp,,,,
 2018-10-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-14,,,Số lượng 6800000 cp,,,,
 2019-03-28,investorRight,MEETING,Họp cổ đông,2019-03-15,2019-04-12,2019-04-12,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,2019-06-11,2019-06-11,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:5",,5,,2018
 2019-04-16,schedEvent,schedIssue,Dự kiến phát hành,2019-06-11,2019-06-11,,"Dự kiến phát hành 103505838 cp cho cổ đông hiện hữu, tỉ lệ 100:25",,25,,
-2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,2019-06-11,2019-06-11,,"Dự kiến trả cổ tức năm 2018, tỉ lệ 5%",,5,,2018
 2019-05-23,schedEvent,schedIssue,Dự kiến phát hành,2019-07-02,2019-07-02,,"Phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong công ty, tỉ lệ 1,5%",,1.5,,
 2019-05-24,investorRight,POLL,Lấy ý kiến cổ đông,2019-06-11,,,"V/v: miễn nhiệm, bầu bổ sung TV HĐQT",,,,
 2019-05-30,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-06-11,2019-06-12,,"Trả cổ tức năm 2018, Tỷ lệ 100:5",,5,,2018
@@ -63,3 +63,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-06-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-07-08,,,Số lượng 124205756 cp,,,,
 2019-07-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-07-03,,,Số lượng 6200000 cp,,,,
 2020-05-11,investorRight,MEETING,Họp cổ đông,2020-06-01,2020-06-19,2020-06-19,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-17,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:5",,5,,2019
+2020-08-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-19,2020-08-20,,"Trả cổ tức năm 2019, Tỷ lệ 100:5",,5,,2019
+2020-08-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-19,2020-09-03,2020-09-03,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019

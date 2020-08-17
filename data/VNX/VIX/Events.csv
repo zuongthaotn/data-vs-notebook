@@ -22,12 +22,12 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-10-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-09-01,2016-10-05,,Chậm CBTT BCTC bán niên soát xét 2016 quá 10 ngày làm việc,,,,
 2017-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 (500đ/cp),500,5,,2016
 2017-04-25,investorRight,MEETING,Họp cổ đông,2017-03-28,2017-04-24,2017-04-24,ĐHĐCĐ thường niên năm 2017,,,,
-2017-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2016 bằng cổ phiếu, tỷ lệ 20:1",,5,,2016
+2017-04-28,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-08,2017-06-08,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2017-05-16,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-06-08,2017-06-09,,"Trả cổ tức năm 2016, Tỷ lệ 100:5",,5,,2016
 2017-07-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-02,,,Số lượng 3504415 cp,,,,
 2017-08-16,investorRight,POLL,Lấy ý kiến cổ đông,2017-08-29,2017-09-08,2017-09-08,V/v thông qua việc Chủ tịch HĐQT kiêm nhiệm chức danh Tổng giám đốc của công ty và một số nội dung khác thuộc thẩm quyền của ĐHĐCĐ,,,,
 2018-03-05,investorRight,MEETING,Họp cổ đông,2018-03-23,,,Họp ĐHĐCĐ thường niên 2018,,,,
-2018-04-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 10:1",,10,,2017
+2018-04-20,schedEvent,schedDiv,Dự kiến cổ tức,2018-05-22,2018-05-22,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:10",,10,,2017
 2018-05-08,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-05-22,2018-05-23,,"Trả cổ tức năm 2017, Tỷ lệ 100:10",,10,,2017
 2018-07-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-07-27,,,Số lượng 7360003 cp,,,,
 2018-10-12,schedEvent,schedIssue,Dự kiến phát hành,2019-01-22,2019-01-22,,"Dự kiến phát hành 20.000.000 cp riêng lẻ, giá 10.000 đ/cp",,,,

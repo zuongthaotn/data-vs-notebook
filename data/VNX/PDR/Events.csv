@@ -20,7 +20,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-11-04,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2015 (500 đ/cp),500,5,,2015
 2016-11-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-11-17,2016-12-14,2016-12-14,Trả cổ tức năm 2015 (500 đ/cp),500,5,,2015
 2017-03-08,investorRight,MEETING,Họp cổ đông,2017-02-16,2017-03-22,2017-03-22,ĐHĐCĐ thường niên năm 2017,,,,
-2017-04-19,schedEvent,schedDiv,Dự kiến cổ tức,2017-05-23,2017-05-23,,"Dự kiến phát hành 28.180.997cp từ LNST giữ lại lũy kế đến 2016 để trả cổ tức, tỷ lệ 10:1",,10,,2016
+2017-04-19,schedEvent,schedDiv,Dự kiến cổ tức,2017-05-23,2017-05-23,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2017-05-16,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-05-23,2017-05-24,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
 2017-06-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 20180952 cp,,,,
 2018-03-06,investorRight,MEETING,Họp cổ đông,2018-02-28,2018-03-30,2018-03-30,ĐHĐCĐ thường niên năm 2018,,,,

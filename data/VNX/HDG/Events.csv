@@ -31,9 +31,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-03-03,investorRight,MEETING,Họp cổ đông,2016-03-11,2016-04-23,2016-04-23,ĐHCĐ thường niên năm 2016,,,,
 2016-04-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-04-25,,,Số lượng 325770CP,,,,
 2016-04-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-02-27,,,Số lượng 325770CP,,,,
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2016 từ 5-15%,,5,,2016
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2015 (500đ/cp),500,5,,2015
-2016-07-11,schedEvent,schedDiv,Dự kiến cổ tức,2016-08-19,2016-08-19,,Dự kiến cổ tức năm 2015 bằng cổ phiếu tỷ lệ 10:1,,10,,2015
+2016-07-11,schedEvent,schedDiv,Dự kiến cổ tức,2016-08-19,2016-08-19,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
 2016-08-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-08-19,2016-08-31,2016-08-31,Trả cổ tức năm 2015 (500 đ/cp),500,5,,2015
 2016-08-16,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-08-19,2016-08-22,,"Trả cổ tức năm 2015, Tỷ lệ 100:10",,10,,2015
 2016-09-01,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-09-01,2017-04-05,,LNST trên BCTC HN soát xét 6T.2016  âm,,,,
@@ -63,4 +63,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-02-27,investorRight,MEETING,Họp cổ đông,2020-03-27,2020-04-25,2020-04-25,ĐHĐCĐ thường niên năm 2020,,,,
 2020-04-27,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 35,604,387cp cho CĐHH",,30,,
 2020-06-01,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-06-15,2020-06-16,,"Trả cổ tức đợt 2/2019, Tỷ lệ 100:30",,30,2,2019
+2020-07-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 35,593,729 cp",,,,
 2020-07-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-07-27,,,"Số lượng 35,593,729 cp",,,,
+2020-08-07,investorRight,MEETING,Họp cổ đông,2020-08-28,,,ĐHĐCĐ bất thường năm 2020,,,,

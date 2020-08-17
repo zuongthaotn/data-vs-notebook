@@ -35,7 +35,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-10-28,investorRight,KINDDIV,Cổ phiếu thưởng,2015-11-10,2015-11-12,,Tỷ lệ 100:8,,8,,
 2015-12-15,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-12-21,,,Số lượng 15.890.173 cp,,,,
 2016-03-01,investorRight,MEETING,Họp cổ đông,2016-03-15,2016-04-27,2016-04-27,ĐHCĐ thường niên năm 2016,,,,
-2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 tỷ lệ 8%,,8,,2016
+2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:8",,8,,2016
 2016-04-28,schedEvent,schedIssue,Dự kiến phát hành,,,,Chào bán 21.500.000 cổ phiếu riêng lẻ tăng vốn điều lệ,,,,
 2016-05-23,investorRight,KINDDIV,Cổ phiếu thưởng,2016-06-07,2016-06-08,,Tỷ lệ 100:8,,8,,
 2016-07-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-07,,,"Số lượng 17,161,026 cp",,,,
@@ -62,3 +62,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-09-26,investorRight,MEETING,Họp cổ đông,2019-10-08,2019-11-08,2019-11-08,ĐHĐCĐ bất thường năm 2019,,,,
 2020-02-25,investorRight,MEETING,Họp cổ đông,2020-03-11,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-05-11,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 3,548,950cp cho CĐHH",,,,
+2020-08-12,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-24,,,"V/v Thông qua phương án hợp tác đầu tư Dự án Khu đô thị mới Bắc Vũng Tàu, phường 12, thành phố Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu",,,,

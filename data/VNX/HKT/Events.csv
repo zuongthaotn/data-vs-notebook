@@ -1,7 +1,7 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
 2017-01-06,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2017-01-12,,,Giá tham chiếu 10.500 đ/cp,,,,
 2017-01-11,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-01-09,2018-12-26,,Thời gian niêm yết dưới 6 tháng,,,,
-2017-06-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2017 tỷ lệ 8%,800,8,,2017
+2017-06-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2017 (800 đ/cp),800,8,,2017
 2017-06-09,investorRight,MEETING,Họp cổ đông,2017-04-28,2017-06-02,2017-06-02,ĐHĐCĐ thường niên năm 2017,,,,
 2017-06-21,stockAlert,noticed,Nhắc nhở,2017-06-20,,,Vi phạm CBTT 3 lần kể từ ngày 01.01.2017,,,,
 2017-07-21,stockAlert,alert,Cảnh báo,2017-07-24,,,Vi phạm quy định về CBTT từ 4 lần trở lên kể từ 01.01.2017,,,,

@@ -1,7 +1,7 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
 2017-07-24,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2017-07-28,,,Giá tham chiếu 12.600 đ/cp,,,,
 2017-07-27,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-07-28,2018-04-04,,Thời gian niên yết dưới 6 tháng,,,,
-2017-10-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2016 bằng cổ phiếu, tỷ lệ 10:1",,10,,2016
+2017-10-16,schedEvent,schedDiv,Dự kiến cổ tức,2017-11-27,2017-11-27,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2017-11-14,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-11-27,2017-11-28,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
 2018-03-02,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-03-08,,,"Số lượng 550,000 cp",,,,
 2018-08-20,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-21,2019-04-05,,LNST 6 tháng năm 2018 là số âm,,,,

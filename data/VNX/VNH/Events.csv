@@ -15,7 +15,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-03-30,stockAlert,control,Kiểm soát (Không hạn chế giao dịch),2016-04-01,,,LNST năm 2014 và năm 2015 âm,,,,
 2016-04-19,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-05-16,2016-05-16,ĐHCĐ thường niên năm 2016 lần 2,,,,
 2016-05-16,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-06-01,2016-06-01,ĐHCĐ thường niên năm 2016 lần 3,,,,
-2016-06-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 tỷ lệ 4%,,4,,2016
+2016-06-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:4",,4,,2016
 2016-10-19,stockAlert,noticed,Nhắc nhở,2016-10-18,,,"Chậm CBTT quyết định mua, bán tài sản",,,,
 2017-02-14,investorRight,MEETING,Họp cổ đông,2017-02-28,2017-03-27,2017-03-27,ĐHCĐ bất thường 2017,,,,
 2017-02-21,stockAlert,delistedHose,Hủy niêm yết trên HOSE,2017-03-23,,,Kết quả SXKD bị thua lỗ trong 3 năm liên tục,,,,

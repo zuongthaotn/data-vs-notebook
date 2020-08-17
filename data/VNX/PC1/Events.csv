@@ -2,7 +2,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-11-09,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-11-16,,,Giá tham chiếu 36.000 đ/cp,,,,
 2016-11-17,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-11-16,2017-07-05,,Thời gian niêm yết dưới 6 tháng,,,,
 2017-04-11,investorRight,MEETING,Họp cổ đông,2017-03-30,2017-04-21,2017-04-21,ĐHĐCĐ thường niên năm 2017,,,,
-2017-04-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng cổ phiếu năm 2016, tỷ lệ 30%",,30,,2016
+2017-04-21,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-05,2017-06-05,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:30",,30,,2016
 2017-04-21,schedEvent,schedIssue,Dự kiến phát hành,2017-10-26,2017-10-26,,Dự kiến phát hành 17.611.522 cổ phiếu cho nhà đầu tư tài chính,,15.25,,
 2017-05-23,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-06-05,2017-06-06,,"Trả cổ tức năm 2016, Tỷ lệ 100:30",,30,,2016
 2017-07-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-07-19,,,Số lượng 22578406 cp,,,,
@@ -18,3 +18,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-07-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-08-01,,,Số lượng 26553635 cp,,,,
 2020-04-29,investorRight,MEETING,Họp cổ đông,2020-05-18,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-05,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:20",,20,,2019
+2020-08-11,stockAlert,noticed,Nhắc nhở,2020-08-11,,,V/v: Chủ tịch HĐQT kiêm nhiệm Tổng giám đốc,,,,

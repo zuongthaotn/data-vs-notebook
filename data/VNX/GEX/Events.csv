@@ -31,3 +31,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-09-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-07,,,"Số lượng 63,684,000 cp",,,,
 2020-05-08,stockAlert,noticed,Nhắc nhở,2020-05-08,,,Giao dịch cổ phiếu quỹ không đúng quy định,,,,
 2020-05-20,investorRight,MEETING,Họp cổ đông,2020-05-29,2020-06-18,2020-06-18,ĐHĐCĐ thường niên năm 2020,,,,
+2020-08-11,stockAlert,noticed,Nhắc nhở,2020-08-11,,,V/v: Chủ tịch HĐQT kiêm nhiệm Tổng giám đốc,,,,

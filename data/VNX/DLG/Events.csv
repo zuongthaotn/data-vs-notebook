@@ -30,7 +30,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-08-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-18,,,Số lượng 19.932.609 cp,,,,
 2016-03-04,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-16,2016-04-16,ĐHCĐ thường niên năm 2016,,,,
 2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2016 (800đ/cp),800,8,,2016
-2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,2016-12-02,2016-12-02,,Phát hành cổ phiếu để trả cổ tức năm 2015 tỷ lệ 3%,,3,,2015
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,2016-12-02,2016-12-02,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:3",,3,,2015
 2016-04-19,schedEvent,schedIssue,Dự kiến phát hành,2016-12-02,2016-12-02,,Phát hành 4.383.722 cổ phiếu thưởng để tăng vốn tỷ lệ 2%,,2,,
 2016-04-19,schedEvent,schedIssue,Dự kiến phát hành,2016-12-02,2016-12-02,,Chào bán 219.186.117 cp cho cổ đông hiện hữu,,,,
 2016-05-04,schedEvent,schedIssue,Dự kiến phát hành,2016-05-27,2016-05-27,,"Dự khiến phát hành 5000000 CP chuyển đổi trước hạn trái phiếu chuyển đổi phát hành năm 2015, tỷ lệ 100:1000",,,,

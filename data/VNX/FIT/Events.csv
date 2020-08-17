@@ -31,8 +31,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-08-11,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2015-08-13,,,Hủy niêm yết chuyển sang sàn HOSE,,,,
 2015-08-12,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2015-08-19,,,Giá tham chiếu 15.000đ/cp,,,,
 2016-04-11,investorRight,MEETING,Họp cổ đông,2016-03-09,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
-2016-04-22,schedEvent,schedDiv,Dự kiến cổ tức,,,,dự kiến cổ tức 2016 10% vốn điều lệ,,10,,2016
-2016-04-22,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-15,2016-06-15,,Dự kiến phát hành 14.336.998 cổ phiếu để trả cổ tức năm 2015 tỉ lệ 8%,,8,,2015
+2016-04-22,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
+2016-04-22,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-15,2016-06-15,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:8",,8,,2015
 2016-06-03,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-15,2016-06-16,,"Trả cổ tức năm 2015, Tỷ lệ 100:8",,8,,2015
 2016-07-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-15,,,Số lượng 14336485CP,,,,
 2016-09-12,investorRight,MEETING,Họp cổ đông,2016-08-29,2016-09-22,2016-09-22,ĐHĐCĐ bất thường năm 2016,,,,

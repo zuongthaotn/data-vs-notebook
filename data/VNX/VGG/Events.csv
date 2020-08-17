@@ -5,7 +5,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-04-22,schedEvent,schedIssue,Dự kiến phát hành,2016-04-22,2016-04-22,,Chuyển đổi trái phiếu thành cổ phiếu,,,,
 2016-04-23,schedEvent,schedIssue,Dự kiến phát hành,2017-02-22,2017-02-22,,"Dự kiến phát hành ESOP trong năm 2016, hạn chế chuyển nhượng 5 năm",,5,,
 2016-04-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-05-06,,,Số lượng 14000000CP,,,,
-2016-06-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức 25% cho năm 2016,,25,,2016
+2016-06-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:25",,25,,2016
 2017-03-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-03-23,2017-05-24,2017-05-24,Tạm ứng cổ tức năm 2016 (3000đ/cp),3000,30,,2016
 2017-03-14,investorRight,MEETING,Họp cổ đông,2017-03-23,,,ĐHCĐ thường niên năm 2017,,,,
 2017-05-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-05-26,,,Số lượng 2.100.000CP,,,,

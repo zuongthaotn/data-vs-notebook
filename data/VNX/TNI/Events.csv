@@ -4,7 +4,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-05-22,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2017-05-29,,,Giá tham chiếu 10.900 đ/cp,,,,
 2017-05-29,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-05-29,2017-12-04,,Thời gian niêm yết dưới 6 tháng,,,,
 2017-06-07,investorRight,MEETING,Họp cổ đông,2017-06-05,2017-06-28,2017-06-28,ĐHĐCĐ thường niên năm 2017,,,,
-2017-06-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2017 tỷ lệ 8%,800,8,,2017
+2017-06-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2017 (800 đ/cp),800,8,,2017
 2017-07-28,investorRight,POLL,Lấy ý kiến cổ đông,2017-08-10,,,Lấy ý kiến bằng văn bản về việc thành lập công ty con về lĩnh vực bất động sản,,,,
 2017-08-18,investorRight,MEETING,Họp cổ đông,2017-08-29,2017-09-19,2017-09-19,Đại hội đồng cổ đông bất thường năm 2017,,,,
 2017-12-25,schedEvent,schedIssue,Dự kiến phát hành,2018-01-09,2018-01-09,,"Dự kiến chào bán 31.500.000 cp cho CĐHH, tỷ lệ 100:150, giá 10.000 đ/cp",,150,,

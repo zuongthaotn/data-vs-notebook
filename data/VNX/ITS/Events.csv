@@ -1,7 +1,7 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
 2015-12-14,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2015-12-18,,,Giá tham chiếu 11.100đ/cp,,,,
 2016-02-24,investorRight,MEETING,Họp cổ đông,2016-03-03,2016-03-24,2016-03-24,ĐHCĐ thường niên năm 2016,,,,
-2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức 2015 tỷ lệ 7%,,7,,2015
+2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:7",,7,,2015
 2016-08-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-08-17,2016-09-15,2016-09-15,Trả cổ tức năm 2015 (700 đ/cp),700,7,,2015
 2016-12-16,investorRight,POLL,Lấy ý kiến cổ đông,2016-12-27,,,V/v thông qua quyết định của Đại hội cổ đông về việc sửa đổi Điều lệ tổ chức và hoạt động của công ty,,,,
 2017-03-24,investorRight,MEETING,Họp cổ đông,2017-04-05,2017-04-21,2017-04-21,ĐHĐCĐ thường niên năm 2017,,,,

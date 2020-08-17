@@ -31,7 +31,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-05-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-26,2016-06-10,2016-06-10,Trả cổ tức đợt 1/2016 (500 đ/cp),500,5,1,2016
 2016-05-26,schedEvent,schedIssue,Dự kiến phát hành,2016-07-06,2016-07-06,,Dự kiến phát hành 5250000cp thưởng để tăng vốn chủ sở hữu,,100,,
 2016-06-24,investorRight,KINDDIV,Cổ phiếu thưởng,2016-07-06,2016-07-07,,Tỷ lệ 100:100,,100,,
-2016-08-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2016 tỷ lệ 10%,,10,,2016
+2016-08-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2016-08-23,schedEvent,schedIssue,Dự kiến phát hành,2016-12-09,2016-12-09,,Dự kiến phát hành 500.000cp theo chương trình ESOP,,4.76,,
 2016-08-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-09-01,,,"Số lượng 5,250,000 cp",,,,
 2016-08-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-09-08,2016-09-27,2016-09-27,Trả cổ tức đợt 2/2016 (300 đ/cp),300,3,2,2016

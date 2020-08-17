@@ -2,7 +2,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-01-06,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2017-01-13,,,Giá tham chiếu 18.000 đ/cp,,,,
 2017-01-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-01-13,2017-10-04,,Thời gian niêm yết dưới 6 tháng,,,,
 2017-02-22,investorRight,MEETING,Họp cổ đông,2017-03-07,2017-03-30,2017-03-30,Đại hội cổ đông thường niên năm 2017,,,,
-2017-03-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 10:1",,10,,2016
+2017-03-31,schedEvent,schedDiv,Dự kiến cổ tức,2017-05-08,2017-05-08,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2017-04-21,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-05-08,2017-05-09,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
 2017-04-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-08,2017-06-09,2017-06-09,Trả cổ tức năm 2016 (500 đ/cp),500,5,,2016
 2017-06-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-06-19,,,Số lượng 9033225 cp,,,,

@@ -22,9 +22,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-10-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-10-14,2015-11-06,2015-11-06,Trả cổ tức năm 2015 (900đ/cp),900,9,,2015
 2015-11-17,stockAlert,noticed,Nhắc nhở,2015-11-17,,,V/v chậm CBTT thay đổi đăng ký doanh nghiệp lần thứ 8.,,,,
 2016-02-16,investorRight,MEETING,Họp cổ đông,2016-02-25,2016-03-25,2016-03-25,ĐHCĐ thường niên 2016,,,,
-2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chia cổ tức 20% cho năm 2016,,20,,2016
+2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:20",,20,,2016
 2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 1.300đ/cp cho năm 2015,1300,13,,2015
-2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,2016-04-20,2016-04-20,,Dự kiến trả cổ tức bằng cổ phiếu năm 2015 tỷ lệ 4%,,4,,2015
+2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,2016-04-20,2016-04-20,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:4",,4,,2015
 2016-04-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-04-20,2016-04-29,2016-04-29,Trả cổ tức năm 2015 (1300 đ/cp),1300,13,,2015
 2016-04-14,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-04-20,2016-04-21,,"Trả cổ tức năm 2015, Tỷ lệ 100:4",,4,,2015
 2016-05-26,stockAlert,noticed,Nhắc nhở,2016-05-25,,,Chậm công bố thông tin thay đổi số lượng CP,,,,

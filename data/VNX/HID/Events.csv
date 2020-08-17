@@ -1,14 +1,14 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
 2016-06-27,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-07-11,,,Giá tham chiếu 11.000 đ/cp,,,,
 2016-07-07,investorRight,MEETING,Họp cổ đông,2016-06-06,2016-07-17,2016-07-17,ĐHĐCĐ thường niên năm 2016,,,,
-2016-08-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2015 tỷ lệ 2000:107,,5.36,,2015
+2016-08-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:5.36",,5.36,,2015
 2016-09-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-09-19,2016-09-20,,"Trả cổ tức năm 2015, Tỷ lệ 100:5.36",,5.36,,2015
 2016-11-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-09,,,Số lượng 1606621 cp,,,,
 2017-03-01,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-07-11,2018-08-23,,Thời gian niêm yết dưới 06 tháng,,,,
 2017-05-15,investorRight,MEETING,Họp cổ đông,2017-03-16,2017-05-25,2017-05-25,ĐHĐCĐ thường niên năm 2017,,,,
+2017-05-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:3",,3,,2016
 2017-05-26,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành 47409931 cp cho CĐHH, tỷ lệ 100:150",,150,,
 2017-05-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền mặt năm 2016, tỷ lệ 200đ/cp",200,2,,2016
-2017-05-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Phát hành cổ phiếu để trả cổ tức năm 2016, tỷ lệ 3%",,3,,2016
 2017-12-15,investorRight,MEETING,Họp cổ đông,2017-12-06,2017-12-29,2017-12-29,ĐHĐCĐ bất thường năm 2017,,,,
 2017-12-29,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 47.000.000 cp chào bán riêng lẻ,,,,
 2017-12-29,schedEvent,schedDiv,Dự kiến cổ tức,2019-07-09,2019-07-09,,"Dự kiến trả cổ tức năm 2017 bằng cổ phiếu, tỷ lệ 100:3",,3,,2017

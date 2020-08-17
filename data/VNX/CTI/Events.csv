@@ -16,8 +16,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-04-22,investorRight,MEETING,Họp cổ đông,2015-05-06,2015-05-19,2015-05-19,"ĐHĐCĐ thường niên năm 2015 (14h - nhà hàng Sonadezi, số 35 đường 3A KCN Biên Hòa 2, Đồng Nai)",,,,
 2015-09-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-09-24,2015-10-26,2015-10-26,Trả cổ tức năm 2014 (1000 đ/cp),1000,10,,2014
 2016-03-11,investorRight,MEETING,Họp cổ đông,2016-03-21,2016-04-12,2016-04-12,ĐHCĐ thường niên năm 2016,,,,
-2016-04-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2015,1500,15,,2015
-2016-04-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức 2016,1600,16,,2016
+2016-04-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2015 (1500 đ/cp),1500,15,,2015
+2016-04-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2016 (1600 đ/cp),1600,16,,2016
 2016-04-13,schedEvent,schedIssue,Dự kiến phát hành,2016-07-12,2016-07-12,,Chào bán cổ phiếu riêng lẻ tỷ lệ 30.3%,,30.3,,
 2016-04-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-04,2016-05-13,2016-05-13,Trả cổ tức năm 2015 (1500 đ/cp),1500,15,,2015
 2016-09-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-07-14,,,Số lượng 10.000.000CP,,,,
@@ -25,7 +25,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-02-17,investorRight,MEETING,Họp cổ đông,2017-03-02,2017-03-21,2017-03-21,Đại hội đồng cổ đông thường niên năm 2017,,,,
 2017-03-28,schedEvent,schedIssue,Dự kiến phát hành,2017-05-26,2017-05-26,,Chào bán cổ phiếu riêng lẻ cho nhà đầu tư chiến lược,,,,
 2017-04-13,stockAlert,noticed,Nhắc nhở,2017-04-13,,,Chậm nộp BCTC kiểm toán năm 2016,,,,
-2017-04-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 17%",,17,,2017
+2017-04-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:17",,17,,2017
 2017-06-26,schedEvent,schedIssue,Dự kiến phát hành,2017-07-10,2017-07-10,,Dự kiến phát hành 2.000.000 cp ESOP,,3.28,,
 2017-07-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-05-28,,,Số lượng 18000000 cp,,,,
 2017-08-08,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-07-11,,,Số lượng 1200000 cp,,,,

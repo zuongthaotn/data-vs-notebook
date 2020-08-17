@@ -35,7 +35,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-01-06,investorRight,ISSUE,Phát hành thêm,2016-01-20,2016-03-15,,"Phát hành 20,982,363 cp cho CĐHH, giá 12500 đ/cp, tỷ lệ 100:50",,50,,
 2016-02-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-02-24,2016-03-10,2016-03-10,Trả cổ tức năm 2015 (500 đ/cp),500,5,,2015
 2016-03-04,investorRight,MEETING,Họp cổ đông,2016-02-24,2016-04-14,2016-04-14,ĐHCĐ thường niên năm 2016,,,,
-2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 2016 tỷ lệ 10%,,10,,2016
+2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2016-04-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-05-12,,,Số lượng 19765363CP,,,,
 2016-05-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 2.2015 (500đ/cp),500,5,2,2015
 2016-05-12,schedEvent,schedIssue,Dự kiến phát hành,2016-06-13,2016-06-13,,phát hành 9.259.513 cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu,,15,,

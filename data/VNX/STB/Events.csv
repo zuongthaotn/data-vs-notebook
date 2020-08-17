@@ -45,7 +45,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-10-13,investorRight,MERGER,Sáp nhập,2015-10-16,,,Phân phối bổ sung cp tỷ lệ 100:8.75 do hoán đổi cổ phần để sáp nhập Southern Bank,,8.75,,
 2015-11-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-11-26,,,Số lượng 242.704.126 cp,,,,
 2016-02-29,investorRight,MEETING,Họp cổ đông,2016-03-11,,,ĐHCĐ thường niên năm 2016,,,,
-2016-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,trả cổ tức năm 2016 tỉ lệ 20%/ cổ phần,,20,,2016
+2016-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:20",,20,,2016
 2017-05-25,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-06-30,2017-06-30,ĐHĐCĐ thường niên năm 2017,,,,
 2017-08-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-09-25,,,Số lượng 400000000 cp,,,,
 2017-10-06,investorRight,POLL,Lấy ý kiến cổ đông,2017-10-17,,,V.v thông qua các vấn đề thuộc thẩm quyền của ĐHĐCĐ,,,,

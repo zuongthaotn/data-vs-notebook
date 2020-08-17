@@ -53,9 +53,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-02-28,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-04-27,2017-04-27,ĐHĐCĐ thường niên năm 2017,,,,
 2017-03-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-03-14,2017-04-05,2017-04-05,Trả cổ tức đợt 2/2016 (500 đ/cp),500,5,2,2016
 2017-03-14,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2017-03-14,2017-04-05,2017-04-05,Thay đổi ngày trả cổ tức đợt 2/2016 từ ngày 06/04/2017 sang ngày 05/04/2017,500,5,2,2016
+2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:15",,15,,2017
 2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức bằng tiền mặt năm 2016(2200đ/cp),2200,22,,2016
-2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ tối thiểu 
-15%",,15,,2017
 2017-09-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-09-21,2017-10-20,2017-10-20,Trả cổ tức đợt 3/2016 (1000 đ/cp),1000,10,3,2016
 2017-09-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-09-21,2017-10-20,2017-10-20,Trả cổ tức đợt 1/2017 (800 đ/cp),800,8,1,2017
 2017-09-07,investorRight,POLL,Lấy ý kiến cổ đông,2017-09-21,,,V/v lựa chọn đối tác chiến lược và ủy quyền HĐQT xem xét thông qua hợp đồng nguyên tắc,,,,

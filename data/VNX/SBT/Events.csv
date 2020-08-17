@@ -35,7 +35,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-07-14,investorRight,POLL,Lấy ý kiến cổ đông,2016-07-04,,,v/v p/a phát hành cổ phiếu để tăng vốn cổ phần,,,,
 2016-08-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-06-19,,,Số lượng 4559338CP,,,,
 2016-08-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-06-18,,,Số lượng 4559337CP,,,,
-2016-08-04,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng cổ phiếu niên độ 2015 - 2016, tỷ lệ 6%",,6,,2016
+2016-08-04,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:6",,6,,2016
 2016-08-04,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành cổ phiếu tăng vốn cổ phần từ nguồn vốn chủ sở hữu, tỷ lệ 24%",,24,,
 2016-09-15,investorRight,KINDDIV,Cổ phiếu thưởng,2016-10-11,2016-10-12,,Tỷ lệ 100:24,,24,,
 2016-09-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-11,2016-10-12,,"Trả cổ tức năm 2016, Tỷ lệ 100:6",,6,,2016

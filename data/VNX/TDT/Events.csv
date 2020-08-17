@@ -6,8 +6,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-09-14,investorRight,POLL,Lấy ý kiến cổ đông,2018-09-24,,,V/v bổ sung và sửa đổi ngành nghề kinh doanh,,,,
 2018-09-18,investorRight,POLL,Lấy ý kiến cổ đông,2018-10-03,,,"V/v sửa đổi, bổ sung ngành nghề kinh doanh",,,,
 2019-02-27,investorRight,MEETING,Họp cổ đông,2019-03-18,2019-04-07,2019-04-07,ĐHĐCĐ thường niên năm 2019,,,,
+2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,2019-11-13,2019-11-13,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:15",,15,,2018
 2019-04-10,schedEvent,schedIssue,Dự kiến phát hành,2019-11-13,2019-11-13,,Dự kiến phát hành 2404512 cổ phiếu cho cổ đông hiện hữu để tăng vốn điều lệ,,30,,
-2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,2019-11-13,2019-11-13,,"Dự kiến cổ tức bằng cổ phiếu năm 2018, tỷ lệ 15%",,15,,2018
 2019-11-05,investorRight,ISSUE,Phát hành thêm,2019-11-13,2019-12-16,,"Phát hành 2,404,512 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:30",,30,,
 2019-11-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-11-13,2019-11-14,,"Trả cổ tức năm 2018, Tỷ lệ 100:15",,15,,2018
 2019-11-13,schedEvent,schedIssue,Dự kiến phát hành,2019-11-13,2019-11-13,,Phát hành cho cổ đông khác,,,,

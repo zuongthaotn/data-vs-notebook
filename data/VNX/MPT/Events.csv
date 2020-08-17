@@ -5,7 +5,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-04-28,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cp riêng lẻ cho cổ đông chiến lược,,,,
 2016-04-28,schedEvent,schedIssue,Dự kiến phát hành,,,,phát hành cổ phiếu ESOP,,2.08,,
 2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 (800đ/cp),800,8,,2016
-2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-25,2016-10-25,,Trả cổ tức 2015 bằng cổ phiếu,,12,,2015
+2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-25,2016-10-25,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:12",,12,,2015
 2016-04-28,schedEvent,schedIssue,Dự kiến phát hành,2016-10-26,2016-10-26,,phát hành 4800000 cổ phiếu cho CĐ hiện hữu,,50,,
 2016-07-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-07-05,2016-07-29,,thời gian niêm yết dưới 06 tháng,,,,
 2016-10-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-09-01,2016-10-05,,Chậm CBTT BCTC soát xét 6T/2016 quá 10 ngày làm việc,,,,

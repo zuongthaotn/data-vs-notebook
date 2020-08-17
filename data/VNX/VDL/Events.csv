@@ -38,8 +38,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-05-15,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành cho cổ đông hiện hữu tăng vốn điều lệ (tỷ lệ 100:15),,15,,
 2015-06-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2015-07-02,2015-07-06,,"Trả cổ tức năm 2014, Tỷ lệ 100:15",,15,,2014
 2015-08-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-08-20,,,Số lượng 1.602.079 cp,,,,
-2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng cổ phiếu 2016, tỷ lệ 10% VĐL",,10,,2016
-2016-06-17,schedEvent,schedDiv,Dự kiến cổ tức,2016-07-14,2016-07-14,,Dự kiến phát hành 2235855cp để trả cổ tức tỷ lệ 18%,,18,,2015
+2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
+2016-06-17,schedEvent,schedDiv,Dự kiến cổ tức,2016-07-14,2016-07-14,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:18",,18,,2015
 2016-06-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-07-14,2016-07-15,,"Trả cổ tức năm 2015, Tỷ lệ 100:18",,18,,2015
 2016-07-28,investorRight,MEETING,Họp cổ đông,2016-03-18,2016-04-09,2016-04-09,ĐHĐCĐ thường niên năm 2016,,,,
 2016-09-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-09-19,,,"Số lượng 2,235,732 cp",,,,
@@ -52,3 +52,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-06-14,investorRight,MEETING,Họp cổ đông,2019-07-05,,,ĐHĐCĐ thường niên năm 2019,,,,
 2019-07-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2018 (1000 đ/cp),1000,10,,2018
 2019-12-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-19,2020-01-15,2020-01-15,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
+2020-08-11,investorRight,MEETING,Họp cổ đông,2020-09-03,,,ĐHĐCĐ thường niên năm 2020,,,,

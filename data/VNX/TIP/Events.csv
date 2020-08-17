@@ -2,8 +2,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2012-12-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-12-21,2017-01-05,2017-01-05,Cổ tức đợt 1 năm 2016 (1.000đ/cp),1000,10,1,2016
 2015-10-22,investorRight,KINDDIV,Cổ phiếu thưởng,2015-11-02,2015-11-04,,tỷ lệ: 1:0.5,,50,,
 2016-03-21,investorRight,MEETING,Họp cổ đông,2016-04-04,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức năm 2015 tỉ lệ 5%,,5,,2015
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức năm 2016 tỉ lệ 15%,,15,,2016
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:5",,5,,2015
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:15",,15,,2016
 2016-04-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-11,2016-05-25,2016-05-25,Trả cổ tức đợt 2/2015 (500 đ/cp),500,5,2,2015
 2016-05-05,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-06-06,,,Giá tham chiếu 15.000đ/cp,,,,
 2016-06-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-06-15,2017-01-05,,Thời gian niêm yết dưới 06 tháng,,,,

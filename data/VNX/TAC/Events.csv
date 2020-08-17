@@ -25,8 +25,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-08-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-08-18,2015-09-18,2015-09-18,Trả cổ tức lần 2/2014 (700đ/cp),700,7,2,2014
 2015-11-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-11-12,2015-12-10,2015-12-10,Trả cổ tức năm 2015 (800 đ/cp),800,8,,2015
 2016-04-27,investorRight,MEETING,Họp cổ đông,2016-05-11,2016-05-31,2016-05-31,Đại hội đồng cổ đông thường niên năm 2016,,,,
+2016-06-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:16",,16,,2016
 2016-06-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức lần 2.2015 (1.200đ/cp),1200,12,2,2015
-2016-06-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 tỷ lệ 16%,,16,,2016
 2016-06-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-16,2016-06-30,2016-06-30,Trả cổ tức đợt 2/2015 (1200 đ/cp),1200,12,2,2015
 2016-09-05,investorRight,MEETING,Họp cổ đông,2016-09-15,2016-10-06,2016-10-06,ĐHĐCĐ bất thường năm 2016,,,,
 2016-12-20,investorRight,MEETING,Họp cổ đông,2017-01-04,2017-02-10,2017-02-10,ĐHĐCĐ bất thường năm 2017,,,,
@@ -41,7 +41,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-04-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-05-16,2018-06-15,2018-06-15,Trả cổ tức năm 2017 (2400 đ/cp),2400,24,,2017
 2018-06-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-09-12,,,"Số lượng 1,613,316 cp",,,,
 2019-05-21,investorRight,MEETING,Họp cổ đông,2019-05-14,2019-06-10,2019-06-10,ĐHĐCĐ thường niên năm 2019,,,,
-2019-06-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức bằng tiền năm 2018, tỷ lệ 24%",2400,24,,2018
+2019-06-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2018 (2400 đ/cp),2400,24,,2018
 2019-06-28,stockAlert,noticed,Nhắc nhở,2019-06-27,,,Chậm CBTT thay đổi địa điểm văn phòng đại diện,,,,
 2019-07-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-08-02,2019-08-30,2019-08-30,Trả cổ tức năm 2018 (2400 đ/cp),2400,24,,2018
 2020-04-23,investorRight,MEETING,Họp cổ đông,2020-05-13,2020-06-12,2020-06-12,ĐHĐCĐ thường niên năm 2020,,,,

@@ -42,7 +42,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-11-05,stockAlert,noticed,Nhắc nhở,2015-11-05,,,Vv chậm CBTT chấm dứt hoạt động chi nhánh,,,,
 2016-02-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-02-24,2016-03-24,2016-03-24,Trả cổ tức đợt 2/2015 (1000 đ/cp),1000,10,2,2015
 2016-02-03,investorRight,MEETING,Họp cổ đông,2016-02-24,2016-03-26,2016-03-26,ĐHCĐ thường niên năm 2016,,,,
-2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-02,2016-06-02,,Phát hành 2105137 cp thưởng,,25.5,,2016
+2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-02,2016-06-02,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:25.5",,25.5,,2016
 2016-05-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-02,2016-07-01,2016-07-01,Trả cổ tức đợt 1/2016 (1000 đ/cp),1000,10,1,2016
 2016-05-19,investorRight,KINDDIV,Cổ phiếu thưởng,2016-06-02,2016-06-03,,Tỷ lệ 100:27.5,,27.5,,
 2016-05-26,stockAlert,noticed,Nhắc nhở,2016-05-25,,,Chậm CBTT về việc phát hành thêm cổ phiếu,,,,
@@ -73,3 +73,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-07-09,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-07-16,,,"Số lượng 4,466,764 cp",,,,
 2020-05-04,investorRight,MEETING,Họp cổ đông,2020-05-25,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-08,2020-07-22,2020-07-22,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019
+2020-08-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-20,2020-08-21,,"Trả cổ tức năm 2019, Tỷ lệ 100:15",,15,,2019

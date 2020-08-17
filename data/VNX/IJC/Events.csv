@@ -22,8 +22,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-01-16,stockAlert,suspend,Tạm ngừng giao dịch,2017-01-17,2017-04-20,,Tạm ngừng giao dịch để thực hiện giảm vốn điều lệ,,,,
 2017-04-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng -137097202 cp,,,,
 2017-04-17,investorRight,MEETING,Họp cổ đông,2017-05-03,2017-05-26,2017-05-26,Họp ĐHĐCĐ thường niên năm 2017,,,,
+2017-05-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:10",,10,,2017
 2017-05-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền mặt năm 2016(800đ/cp),800,8,,2016
-2017-05-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2017, tỷ lệ 10%/VĐL",,10,,2017
 2017-08-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-18,2017-09-11,2017-09-11,Trả cổ tức năm 2016 (800đ/cp),800,8,,2016
 2018-02-08,investorRight,MEETING,Họp cổ đông,2018-03-05,2018-04-06,2018-04-06,ĐHCĐ thường niên năm 2018,,,,
 2018-07-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-07-19,2018-08-15,2018-08-15,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017

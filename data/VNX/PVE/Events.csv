@@ -28,8 +28,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-03-09,investorRight,MEETING,Họp cổ đông,2015-03-13,2015-04-16,2015-04-16,ĐHĐCĐ thường niên năm 2015,,,,
 2015-06-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-06-26,2015-07-30,2015-07-30,Trả cổ tức năm 2014 (800đ/cp),800,8,,2014
 2016-03-08,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
-2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 2015 tỷ lệ 10%,,10,,2015
-2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 2016 tỷ lệ 8%,,8,,2016
+2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
+2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:8",,8,,2016
 2016-06-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-27,2016-07-20,2016-07-20,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
 2016-08-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-09-05,2016-09-30,2016-09-30,Trả cổ tức năm 2013 (500 đ/cp),500,5,,2013
 2017-04-10,investorRight,MEETING,Họp cổ đông,2017-03-21,2017-04-26,2017-04-26,ĐHĐCĐ thường niên năm 2017,,,,
@@ -48,4 +48,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-12-27,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-05-09,2020-12-25,2020-12-25,Thay đổi ngày chi trả cổ tức năm 2016 từ ngày 31/12/2019 sang ngày 25/12/2020,800,8,,2016
 2020-05-04,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-05-28,,,Hủy niêm yết trên HNX,,,,
 2020-05-28,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-06-04,,,Giá tham chiếu: 2.600 đ/cp,,,,
-2020-06-04,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-06-04,,,CK bị hủy niêm yết và chưa khắc phục được nguyên nhân này,,,,
+2020-06-04,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-06-04,,,Không CBTT về họp ĐHĐCĐ thường niên năm 2020,,,,

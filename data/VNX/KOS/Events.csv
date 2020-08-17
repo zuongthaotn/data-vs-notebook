@@ -10,5 +10,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-07-12,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2019-07-22,,,Giá tham chiếu: 23.200 đ/cp,,,,
 2019-07-23,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-07-23,2020-02-05,,Thời gian niêm yết dưới 6 tháng,,,,
 2020-05-07,investorRight,MEETING,Họp cổ đông,2020-05-26,2020-06-25,2020-06-25,ĐHĐCĐ thường niên năm 2020,,,,
+2020-07-17,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:5",,5,,2019
 2020-07-17,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 57,638,888cp cho CĐHH",,55.56,,
 2020-07-17,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 5,187,500cp cho CĐHH",,,,

@@ -27,12 +27,12 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-01-04,investorRight,ISSUE,Phát hành thêm,2016-01-07,2016-02-04,,"Phát hành 3,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:60",,60,,
 2016-03-16,investorRight,MEETING,Họp cổ đông,2016-03-25,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
 2016-03-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-03-31,,,Số lượng 1.461.906 cp,,,,
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-14,2016-06-14,,Dự kiến phát hành 775.428 cp chi trả cổ tức 12% cho năm 2015,,12,,2015
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-14,2016-06-14,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:12",,12,,2015
 2016-05-18,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-14,2016-06-15,,"Trả cổ tức năm 2015, Tỷ lệ 100:12",,12,,2015
 2016-07-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-22,,,Số lượng 775.070cp,,,,
 2017-03-09,investorRight,MEETING,Họp cổ đông,2017-03-20,2017-04-28,2017-04-28,"ĐHCĐ thường niên năm 2017. 
 ",,,,
-2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2017. tỷ lệ tối thiểu 8%,,8,,2017
+2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:8",,8,,2017
 2017-08-02,schedEvent,schedDiv,Dự kiến cổ tức,2017-08-24,2017-08-24,,"Phát hành cổ phiếu để trả cổ tức năm 2016, tỷ lệ 100:10",,10,,2016
 2017-08-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-08-24,2017-08-25,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
 2017-08-22,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-08-22,2018-01-05,,TCNY nhận được kết luận v/v vi phạm pháp luật thuế,,,,

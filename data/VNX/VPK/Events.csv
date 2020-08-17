@@ -18,11 +18,11 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-04-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-12,2015-05-26,2015-05-26,Trả cổ tức năm 2014 (2.000đ/cp),2000,20,,2014
 2015-10-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-11-16,2015-12-10,2015-12-10,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
 2016-02-22,investorRight,MEETING,Họp cổ đông,2016-03-15,2016-04-15,2016-04-15,ĐHCĐ thường niên năm 2016,,,,
-2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2016 tỷ lệ 20%,,20,,2016
-2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức còn lại năm 2015 tỷ lệ 10%,,10,,2015
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:20",,20,,2016
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
 2016-04-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-11,2016-05-30,2016-05-30,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
 2017-02-24,investorRight,MEETING,Họp cổ đông,2017-03-14,2017-04-14,2017-04-14,ĐHĐCĐ thường niên năm 2017,,,,
-2017-04-14,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-23,2017-06-23,,Dự kiến phát hành 7.000.000 cổ phiếu thưởng,,87.5,,
+2017-04-14,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-23,2017-06-23,,"Dự kiến phát hành 7,000,000 cổ phiếu thưởng, tỷ lệ 100:87.5",,87.5,,
 2017-06-05,investorRight,KINDDIV,Cổ phiếu thưởng,2017-06-23,2017-06-26,,Tỷ lệ 100:87.5,,87.5,,
 2017-07-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-08,,,Số lượng 6998817 cp,,,,
 2017-08-16,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-08-16,2020-01-20,,LNST 6T.2017 âm,,,,

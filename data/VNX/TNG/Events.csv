@@ -47,7 +47,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-02-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-03-03,,,Số lượng 5.485.642 cp,,,,
 2016-04-26,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành cho cổ đông hiện hữu,,16.67,,
 2016-04-26,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành cổ phiếu để hoán đổi cổ phần,,,,
-2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,2016-08-15,2016-08-15,,Dự kiến trả cổ tức đợt 2/2015 bằng cổ phiếu tỷ lệ 10%,,10,2,2015
+2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,2016-08-15,2016-08-15,,"Dự kiến trả cổ tức bằng cổ phiếu đợt 2/2015, tỷ lệ 100:10",,10,2,2015
 2016-06-27,schedEvent,schedIssue,Dự kiến phát hành,2016-08-26,2016-08-26,,Dự kiến phát hành 1481106 cp cho người lao động,,,,
 2016-07-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 70,000 cp",,,,
 2016-07-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-08-15,2016-08-16,,"Trả cổ tức đợt 2/2015, Tỷ lệ 100:10",,10,2,2015
@@ -56,7 +56,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-02-09,investorRight,MEETING,Họp cổ đông,2017-02-27,2017-04-23,2017-04-23,Đại hội đồng cổ đông thường niên năm 2017,,,,
 2017-04-24,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-29,2017-06-29,,Dự kiến chi trả cổ tức năm 2017 tỷ lệ 100:16,,16,,2017
 2017-04-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-05-05,,,Số lượng 200000 cp,,,,
-2017-05-18,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến phát hành 6.852.995 cổ phiếu để trả cổ tức năm 2016, tỷ lệ 10:2",,20,,2016
+2017-05-18,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-29,2017-06-29,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:20",,20,,2016
 2017-06-07,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-06-29,2017-06-30,,"Trả cổ tức năm 2016, Tỷ lệ 100:20",,20,,2016
 2017-09-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-09-21,,,Số lượng 6852313 cp,,,,
 2018-01-17,investorRight,MEETING,Họp cổ đông,2018-02-27,2018-04-22,2018-04-22,ĐHCĐ thường niên năm 2018,,,,

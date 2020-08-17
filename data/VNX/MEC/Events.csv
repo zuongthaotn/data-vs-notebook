@@ -26,7 +26,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-07-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-07-16,2015-11-02,2015-11-02,Trả cổ tức năm 2011 (900đ/cp),900,9,,2011
 2015-10-12,investorRight,MEETING,Họp cổ đông,2015-10-16,2015-11-21,2015-11-21,ĐHĐCĐ bất thường năm 2015,,,,
 2016-05-17,investorRight,MEETING,Họp cổ đông,2016-03-10,2016-06-08,2016-06-08,ĐHĐCĐ thường niên năm 2016,,,,
-2016-06-10,schedEvent,schedDiv,Dự kiến cổ tức,2016-09-21,2016-09-21,,Dự kiến phát hành 618800 cp để trả cổ tức năm 2012 tỷ lệ 100 : 8,,8,,2012
+2016-06-10,schedEvent,schedDiv,Dự kiến cổ tức,2016-09-21,2016-09-21,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2012, tỷ lệ 100:8",,8,,2012
 2016-09-07,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-09-21,2016-09-22,,"Trả cổ tức năm 2012, Tỷ lệ 100:8",,8,,2012
 2016-11-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-11,,,Số lượng 618620 cp,,,,
 2017-03-09,stockAlert,alert,Cảnh báo,2017-03-10,2017-09-11,,"LNST Cty mẹ, LNST chưa phân phối tại ngày 31/12/2016 âm",,,,

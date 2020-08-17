@@ -57,7 +57,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-03-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-03-29,,,Số lượng 2.844.532 cp,,,,
 2016-04-25,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành 1.330.529 cổ phiếu theo chương trình ESOP,,,,
 2016-05-13,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2015 (500đ/cp),500,5,,2015
-2016-05-13,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-21,2016-06-21,,Dự kiến trả cổ tức bằng cổ phiếu 2015 15%/VĐL,,15,,2015
+2016-05-13,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-21,2016-06-21,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:15",,15,,2015
 2016-06-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-21,2016-07-25,2016-07-25,Trả cổ tức năm 2015 (500 đ/cp),500,5,,2015
 2016-06-08,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-21,2016-06-22,,"Trả cổ tức năm 2015, Tỷ lệ 100:15",,15,,2015
 2016-07-04,schedEvent,schedIssue,Dự kiến phát hành,2016-09-29,2016-09-29,,Dự kiến phát hành 665.264 cổ phiếu ESOP,,,,
@@ -67,9 +67,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-03-08,stockAlert,noticed,Nhắc nhở,2017-03-07,,,Chậm CBTT thay đổi SLCP có quyền biểu quyết đang lưu hành,,,,
 2017-03-09,investorRight,MEETING,Họp cổ đông,2017-03-22,2017-04-22,2017-04-22,ĐHĐCĐ thường niên năm 2017,,,,
 2017-03-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 3298985 cp,,,,
+2017-04-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2016 (2500 đ/cp),2500,25,,2016
 2017-04-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2016 (500đ/cp),500,5,,2016
 2017-04-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng năm 2017 (2500-3000đ/cp),3000,30,,2017
-2017-04-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu năm 2016,2500,25,,2016
 2017-10-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-10-19,2017-11-03,2017-11-03,Trả cổ tức năm 2016 (500 đ/cp),500,5,,2016
 2018-03-13,investorRight,MEETING,Họp cổ đông,2018-03-22,2018-04-20,2018-04-20,ĐHĐCĐ thường niên năm 2018,,,,
 2018-03-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-04-05,2018-04-06,,"Trả cổ tức năm 2016, Tỷ lệ 100:25",,25,,2016

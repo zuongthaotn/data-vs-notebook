@@ -28,15 +28,15 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-04-08,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-03-16,,,Số lượng 6000000CP,,,,
 2016-05-16,investorRight,MEETING,Họp cổ đông,2016-05-27,2016-06-25,2016-06-25,ĐHĐCĐ thường niên năm 2016,,,,
 2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chỉa cổ tức 2016 bằng tiền mặt (1.000đ/cp),1000,10,,2016
-2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,2016-08-18,2016-08-18,,"Dự kiến cổ tức bằng cổ phiếu 2015, tỷ lệ 10%",,10,,2015
-2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,2017-09-22,2017-09-22,,Dự kiến chia cổ tức 2016 bằng cổ phiếu tỷ lệ 10%,,10,,2016
+2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,2016-08-18,2016-08-18,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
+2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,2017-09-22,2017-09-22,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2016-08-01,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-08-18,2016-08-19,,"Trả cổ tức năm 2015, Tỷ lệ 100:10",,10,,2015
 2016-08-01,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-08-18,2016-09-19,2016-09-19,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
 2016-09-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-10-06,,,Số lượng 2.325.715CP,,,,
 2017-05-12,investorRight,MEETING,Họp cổ đông,2017-05-03,2017-05-20,2017-05-20,ĐHĐCĐ thường niên năm 2017,,,,
 2017-05-22,schedEvent,schedIssue,Dự kiến phát hành,2017-09-22,2017-09-22,,"Dự kiến phát hành 5.166.920 cp cho CĐHH, tỷ lệ 5:1",,20,,
 2017-05-22,schedEvent,schedIssue,Dự kiến phát hành,2017-10-23,2017-10-23,,Dự kiến phát hành 1.200.000 cổ phiếu ESOP năm 2017,,,,
-2017-06-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến phát hành 2558460 để trả cổ tức năm 2016,,10,,2016
+2017-06-23,schedEvent,schedDiv,Dự kiến cổ tức,2017-09-22,2017-09-22,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2017-09-11,investorRight,ISSUE,Phát hành thêm,2017-09-22,2017-10-27,,"Phát hành 5,116,920 cp cho CĐHH, giá 18000 đ/cp, tỷ lệ 100:20",,20,,
 2017-09-12,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-09-22,2017-09-25,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
 2017-10-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 2558246 cp,,,,

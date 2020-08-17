@@ -23,7 +23,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-07-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-07-30,,,Số lượng 1.822.421 cp,,,,
 2015-11-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-12-08,2015-12-25,2015-12-25,Trả cổ tức năm 2015 (1500 đ/cp),1500,15,,2015
 2016-03-11,investorRight,MEETING,Họp cổ đông,2016-03-25,2016-04-26,2016-04-26,ĐHCĐ thường niên năm 2016,,,,
-2016-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức năm 2016 tỉ lệ 15%,,15,,2016
+2016-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:15",,15,,2016
 2016-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức còn lại năm 2015 (700đ/cp),700,7,,2015
 2016-04-27,schedEvent,schedIssue,Dự kiến phát hành,2016-10-07,2016-10-07,,"Phát hành 8.018.350 CP cho cổ đông hiện hữu để tăng vốn từ nguồn vốn CSH , tỷ lệ 100:40",,40,,
 2016-06-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-27,2016-07-11,2016-07-11,Trả cổ tức năm 2015 (700 đ/cp),700,7,,2015

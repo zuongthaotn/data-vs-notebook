@@ -32,7 +32,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-03-04,investorRight,MEETING,Họp cổ đông,2015-03-12,2015-04-04,2015-04-04,ĐHĐCĐ thường niên năm 2015,,,,
 2015-05-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-05-20,2015-06-15,2015-06-15,Trả cổ tức năm 2014 (1.000đ/cp),1000,10,,2014
 2016-03-08,investorRight,MEETING,Họp cổ đông,2016-03-18,2016-04-09,2016-04-09,ĐHCĐ thường niên năm 2016,,,,
-2016-04-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức 2015, tỷ lệ 10% VĐL",,10,,2015
+2016-04-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
 2016-06-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-23,2016-07-07,2016-07-07,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
 2016-08-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2007-01-24,2007-02-09,2007-02-09,Trả cổ tức đợt 2/2006 (1200 đ/cp),1200,12,2,2006
 2016-10-21,investorRight,POLL,Lấy ý kiến cổ đông,2016-11-03,2016-11-25,2016-11-25,V/v ủy quyền cho công ty con hợp tác với VTB khai thác khu đất tại số 6 Phạm Văn Hai,,,,

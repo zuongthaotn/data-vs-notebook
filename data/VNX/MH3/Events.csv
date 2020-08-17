@@ -1,6 +1,6 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
 2017-02-28,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-03-06,,,Giá tham chiếu 11.600 đ/cp,,,,
-2017-05-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2017.,1700,17,,2017
+2017-05-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2017 (1700 đ/cp),1700,17,,2017
 2017-05-16,investorRight,MEETING,Họp cổ đông,2017-04-19,2017-05-10,2017-05-10,ĐHĐCĐ thường niên năm 2017,,,,
 2017-05-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-30,2017-06-19,2017-06-19,Trả cổ tức năm 2016 (1600 đ/cp),1600,16,,2016
 2018-04-11,investorRight,MEETING,Họp cổ đông,2018-04-27,,,ĐHĐCĐ thường niên năm 2018,,,,

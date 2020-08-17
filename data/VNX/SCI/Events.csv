@@ -12,9 +12,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-12-28,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-12-28,,,Thời gian niêm yết dưới 6 tháng,,,,
 2017-01-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-01-20,2017-02-13,2017-02-13,Cổ tức năm 2015 (500đ/cp),500,5,,2015
 2017-03-21,investorRight,MEETING,Họp cổ đông,2017-03-29,2017-04-28,2017-04-28,ĐHĐCĐ thường niên năm 2017,,,,
-2017-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2016, tỷ lệ 8%",,8,,2016
+2017-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:8",,8,,2016
 2018-03-22,investorRight,MEETING,Họp cổ đông,2018-04-09,2018-04-27,2018-04-27,ĐHĐCĐ thường niên năm 2018,,,,
-2018-06-13,schedEvent,schedDiv,Dự kiến cổ tức,2018-07-19,2018-07-19,,"Dự kiến phát hành 1000000 cp trả cổ tức năm 2018, tỷ lệ 10%",,10,,2017
+2018-06-13,schedEvent,schedDiv,Dự kiến cổ tức,2018-07-19,2018-07-19,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:10",,10,,2017
 2018-07-06,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-07-19,2018-07-20,,"Trả cổ tức năm 2017, Tỷ lệ 100:10",,10,,2017
 2018-09-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-09-12,,,Số lượng 999995 cp,,,,
 2019-03-18,investorRight,MEETING,Họp cổ đông,2019-04-01,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,

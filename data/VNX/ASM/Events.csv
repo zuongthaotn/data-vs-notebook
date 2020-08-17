@@ -35,8 +35,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-08-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-09-03,,,Số lượng 5.364.387 cp,,,,
 2015-10-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-10-12,,,Số lượng 107.287.740 cp,,,,
 2016-03-16,investorRight,MEETING,Họp cổ đông,2016-03-25,2016-04-24,2016-04-24,ĐHCĐ thường niên năm 2016,,,,
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2015 bằng cổ phiếu tỷ lệ 5%,,5,,2015
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 tỷ lệ 5% - 10%,,5,,2016
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:5",,5,,2015
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2016-08-29,investorRight,POLL,Lấy ý kiến cổ đông,2016-09-13,,,V/v hủy phương án phát hành cổ phiếu theo Nghị quyết ĐHCĐ thường niên 2016 và các vấn đề khác thuộc thẩm quyền của ĐHĐCĐ,,,,
 2016-10-26,schedEvent,schedIssue,Dự kiến phát hành,,,,[Hủy] Dự kiến phát hành 109.969.933 CP để thực hiện quyền mua cho CĐHH,,,,
 2017-04-18,investorRight,MEETING,Họp cổ đông,2017-04-11,2017-05-05,2017-05-05,ĐHĐCĐ thường niên năm 2017,,,,

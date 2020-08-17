@@ -35,12 +35,12 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-07-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-07-24,,,Số lượng 11.309.676 cp,,,,
 2015-09-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-10-06,2015-10-22,2015-10-22,Trả cổ tức đợt 1/2015 (1000 đ/cp),1000,10,1,2015
 2016-03-16,investorRight,MEETING,Họp cổ đông,2016-03-25,2016-04-22,2016-04-22,ĐHCĐ thường niên năm 2016,,,,
+2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:20",,20,,2016
 2016-04-25,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành ESOP cho năm 2016,,,,
-2016-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2016 tỷ lệ 20%,,20,,2016
 2016-05-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-23,2016-06-08,2016-06-08,Trả cổ tức đợt 2/2015 (1000 đ/cp),1000,10,2,2015
 2016-10-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-20,2016-11-08,2016-11-08,Cổ tức đợt 1 năm 2016 (1.000đ/cp),1000,10,1,2016
 2017-03-14,investorRight,MEETING,Họp cổ đông,2017-03-30,2017-04-28,2017-04-28,ĐHĐCĐ thường niên năm 2017,,,,
-2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 15%",,15,,2017
+2017-05-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:15",,15,,2017
 2017-05-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-05-29,2017-06-15,2017-06-15,Trả cổ tức đợt 2/2016 (1000 đ/cp),1000,10,2,2016
 2017-11-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-12-01,2017-12-21,2017-12-21,Trả cổ tức đợt 1/2017 (700đ/cp),700,7,1,2017
 2018-05-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức đợt 2/2017 (800 đ/cp),800,8,2,2017

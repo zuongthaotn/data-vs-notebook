@@ -43,13 +43,13 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-01-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-02-04,,,Số lượng 546.271 cp,,,,
 2016-02-16,investorRight,MEETING,Họp cổ đông,2016-02-26,2016-03-31,2016-03-31,ĐHCĐ thường niên 2016,,,,
 2016-02-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-02-26,2016-04-01,2016-04-01,Cổ tức đợt 1 năm 2015 (1.000 đ/cp),1000,10,1,2015
-2016-03-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2016 tối thiểu 12%,,12,,2016
-2016-03-31,schedEvent,schedDiv,Dự kiến cổ tức,2016-05-25,2016-05-25,,Dự kiến trả cổ tức năm 2015 tỷ lệ thực hiện 20:3,,15,,2015
+2016-03-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:12",,12,,2016
+2016-03-31,schedEvent,schedDiv,Dự kiến cổ tức,2016-05-25,2016-05-25,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:15",,15,,2015
 2016-04-21,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-05-11,2016-05-12,,"Trả cổ tức năm 2015, tỷ lệ 100:15",,15,,2015
 2016-06-09,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-06-20,,,Số lượng 40442031CP,,,,
 2017-02-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-02-28,2017-04-28,2017-04-28,Tạm ứng cổ tức năm 2016 (1.600đ/cp),1600,16,,2016
 2017-02-14,investorRight,MEETING,Họp cổ đông,2017-02-28,2017-03-30,2017-03-30,ĐHCĐ thường niên năm tài khóa 2016,,,,
-2017-03-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2017 không thấp hơn 10%/VĐL,,10,,2017
+2017-03-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:10",,10,,2017
 2018-01-29,investorRight,MEETING,Họp cổ đông,2018-02-28,2018-03-29,2018-03-29,ĐHCĐ thường niên năm 2017,,,,
 2018-01-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-02-28,2018-04-27,2018-04-27,Tạm ứng cổ tức năm 2017 (1600 đ/cp),1600,16,,2017
 2019-02-12,investorRight,MEETING,Họp cổ đông,2019-02-26,2019-03-29,2019-03-29,ĐHĐCĐ thường niên năm 2019,,,,

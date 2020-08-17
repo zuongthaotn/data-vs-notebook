@@ -4,7 +4,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-04-06,stockAlert,noticed,Nhắc nhở,2015-04-06,,,Vv chậm CBTT BCTC kiểm toán năm 2014,,,,
 2015-05-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-06-08,2015-07-10,2015-07-10,Trả cổ tức năm 2014 (2.000đ/cp),2000,20,,2014
 2016-03-08,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-29,2016-04-29,ĐHCĐ thường niên năm 2016,,,,
-2016-04-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 tỷ lệ tối thiểu 12%,,12,,2016
+2016-04-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:12",,12,,2016
 2016-06-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-23,2016-07-20,2016-07-20,Trả cổ tức năm 2015 (1500 đ/cp),1500,15,,2015
 2016-08-08,investorRight,KINDDIV,Cổ phiếu thưởng,2016-08-24,2016-08-25,,Tỷ lệ 100:10,,10,,
 2016-10-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-10-20,,,Số lượng 4.354.027 cp,,,,

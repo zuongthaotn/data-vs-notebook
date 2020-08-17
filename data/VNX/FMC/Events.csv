@@ -49,9 +49,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-08-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-06-21,,,"Số lượng 1,200,000 cp",,,,
 2018-08-24,stockAlert,noticed,Nhắc nhở,2018-08-24,,,Vi phạm công bố thông tin,,,,
 2019-02-14,investorRight,MEETING,Họp cổ đông,2019-03-05,2019-04-05,2019-04-05,ĐHĐCĐ thường niên năm 2019,,,,
-2019-04-08,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2018, tỉ lệ 20% 
-
-",2000,20,,2018
+2019-04-08,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2018 (2000 đ/cp),2000,20,,2018
 2019-08-09,schedEvent,schedIssue,Dự kiến phát hành,2019-08-26,2019-08-26,,"Dự kiến phát hành 8,040,000 cổ phiếu cho CĐHH",,,,
 2019-08-09,schedEvent,schedIssue,Dự kiến phát hành,2019-09-10,2019-09-10,,"Dự kiến phát hành 804,000 theo chương trình ESOP",,,,
 2019-08-14,investorRight,ISSUE,Phát hành thêm,2019-08-26,2019-10-03,,"Phát hành 8,040,000 cp cho CĐHH, giá 25000 đ/cp, tỷ lệ 100:20",,20,,

@@ -7,7 +7,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-09-09,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-09-18,,,Số lượng 4.643.888 cp,,,,
 2016-01-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-02-02,2016-02-29,2016-02-29,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
 2016-03-10,investorRight,MEETING,Họp cổ đông,2016-03-17,,,ĐHCĐ thường niên năm 2016,,,,
-2016-04-11,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-24,2016-06-24,,"Dự kiến cổ tức bằng cổ phiếu đợt 2.2015, tỷ lệ 7%",,7,2,2015
+2016-04-11,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-24,2016-06-24,,"Dự kiến trả cổ tức bằng cổ phiếu đợt 2/2015, tỷ lệ 100:7",,7,2,2015
 2016-04-21,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến cổ phiếu thưởng tỷ lệ 3%,,3,,
 2016-06-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-24,2016-06-27,,"Trả cổ tức đợt 2/2015, Tỷ lệ 100:7",,7,2,2015
 2016-06-10,investorRight,KINDDIV,Cổ phiếu thưởng,2016-06-24,2016-06-27,,Tỷ lệ 100:3,,3,,
@@ -34,7 +34,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-07-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-07-26,2018-08-10,2018-08-10,Trả cổ tức năm 2017 (600 đ/cp),600,6,,2017
 2018-09-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-09-24,,,"Số lượng 5,631,334 cp",,,,
 2019-03-19,investorRight,MEETING,Họp cổ đông,2019-03-08,2019-03-29,2019-03-29,ĐHĐCĐ thường niên năm 2019,,,,
-2019-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền năm 2018, tỉ lệ 5%",500,5,,2018
+2019-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2018 (500 đ/cp),500,5,,2018
 2019-04-01,schedEvent,schedDiv,Dự kiến cổ tức,2019-06-17,2019-06-17,,"Dự kiến cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:20",,20,,2018
 2019-04-01,schedEvent,schedIssue,Dự kiến phát hành,2019-08-30,2019-08-30,,"Dự kiến phát hành 1800000 cp ESOP , giá 10000 đ/cp",,,,
 2019-06-04,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-06-17,2019-06-18,,"Trả cổ tức năm 2018, Tỷ lệ 100:20",,20,,2018

@@ -46,8 +46,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-08-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-08-19,2015-09-09,2015-09-09,Trả cổ tức đợt 1/2015 (1000 đ/cp),1000,10,1,2015
 2016-02-04,investorRight,MEETING,Họp cổ đông,2016-02-23,2016-03-31,2016-03-31,ĐHCĐ thường niên năm 2016,,,,
 2016-03-25,schedEvent,schedIssue,Dự kiến phát hành,2016-04-05,2016-04-05,,Dự kiến phát hành cho người lao động trong công ty,,,,
+2016-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2015 (1000 đ/cp),1000,10,,2015
 2016-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến kế hoạch trả cổ tức 2016 (2.000đ/cp),2000,20,,2016
-2016-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2015 bằng tiền mặt,1000,10,,2015
 2016-04-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-27,2016-06-10,2016-06-10,Trả cổ tức đợt 2/2015 (1000 đ/cp),1000,10,2,2015
 2016-04-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-04-05,,,Số lượng 1986829 cp,,,,
 2016-05-12,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-05-27,2016-05-30,,"Trả cổ tức năm 2015, Tỷ lệ 100:15",,15,,2015
@@ -82,8 +82,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-01-30,investorRight,MEETING,Họp cổ đông,2019-02-28,2019-03-29,2019-03-29,"ĐHĐCĐ thường niên năm 2019 
 ",,,,
 2019-03-21,schedEvent,schedIssue,Dự kiến phát hành,2019-04-04,2019-04-04,,"Dự kiến phát hành cp ESOP, tỷ lệ 100:0.5, giá 10.000 đ/cp",,0.5,,
-2019-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng tiền năm 2019, tỉ lệ 20%",2000,20,,2019
-2019-04-01,schedEvent,schedDiv,Dự kiến cổ tức,2019-05-17,2019-05-17,,"Dự kiến trả cổ tức đợt 2 năm 2018, tỉ lệ 10%",,10,2,2018
+2019-04-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2019 (2000 đ/cp),2000,20,,2019
+2019-04-01,schedEvent,schedDiv,Dự kiến cổ tức,2019-05-17,2019-05-17,,"Dự kiến trả cổ tức bằng cổ phiếu đợt 2/2018, tỷ lệ 100:10",,10,2,2018
 2019-04-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-17,2019-06-07,2019-06-07,Trả cổ tức đợt 2/2018 (1000 đ/cp),1000,10,2,2018
 2019-05-06,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-05-17,2019-05-20,,"Trả cổ tức năm 2018, Tỷ lệ 100:10",,10,,2018
 2019-05-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2022-04-01,,,Số lượng 3067200 cp,,,,

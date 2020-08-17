@@ -19,8 +19,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-10-17,investorRight,ISSUE,Phát hành thêm,2016-09-16,2016-10-24,,"Phát hành 19,350,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:100",,100,,
 2016-12-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-12-22,,,Số lượng 19350000 cp,,,,
 2017-03-29,investorRight,MEETING,Họp cổ đông,2017-04-07,2017-04-29,2017-04-29,ĐHĐCĐ thường niên năm 2017,,,,
+2017-04-29,schedEvent,schedDiv,Dự kiến cổ tức,2017-08-03,2017-08-03,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:6.5",,6.5,,2016
 2017-04-29,schedEvent,schedDiv,Dự kiến cổ tức,2017-08-03,2017-08-03,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:3,5",,3.5,,2015
-2017-04-29,schedEvent,schedDiv,Dự kiến cổ tức,2017-08-03,2017-08-03,,"Dự kiến trả cổ tức bằng cổ phiếu, tỷ lệ 6.5%",,6.5,,2016
 2017-07-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-08-03,2017-08-04,,"Trả cổ tức năm 2016, Tỷ lệ 100:6.5",,6.5,,2016
 2017-07-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-08-03,2017-08-04,,"Trả cổ tức năm 2015, Tỷ lệ 100:3.5",,3.5,,2015
 2017-07-26,investorRight,POLL,Lấy ý kiến cổ đông,2017-08-03,,,V/v: Thông qua chủ trương chuyển sàn từ HNX sang HOSE,,,,

@@ -21,6 +21,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-06-08,investorRight,MEETING,Họp cổ đông,2018-03-22,2018-06-20,2018-06-20,ĐHĐCĐ thường niên năm 2018,,,,
 2019-02-27,investorRight,MEETING,Họp cổ đông,2019-03-21,2019-04-25,2019-04-25,ĐHĐCĐ thường niên năm 2019,,,,
 2019-04-09,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-04-17,2019-04-23,,LNST chưa pp tại 31/12/2017 và KQKD trên BCTC 2018 âm,,,,
-2019-04-22,stockAlert,control,Kiểm soát (Không hạn chế giao dịch),2019-04-24,,,Được gd toàn thời gian dưới dạng bị kiểm soát,,,,
+2019-04-22,stockAlert,control,Kiểm soát (Không hạn chế GD),2019-04-24,,,LNST 6 tháng đầu năm 2020 âm,,,,
 2019-04-24,stockAlert,noticed,Nhắc nhở,2019-04-24,,,Chậm công bố BCTN năm 2018,,,,
 2020-02-20,investorRight,MEETING,Họp cổ đông,2020-03-13,2020-06-16,2020-06-16,ĐHĐCĐ thường niên năm 2020,,,,

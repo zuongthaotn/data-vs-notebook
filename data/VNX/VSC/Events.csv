@@ -40,7 +40,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-08-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-09-10,2015-09-29,2015-09-29,Tạm ứng cổ tức đợt 1/2015 (1.000đ/cp),1300,13,1,2015
 2016-01-25,investorRight,MEETING,Họp cổ đông,2016-02-16,2016-03-25,2016-03-25,ĐHCĐ thường niên năm 2016,,,,
 2016-03-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 2.2015 (1.000đ/cp),1000,10,2,2015
-2016-03-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức còn lại năm 2015 bằng cổ phiếu tỷ lệ 10%,,10,,2015
+2016-03-28,schedEvent,schedDiv,Dự kiến cổ tức,2016-06-03,2016-06-03,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
 2016-05-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-03,2016-06-21,2016-06-21,Trả cổ tức đợt 2/2015 (1000 đ/cp),1000,10,2,2015
 2016-05-18,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-03,2016-06-06,,"Trả cổ tức năm 2015, Tỷ lệ 100:10",,10,,2015
 2016-07-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-13,,,Số lượng 4141100cp,,,,
@@ -48,7 +48,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-10-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-20,2016-11-11,2016-11-11,Cổ tức đợt 1 năm 2016 (1.000đ/cp),1000,10,1,2016
 2017-03-27,investorRight,MEETING,Họp cổ đông,2017-03-13,2017-03-24,2017-03-24,ĐHĐCĐ thường niên năm 2017,,,,
 2017-04-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức bằng tiền đợt 2/2016 (1000đ/cp),1000,10,2,2016
-2017-11-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức bằng tiền đợt 1/2017 (1000d/cp),1000,10,1,2017
+2017-11-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 1/2017 (1000 đ/cp),1000,10,1,2017
 2017-12-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-12-21,2017-12-29,2017-12-29,Trả cổ tức đợt 2/2016 (1000 đ/cp),1000,10,2,2016
 2017-12-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-12-21,2017-12-29,2017-12-29,Trả cổ tức đợt 1/2017 (1000 đ/cp),1000,10,1,2017
 2017-12-08,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-12-21,2017-12-22,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016

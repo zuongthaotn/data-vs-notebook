@@ -28,9 +28,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-03-10,investorRight,MEETING,Họp cổ đông,2015-03-16,2015-04-27,2015-04-27,ĐHĐCĐ thường niên năm 2015,,,,
 2015-03-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-01-15,,,Số lượng 80.000.000 cp,,,,
 2016-03-03,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-14,2016-04-14,ĐHCĐ thường niên năm 2016,,,,
+2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:10",,10,,2015
 2016-04-15,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu thưởng cho cán bộ,,,,
 2016-04-15,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu để tăng vốn từ nguồn vốn chủ sở hữu tỷ lệ 10:1,,10,,
-2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,Phát hành cổ phiếu để trả cổ tức năm 2015 tỷ lệ 10:1,,10,,2015
 2016-08-03,investorRight,POLL,Lấy ý kiến cổ đông,2016-08-17,,,v/v thông qua điều chỉnh các kế hoạch cân đối nguồn vốn,,,,
 2016-08-29,investorRight,POLL,Lấy ý kiến cổ đông,2016-08-17,2016-09-14,2016-09-14,Về thời điểm trả cổ tức và điều chỉnh phương án phát hành riêng lẻ 120 triệu cổ phiếu,,,,
 2016-09-15,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành riêng lẻ 50 triệu cp để tăng vốn,,,,
@@ -39,9 +39,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-02-01,stockAlert,noticed,Nhắc nhở,2019-01-31,,,Chậm CBTT Nghị quyết HĐQT liên quan đến GD các bên liên quan,,,,
 2019-03-29,investorRight,MEETING,Họp cổ đông,2019-03-22,2019-04-12,2019-04-12,ĐHĐCĐ thường niên năm 2019,,,,
 2019-04-11,stockAlert,noticed,Nhắc nhở,2019-04-11,,,Chậm trả cổ tức,,,,
-2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền đợt 2/2018, tỉ lệ 5%",500,5,2,2018
-2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền đợt 1/2018, tỉ lệ 5%",500,5,1,2018
-2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỉ lệ 20%",,20,,2018
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 1/2018 (500 đ/cp),500,5,1,2018
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:20",,20,,2018
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 2/2018 (500 đ/cp),500,5,2,2018
 2019-06-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-07-12,2019-08-15,2019-08-15,Trả cổ tức đợt 1/2018 (500 đ/cp),500,5,1,2018
 2019-09-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-10-24,2019-11-29,2019-11-29,Trả cổ tức đợt 2/2018 (500 đ/cp),500,5,2,2018
 2020-06-12,investorRight,MEETING,Họp cổ đông,2020-05-26,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,

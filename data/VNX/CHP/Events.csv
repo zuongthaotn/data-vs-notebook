@@ -16,7 +16,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-05-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2015-06-03,2015-06-05,,"Trả cổ tức năm 2014, Tỷ lệ 100:5",,5,,2014
 2015-07-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-07-31,,,Số lượng 5.999.511 cp,,,,
 2016-03-09,investorRight,MEETING,Họp cổ đông,2016-01-28,2016-03-31,2016-03-31,ĐHCĐ thường niên năm 2016,,,,
-2016-04-08,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức 2016, tỷ lệ 14 - 16%",,14,,2016
+2016-04-08,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:14",,14,,2016
 2016-05-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-04-22,2016-05-16,2016-05-16,Cổ tức bằng tiền năm 2015 (1.600đ/cp),1600,16,,2015
 2016-09-20,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2016-09-23,,,Chuyển sang niêm yết trên sàn HOSE,,,,
 2016-09-23,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-09-29,,,Giá tham chiếu 20.600 đ/cp,,,,
@@ -37,4 +37,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-07-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-08-05,2019-08-20,2019-08-20,Trả cổ tức năm 2018 (1500 đ/cp),1500,15,,2018
 2020-03-03,investorRight,MEETING,Họp cổ đông,2020-05-25,2020-06-16,2020-06-16,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-06,2020-07-15,2020-07-15,Trả cổ tức đợt 1/2019 (1000 đ/cp),1000,10,1,2019
-2020-07-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-13,2020-08-14,,"Trả cổ tức đợt 2/2019, Tỷ lệ 100:6",,6,2,2019
+2020-07-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-13,2020-08-14,,"Trả cổ tức năm 2019, Tỷ lệ 100:6",,6,,2019
+2020-08-12,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-08-12,,,LNST trên BCTC soát xét 6 tháng 2020 âm,,,,

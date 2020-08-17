@@ -15,9 +15,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-02-05,investorRight,MEETING,Họp cổ đông,2016-02-24,,,ĐHCĐ thường niên năm 2016,,,,
 2016-03-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-03-14,,,Số lượng 1.000.000 cp,,,,
 2016-03-09,investorRight,MEETING,Họp cổ đông,2016-02-25,2016-03-29,2016-03-29,ĐHCĐ thường niên năm 2016,,,,
-2016-03-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức 5% cho năm 2016,,5,,2016
+2016-03-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2017-06-02,investorRight,MEETING,Họp cổ đông,2017-06-13,2017-06-29,2017-06-29,ĐHCĐ thường niên năm 2017,,,,
-2017-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2017, tỷ lệ 5%",,5,,2017
+2017-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:5",,5,,2017
 2017-09-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-09-14,,,LNST 6T.2019 âm,,,,
 2018-05-11,stockAlert,alert,Cảnh báo,2018-05-14,2019-06-27,,Chậm CBTT BCTC kiểm toán 2017 quá 15 ngày làm việc,,,,
 2018-07-30,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2018-07-31,2018-10-17,,Thuộc diện kiểm soát đặc biệt,,,,
@@ -26,5 +26,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-06-27,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-06-28,2020-01-31,,Đã khắc phục được nguyên nhân bị đưa vào diện tạm ngừng gd,,,,
 2019-08-13,investorRight,MEETING,Họp cổ đông,2019-07-31,2019-08-23,2019-08-23,ĐHĐCĐ thường niên năm 2019,,,,
 2019-09-26,investorRight,MEETING,Họp cổ đông,2019-10-15,2019-10-26,2019-10-26,ĐHĐCĐ bất thường năm 2019,,,,
-2020-01-22,stockAlert,alert,Cảnh báo,2020-02-03,,,Khắc phục được nguyên nhân bị kiểm soát,,,,
+2020-01-22,stockAlert,alert,Cảnh báo,2020-02-03,2020-08-13,,Khắc phục được nguyên nhân bị kiểm soát,,,,
 2020-05-15,investorRight,MEETING,Họp cổ đông,2020-06-05,,,ĐHĐCĐ thường niên năm 2020,,,,

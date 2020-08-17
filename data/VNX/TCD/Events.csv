@@ -12,7 +12,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-07-26,schedEvent,schedIssue,Dự kiến phát hành,2018-08-08,2018-08-08,,"Dự kiến phát hành 352.833 cp ESOP, tỷ lệ 100:1.02",,1.02,,
 2018-09-17,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 3796158 cp,,,,
 2019-02-28,investorRight,MEETING,Họp cổ đông,2019-03-19,,,Họp ĐHĐCĐ thường niên năm 2019,,,,
-2019-07-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng tiền năm 2018, tỷ lệ 5%",500,5,,2018
+2019-07-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2018 (500 đ/cp),500,5,,2018
 2019-07-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:10",,10,,2018
 2019-10-08,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-10-10,2019-10-11,,"Trả cổ tức năm 2018, Tỷ lệ 100:10",,10,,2018
 2019-10-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-10-21,2019-11-22,2019-11-22,Trả cổ tức năm 2018 (500 đ/cp),500,5,,2018
@@ -20,3 +20,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-11-13,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-11-22,,,"Số lượng 4,072,178 cp",,,,
 2020-03-31,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-20,,,"V/v phát hành TP chuyển đổi cho nhà đầu tư; lựa chọn đợn vị kiểm toán; sửa đổi, bổ sung điều lệ",,,,
 2020-05-20,investorRight,MEETING,Họp cổ đông,2020-03-19,2020-06-20,2020-06-20,ĐHĐCĐ thường niên năm 2020,,,,
+2020-08-11,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 339,211cp ESOP",,0.8,,
+2020-08-11,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-25,2020-08-26,,"Trả cổ tức năm 2019, Tỷ lệ 100:11",,11,,2019
+2020-08-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-25,2020-09-10,2020-09-10,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019

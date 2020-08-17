@@ -5,7 +5,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-03-04,investorRight,ISSUE,Phát hành thêm,2016-03-16,2016-05-20,,"Phát hành 30,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:150",,150,,
 2016-03-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-03-16,2016-03-17,,"Trả cổ tức năm 2014, Tỷ lệ 100:8",,8,,2014
 2016-04-29,investorRight,MEETING,Họp cổ đông,2016-05-13,,,Họp ĐHĐCĐ thường niên 2016,,,,
-2016-06-08,schedEvent,schedDiv,Dự kiến cổ tức,2017-03-16,2017-03-16,,Dự kiến chi trả cổ tức 5% cho năm 2016,,5,,2016
+2016-06-08,schedEvent,schedDiv,Dự kiến cổ tức,2017-03-16,2017-03-16,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2016-07-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-27,,,Số lượng 31.599.999cp,,,,
 2017-06-15,stockAlert,noticed,Nhắc nhở,2017-06-09,,,Vi phạm CBTT 3 lần kể từ ngày 01.01.2017,,,,
 2017-06-21,stockAlert,alert,Cảnh báo,2017-06-22,2019-04-04,,Vi phạm CBTT 4 lần kể từ ngày 01.01.2017,,,,

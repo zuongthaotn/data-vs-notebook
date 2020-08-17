@@ -32,8 +32,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-05-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 2.400.204.956 cp,,,,
 2015-06-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-06-23,2015-07-17,2015-07-17,Trả cổ tức năm 2014 (1.000đ/cp),1000,10,,2014
 2016-03-14,investorRight,MEETING,Họp cổ đông,2016-03-22,2016-04-26,2016-04-26,ĐHCĐ thường niên năm 2016,,,,
+2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:7",,7,,2016
 2016-04-28,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành thêm cổ phiếu để thực hiện giao dịch sáp nhập PG Bank vào VietinBank,,,,
-2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 tỷ lệ 7% - 9%,,7,,2016
 2016-12-02,investorRight,POLL,Lấy ý kiến cổ đông,2016-12-14,,,V/v trả cổ tức năm 2015,,,,
 2016-12-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2015 (700 đ/cp),700,7,,2015
 2017-01-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-01-16,2017-02-16,2017-02-16,Trả cổ tức năm 2015 (700 đ/cp),700,7,,2015

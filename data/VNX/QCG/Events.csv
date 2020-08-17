@@ -21,8 +21,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-04-18,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-04-18,2019-02-01,,Chậm CBTT BCTC năm đã kiểm toán quá 5 ngày làm việc,,,,
 2017-05-12,stockAlert,noticed,Nhắc nhở,2017-05-11,,,Vi phạm từ 3 lần trở lên trong vòng 1 năm quy định về CBTT,,,,
 2017-06-12,investorRight,MEETING,Họp cổ đông,2017-06-01,2017-06-29,2017-06-29,ĐHĐCĐ thường niên năm 2017,,,,
+2017-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:25",,25,,2017
 2017-07-03,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu ESOP,,,,
-2017-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 25%",,25,,2017
 2017-07-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-07-18,2017-07-31,2017-07-31,Trả cổ tức đợt 1/2017 (860 đ/cp),860,8.6,1,2017
 2018-12-28,stockAlert,noticed,Nhắc nhở,2018-12-26,,,Vi phạm nghĩa vụ CBTT,,,,
 2019-02-01,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-02-01,2020-04-03,,Diện cảnh báo,,,,

@@ -15,7 +15,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-04-04,stockAlert,alert,Cảnh báo,2016-04-04,2017-04-05,,Chuyển từ trạng thái kiểm soát sang cảnh báo,,,,
 2016-04-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-04-05,2017-04-05,,Chứng khoán thuộc diện cảnh báo,,,,
 2018-03-06,investorRight,MEETING,Họp cổ đông,2018-03-26,2018-04-27,2018-04-27,ĐHĐCĐ thường niên năm 2018,,,,
-2018-08-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Phát hành CP trả cổ tức năm 2017 và tăng vốn điều lệ, tỷ lệ 10:3",,30,,2017
+2018-08-21,schedEvent,schedDiv,Dự kiến cổ tức,2018-10-08,2018-10-08,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:30",,30,,2017
 2018-09-27,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-10-08,2018-10-09,,"Trả cổ tức năm 2017, Tỷ lệ 100:30",,30,,2017
 2018-11-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-11-27,,,"Số lượng 55,895,001 cp",,,,
 2019-03-15,investorRight,MEETING,Họp cổ đông,2019-04-01,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,

@@ -39,8 +39,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-10-13,investorRight,MEETING,Họp cổ đông,2015-10-21,2015-11-16,2015-11-16,ĐHCĐ bất thường năm 2015,,,,
 2016-01-19,investorRight,MEETING,Họp cổ đông,2016-01-27,2016-03-31,2016-03-31,ĐHCĐ thường niên năm 2016,,,,
 2016-01-29,schedEvent,schedIssue,Dự kiến phát hành,2016-03-17,2016-03-17,,Dự kiến phát hành 4513900,,,,
+2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:15",,15,,2016
 2016-04-19,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành 69.700.000 cp để chuyển đổi các khoản vay,,,,
-2016-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2016 tỷ lệ 15%,,15,,2016
 2016-06-17,investorRight,MEETING,Họp cổ đông,2016-06-27,2016-07-20,2016-07-20,ĐHĐCĐ bất thường năm 2016,,,,
 2016-08-08,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2016-08-09,2018-04-19,,BCTC Qúy 2/2016 ghi nhận khoản lỗ lớn,,,,
 2016-08-09,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-08-09,,,Chứng khoán thuộc diện kiểm soát đặc biệt,,,,

@@ -24,7 +24,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-05-10,investorRight,MEETING,Họp cổ đông,2016-05-23,2016-06-19,2016-06-19,ĐHĐCĐ thường niên năm 2016,,,,
 2016-06-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2015 tỷ lệ 100:5,,5,,2015
 2016-10-20,investorRight,POLL,Lấy ý kiến cổ đông,2016-11-01,,,V/v thông qua chủ trương đầu tư dự án Nhà máy Saplastic Long An,,,,
-2017-06-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2016, tỷ lệ 10%",,10,,2016
+2017-06-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2017-06-21,investorRight,MEETING,Họp cổ đông,2017-05-16,2017-06-18,2017-06-18,ĐHĐCĐ thường niên năm 2017,,,,
 2017-06-21,schedEvent,schedIssue,Dự kiến phát hành,2017-08-08,2017-08-08,,"Phát hành 1956069 cổ phiếu, tỷ lệ 15%",,15,,
 2017-07-27,investorRight,KINDDIV,Cổ phiếu thưởng,2017-08-08,2017-08-09,,Tỷ lệ 100:15,,15,,
@@ -46,4 +46,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-05-15,investorRight,ISSUE,Phát hành thêm,2019-05-30,2019-06-26,,"Phát hành cổ phiếu cho CĐHH, tỷ lệ 100:67.2, giá 10.000 đ/cp",,67.2,,
 2020-04-23,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-05-22,,,Hủy niêm yết trên HNX,,,,
 2020-05-22,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-05-29,,,Giá tham chiếu: 400 đ/cp,,,,
-2020-05-27,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-05-29,,,Bị âm vốn CSH căn cứ theo BCTC 2019,,,,
+2020-05-27,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-05-29,,,Không CBTT về họp ĐHĐCĐ thường niên năm 2020,,,,

@@ -21,14 +21,14 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-03-05,investorRight,MEETING,Họp cổ đông,2015-03-10,2015-04-04,2015-04-04,ĐHĐCĐ thường niên năm 2015,,,,
 2015-12-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-12-10,2015-12-22,2015-12-22,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
 2016-02-24,investorRight,MEETING,Họp cổ đông,2016-03-08,2016-04-09,2016-04-09,ĐHCĐ thường niên năm 2016,,,,
-2016-04-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức 2016, tỷ lệ 10% VĐL",,10,,2016
+2016-04-11,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2017-03-01,investorRight,MEETING,Họp cổ đông,2017-03-15,2017-04-15,2017-04-15,ĐHĐCĐ thường niên năm 2017,,,,
 2017-06-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-06-05,,,Vi phạm pháp luật thuế,,,,
 2017-12-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-01-09,2018-01-25,2018-01-25,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
 2018-03-12,investorRight,MEETING,Họp cổ đông,2018-03-30,2018-04-21,2018-04-21,ĐHĐCĐ thường niên năm 2018,,,,
 2019-01-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-01-23,2019-01-31,2019-01-31,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017
 2019-03-01,investorRight,MEETING,Họp cổ đông,2019-03-19,2019-04-20,2019-04-20,ĐHĐCĐ thường niên năm 2019,,,,
-2019-04-22,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng tiền năm 2019, tỉ lệ 15%",1500,15,,2019
+2019-04-22,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2019 (1500 đ/cp),1500,15,,2019
 2019-05-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-21,2019-06-10,2019-06-10,Trả cổ tức năm 2018 (1500 đ/cp),1500,15,,2018
 2019-12-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-27,2020-01-14,2020-01-14,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
 2020-03-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-03-30,2020-04-10,2020-04-10,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019

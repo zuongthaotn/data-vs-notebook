@@ -43,8 +43,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-09-23,investorRight,KINDDIV,Cổ phiếu thưởng,2015-10-05,2015-10-07,,Tỷ lệ 100:6,,6,,
 2015-11-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-11-11,,,Số lượng 1.504.035 cp,,,,
 2016-06-03,investorRight,MEETING,Họp cổ đông,2016-04-05,2016-06-24,2016-06-24,ĐHĐCĐ thường niên năm 2016,,,,
+2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 2015 (500đ/cp),500,5,,2015
-2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 từ 5-10%,,5,,2016
 2016-10-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-27,2016-11-29,2016-11-29,Trả cổ tức năm 2015 (350 đ/cp),350,3.5,,2015
 2017-05-25,investorRight,MEETING,Họp cổ đông,2017-04-27,2017-06-22,2017-06-22,ĐHĐCĐ thường niên năm 2017,,,,
 2017-11-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-10-19,2017-12-28,2017-12-28,Trả cổ tức năm 2016 (300 đ/cp),300,3,,2016
@@ -56,3 +56,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-09-09,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-09-09,2020-04-03,,Chậm CBTT BCTC bán niên 2019 soát xét quá 5 ngày làm việc,,,,
 2020-07-09,stockAlert,delistedHose,Hủy niêm yết trên HOSE,2020-08-10,,,Hủy niêm yết trên HOSE,,,,
 2020-07-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-07-10,,,Chứng khoán niêm yết trong diện bị hủy niêm yết,,,,
+2020-08-12,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-08-18,,,"Giá tham chiếu 1,000 đ/cp",,,,

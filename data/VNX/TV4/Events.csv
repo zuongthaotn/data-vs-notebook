@@ -31,12 +31,12 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-06-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-06-24,2015-07-08,2015-07-08,Trả cổ tức còn lại năm 2014 (500đ/cp),500,5,,2014
 2016-01-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-01-19,2016-01-29,2016-01-29,Trả cổ tức năm 2015 (500đ/cp),500,5,,2015
 2016-03-14,investorRight,MEETING,Họp cổ đông,2016-03-18,2016-04-28,2016-04-28,ĐHCĐ thường niên năm 2016,,,,
-2016-05-05,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả 15% cổ tức cho năm 2016,,15,,2016
+2016-05-05,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:15",,15,,2016
 2016-07-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-07-22,2016-08-05,2016-08-05,Trả cổ tức đợt 2/2015 (300 đ/cp),300,3,2,2015
 2016-10-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-11-16,2016-11-30,2016-11-30,Trả cổ tức năm 2015 (700 đ/cp),700,7,,2015
 2017-02-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-02-27,2017-03-10,2017-03-10,Trả cổ tức năm 2016 (400 đ/cp),400,4,,2016
 2017-04-12,investorRight,MEETING,Họp cổ đông,2017-03-21,2017-04-25,2017-04-25,ĐHĐCĐ thường niên năm 2017,,,,
-2017-08-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức bằng tiền đợt 2/2016, tỷ lệ 3%",300,3,2,2016
+2017-08-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 2/2016 (300 đ/cp),300,3,2,2016
 2017-08-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-15,2017-08-30,2017-08-30,Trả cổ tức đợt 2/2016 (300 đ/cp),300,3,2,2016
 2017-10-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-10-13,2017-10-25,2017-10-25,Trả cổ tức đợt 3/2016 (800đ/cp),800,8,3,2016
 2017-11-30,investorRight,POLL,Lấy ý kiến cổ đông,2017-12-15,,,V/v thông qua phương án phát hành cổ phiếu để tăng vốn,,,,

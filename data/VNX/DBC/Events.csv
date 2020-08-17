@@ -28,8 +28,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-11-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-11-12,2015-12-04,2015-12-04,Trả cổ tức năm 2015 (500 đ/cp),500,5,,2015
 2016-02-18,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-03-04,2016-03-07,,"Trả cổ tức năm 2015, Tỷ lệ 100:20",,20,,2015
 2016-02-24,investorRight,MEETING,Họp cổ đông,2016-03-04,2016-03-27,2016-03-27,ĐHCĐ thường niên năm 2016,,,,
+2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức 2016 (500đ/cp),500,5,,2016
-2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2016 bằng cổ phiếu tỷ lệ 10:1,,10,,2016
 2016-04-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-04-14,,,Số lượng 12548036CP,,,,
 2016-06-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-06-20,2016-07-06,2016-07-06,Trả cổ tức đợt 1/2016 (500 đ/cp),500,5,1,2016
 2017-03-02,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-03-14,2017-03-15,,"Trả cổ tức năm 2016, Tỷ lệ 100:10",,10,,2016
@@ -37,7 +37,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-08-24,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-08-25,2018-04-04,,LNST 6T.2017 và LNST chưa phân phối là số âm,,,,
 2018-03-16,investorRight,MEETING,Họp cổ đông,2018-03-30,2018-04-28,2018-04-28,ĐHĐCĐ thường niên năm 2018,,,,
 2018-03-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-03-30,2018-06-13,2018-06-13,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017
-2018-05-02,schedEvent,schedDiv,Dự kiến cổ tức,2019-04-12,2019-04-12,,"Dự kiến trả cố tức bằng cổ phiếu năm 2018, tỷ lệ 10%",,10,,2018
+2018-05-02,schedEvent,schedDiv,Dự kiến cổ tức,2019-04-12,2019-04-12,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:10",,10,,2018
 2019-03-25,investorRight,MEETING,Họp cổ đông,2019-04-12,2019-04-28,2019-04-28,ĐHĐCĐ thường niên năm 2019,,,,
 2019-03-25,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-04-12,2019-04-16,,"Trả cổ tức năm 2018, Tỷ lệ 100:10",,10,,2018
 2019-05-02,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức đợt 2/2018 bằng cổ phiếu, tỷ lệ 100:5",,5,2,2018

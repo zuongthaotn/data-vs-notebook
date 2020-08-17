@@ -26,12 +26,12 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-11-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-12-01,,,Số lượng 208.457 cp,,,,
 2016-03-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-03-21,2016-04-05,2016-04-05,Cổ tức bằng tiền đợt 2 năm 2015 (1.500đ/cp),1500,15,2,2015
 2016-04-11,investorRight,MEETING,Họp cổ đông,2016-03-24,2016-05-28,2016-05-28,ĐHĐCĐ thường niên năm 2016,,,,
+2016-05-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:30",,30,,2016
 2016-05-31,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành cổ phiếu ưu đãi cho người lao động, tỷ lệ 5%/VĐL",,5,,
-2016-05-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức 2016, tỷ lệ 30%/cổ phần",,30,,2016
 2016-10-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-11-11,2016-11-28,2016-11-28,Cổ tức đợt 1 năm 2016 (1.500đ/cp),1500,15,1,2016
 2017-03-28,investorRight,MEETING,Họp cổ đông,2017-04-13,2017-05-03,2017-05-03,ĐHĐCĐ thường niên năm 2017,,,,
 2017-03-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-04-13,2017-04-25,2017-04-25,Trả cổ tức đợt 2 năm 2016 (500đ/cp),500,5,2,2016
-2017-04-18,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2017 tỷ lệ 10% bằng tiền hoặc bằng cổ phiếu,,10,,2017
+2017-04-18,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:10",,10,,2017
 2017-06-29,investorRight,POLL,Lấy ý kiến cổ đông,2017-07-11,2017-08-07,2017-08-07,V/v bổ sung và sửa đổi Điều lệ Tổng công ty,,,,
 2017-10-04,investorRight,POLL,Lấy ý kiến cổ đông,2017-10-13,,,"V/v: điều chỉnh ngành nghề kinh doanh, sửa đổi nội dung Điều Lệ",,,,
 2017-10-26,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-10-30,2019-01-07,,TCNY nhận được kết luận v/v vi phạm pháp luật thuế,,,,

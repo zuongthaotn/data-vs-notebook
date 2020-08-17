@@ -33,8 +33,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-03-24,stockAlert,noticed,Nhắc nhở,2015-03-24,,,Chậm CBTT thoái vốn tại công ty liên kết,,,,
 2016-03-11,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-14,2016-04-14,ĐHCĐ thường niên năm 2016,,,,
 2016-04-01,stockAlert,alert,Cảnh báo,2014-04-07,2016-04-01,,CP thuộc diện cảnh báo,,,,
-2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 từ 10% đến 15%,,10,,2016
-2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 2015 5%,,5,,2015
+2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
+2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:5",,5,,2015
 2017-01-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-01-19,2017-02-20,2017-02-20,Cổ tức năm 2015 (500đ/cp),500,5,,2015
 2017-05-09,investorRight,MEETING,Họp cổ đông,2017-05-04,2017-05-31,2017-05-31,ĐHĐCĐ thường niên năm 2017,,,,
 2017-11-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 (1000đ/cp),1000,10,,2016

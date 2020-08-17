@@ -6,7 +6,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-03-03,investorRight,MEETING,Họp cổ đông,2016-03-14,2016-04-05,2016-04-05,ĐHCĐ thường niên năm 2016,,,,
 2016-06-02,investorRight,ISSUE,Phát hành thêm,2016-06-10,2016-07-04,,"Phát hành 61,050,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:150",,150,,
 2016-06-03,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-06-10,2016-06-13,,"Trả cổ tức năm 2015, Tỷ lệ 100:8",,8,,2015
-2016-07-19,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-21,2016-10-21,,Dự kiến trả cổ tức bằng cổ phiếu tỷ lệ 8:1,,12.5,,2015
+2016-07-19,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-21,2016-10-21,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:12.5",,12.5,,2015
 2016-07-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-08-03,,,Số lượng 61551006CP,,,,
 2016-07-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-07-14,,,Số lượng 2754754CP,,,,
 2016-10-11,schedEvent,schedIssue,Dự kiến phát hành,2016-10-21,2016-10-21,,Dự kiến phát hành ESOP năm 2016 từ ngày 29/07/2016 đến 08/08/2016,,,,
@@ -23,3 +23,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-08,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-23,,,"V/v: Phát hành cổ phiếu riêng lẻ cho mục đích đầu tư, chọn đơn vị kiểm toán độc lập kiểm toán báo cáo tài chính năm 2020 và các nội dung khác",,,,
 2020-05-22,investorRight,MEETING,Họp cổ đông,2020-03-20,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-23,2020-09-10,2020-09-10,Trả cổ tức năm 2019 (800 đ/cp),800,8,,2019
+2020-08-11,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-28,2020-09-10,2020-09-10,V/v: Thực hiện bảo lãnh phát hành trái phiếu của công ty con,,,,

@@ -10,8 +10,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2014-08-11,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành cổ phiếu cho CĐHH để tăng vốn điều lệ,,,,
 2015-03-13,investorRight,MEETING,Họp cổ đông,2015-03-18,2015-06-04,2015-06-04,ĐHĐCĐ thường niên năm 2015,,,,
 2016-03-08,investorRight,MEETING,Họp cổ đông,2016-03-18,2016-04-19,2016-04-19,ĐHCĐ thường niên năm 2016,,,,
-2016-04-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,"dự kiến cổ tức 2016, tỷ lệ 5%/VĐL",,5,,2016
-2016-04-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,"dự kiến cổ tức bằng cổ phiếu 2015, tỷ lệ 7%",,7,,2015
+2016-04-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
+2016-04-20,schedEvent,schedDiv,Dự kiến cổ tức,2016-10-04,2016-10-04,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:7",,7,,2015
 2016-09-19,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-04,2016-10-05,,"Trả cổ tức năm 2015, Tỷ lệ 100:7",,7,,2015
 2016-11-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-09,,,Số lượng 1644753 cp,,,,
 2017-02-10,investorRight,MEETING,Họp cổ đông,2017-02-23,2017-04-04,2017-04-04,Đại hội đồng cổ đông thường niên năm 2017,,,,

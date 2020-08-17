@@ -12,7 +12,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-07-22,investorRight,POLL,Lấy ý kiến cổ đông,2015-07-29,,,V/v Phát hành cp riêng lẻ để tăng vốn điều lệ,,,,
 2015-12-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-12-16,2016-01-12,2016-01-12,Trả cổ tức năm 2015 (1000 đ/cp),1000,10,,2015
 2016-03-17,investorRight,MEETING,Họp cổ đông,2016-03-28,2016-04-21,2016-04-21,ĐHCĐ thường niên năm 2016,,,,
-2016-03-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức năm 2016 tỷ lệ 10%,,10,,2016
+2016-03-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2016-08-15,stockAlert,noticed,Nhắc nhở,2016-08-10,,,CBTT ký hợp đồng kiểm toán BCTC năm 2016 chưa đúng quy định,,,,
 2016-12-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-01-03,2017-01-17,2017-01-17,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
 2017-03-15,investorRight,MEETING,Họp cổ đông,2017-03-24,2017-04-26,2017-04-26,ĐHĐCĐ thường niên năm 2017,,,,

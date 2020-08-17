@@ -29,7 +29,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-11-19,investorRight,POLL,Lấy ý kiến cổ đông,2018-12-05,,,"V/v thay đổi trụ sở chính của công ty 
 ",,,,
 2019-04-03,investorRight,MEETING,Họp cổ đông,2019-04-23,,,ĐHĐCĐ thường niên 2019,,,,
-2019-06-10,schedEvent,schedDiv,Dự kiến cổ tức,2019-08-09,2019-08-09,,"Dự kiến trả cổ tức bằng cổ phiếu 2018, tỷ lệ 40%",,40,,2018
+2019-06-10,schedEvent,schedDiv,Dự kiến cổ tức,2019-08-09,2019-08-09,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:40",,40,,2018
 2019-08-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-08-09,2019-08-12,,"Trả cổ tức năm 2018, Tỷ lệ 100:40",,40,,2018
 2019-09-30,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-08-09,2019-11-25,2019-11-25,Thay đổi ngày trả cổ tức năm 2018 từ ngày 01/10/2019 sang ngày 25/11/2019,2000,20,,2018
 2019-10-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-18,,,Số lượng 10846295 cp,,,,

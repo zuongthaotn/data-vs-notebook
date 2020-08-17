@@ -36,7 +36,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-04-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-11,2016-05-27,2016-05-27,Trả cổ tức năm 2016 (2000 đ/cp),2000,20,,2016
 2016-04-28,investorRight,KINDDIV,Cổ phiếu thưởng,2016-05-11,2016-05-12,,Tỷ lệ 100:24.99,,24.99,,
 2016-05-05,investorRight,MEETING,Họp cổ đông,2016-05-11,2016-06-18,2016-06-18,họp ĐHCĐ bất thường năm 2016,,,,
-2016-07-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến phát hành cp trả cổ tức từ 8-15% cho năm 2016,,8,,2016
+2016-07-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:8",,8,,2016
 2016-09-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-10-03,2016-10-21,2016-10-21,Trả cổ tức đợt 2/2016 (2000 đ/cp),2000,20,2,2016
 2016-09-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2016-10-03,2016-10-04,,"Trả cổ tức năm 2015, Tỷ lệ 100:13.21",,13.21,,2015
 2016-11-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-11-25,,,Số lượng 7.000.749 cp,,,,
@@ -46,7 +46,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-08-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-16,,,Số lượng 20000000CP,,,,
 2018-01-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-02-12,2018-03-09,2018-03-09,Trả cổ tức đợt 2/2017 (2000 đ/cp),2000,20,2,2017
 2018-02-28,investorRight,MEETING,Họp cổ đông,2018-02-12,2018-03-15,2018-03-15,ĐHĐCĐ thường niên năm 2018,,,,
-2018-03-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến phát hành 80.000.000 cp, tỷ lệ 1:1 để trả cổ tức năm 2017",,100,,2017
+2018-03-21,schedEvent,schedDiv,Dự kiến cổ tức,2018-04-04,2018-04-04,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:100",,100,,2017
 2018-03-23,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-04-04,2018-04-05,,"Trả cổ tức năm 2017, Tỷ lệ 100:100",,100,,2017
 2018-07-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-07-12,2018-07-24,2018-07-24,Trả cổ tức đợt 1/2018 (1000 đ/cp),1000,10,1,2018
 2018-11-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-12-06,2018-12-17,2018-12-17,Trả cổ tức đợt 2/2018 (1000 đ/cp),1000,10,2,2018

@@ -12,7 +12,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2014-05-23,investorRight,MEETING,Họp cổ đông,2014-06-02,2014-07-07,2014-07-07,Đại hội đồng cổ đông thường niên năm 2014,,,,
 2014-06-30,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2014-06-30,,,Vì thuộc diện bị cảnh báo,,,,
 2015-06-11,investorRight,MEETING,Họp cổ đông,2015-06-19,2015-07-14,2015-07-14,ĐHĐCĐ thường niên năm 2015,,,,
-2016-07-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Trả cổ tức năm 2016 tỷ lệ 10%,,10,,2016
+2016-07-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2016-07-01,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-08-11,2016-08-31,2016-08-31,Trả cổ tức năm 2015 (800 đ/cp),800,8,,2015
 2017-05-15,investorRight,MEETING,Họp cổ đông,2016-06-02,2017-06-26,2017-06-26,ĐHĐCĐ thường niên năm 2017,,,,
 2017-05-17,investorRight,MEETING,Họp cổ đông,2017-06-01,2017-06-26,2017-06-26,ĐHĐCĐ thường niên năm 2017,,,,

@@ -21,7 +21,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-03-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-03-23,2016-05-31,2016-05-31,Cổ tức bằng tiền đợt 2 năm 2015 (473đ/cp),473,4.73,2,2015
 2016-04-26,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành tối đa 903.921 cp theo chính sách ESG của công ty,,,,
 2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức năm 2016 (500đ/cp),500,5,,2016
-2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-28,2017-06-28,,chi trả cổ tức bằng cổ phiếu năm 2016 tỉ lệ 10%,,10,,2016
+2016-04-26,schedEvent,schedDiv,Dự kiến cổ tức,2017-06-28,2017-06-28,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:10",,10,,2016
 2016-08-18,schedEvent,schedIssue,Dự kiến phát hành,2016-08-12,2016-08-12,,"Dự kiến phát hành cổ phiếu ESOP, tỷ lệ 0.38%",,0.38,,
 2016-08-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-08-31,,,Số lượng 542353CP,,,,
 2016-11-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-12-08,2016-12-20,2016-12-20,Trả cổ tức đợt 1/2016 (249 đ/cp),249,2.49,1,2016
@@ -53,7 +53,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-02-25,investorRight,MEETING,Họp cổ đông,2019-03-14,2019-04-20,2019-04-20,ĐHĐCĐ thường niên năm 2019,,,,
 2019-05-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-10,2019-06-25,2019-06-25,Trả cổ tức đợt 2/2018 (292 đ/cp),292,2.92,2,2018
 2019-07-19,stockAlert,noticed,Nhắc nhở,2019-07-19,,,Giao dịch cổ phiếu quỹ không đúng quy định,,,,
-2019-08-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 8.23%",,8.23,,2018
+2019-08-12,schedEvent,schedDiv,Dự kiến cổ tức,2019-09-04,2019-09-04,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:8.23",,8.23,,2018
 2019-08-27,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2019-09-04,2019-09-05,,"Trả cổ tức năm 2018, Tỷ lệ 100:8.23",,8.23,,2018
 2019-09-06,schedEvent,schedIssue,Dự kiến phát hành,2019-09-24,2019-09-24,,"Dự kiến phát hành 1.709.964 cp ESOP, tỷ lệ 100:0.75",,0.75,,
 2019-10-02,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-10-15,,,"Số lượng 18,855,693 cp",,,,

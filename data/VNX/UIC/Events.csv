@@ -20,7 +20,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-07-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-07-10,2015-07-27,2015-07-27,Trả cổ tức năm 2014 (1.500đ/cp),1500,15,,2014
 2016-02-26,investorRight,MEETING,Họp cổ đông,2016-03-15,2016-04-25,2016-04-25,ĐHCĐ thường niên năm 2016,,,,
 2016-03-29,stockAlert,noticed,Nhắc nhở,2016-03-28,,,Nhắc nhở do chậm CBTT,,,,
-2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 tỷ lệ 15%,,15,,2016
+2016-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:15",,15,,2016
 2016-04-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-24,2016-06-24,2016-06-24,Trả cổ tức năm 2015 (1500 đ/cp),1500,15,,2015
 2017-01-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-02-15,2017-03-06,2017-03-06,Trả cổ tức năm 2016 (1500 đ/cp),1500,15,,2016
 2017-03-10,investorRight,MEETING,Họp cổ đông,2017-03-24,2017-04-25,2017-04-25,ĐHCĐ thường niên năm 2017,,,,

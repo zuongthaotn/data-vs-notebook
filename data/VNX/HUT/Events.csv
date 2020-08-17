@@ -30,9 +30,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-11-19,investorRight,MEETING,Họp cổ đông,2015-11-25,,,ĐHCĐ bất thường năm 2015,,,,
 2016-02-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-02-24,2016-03-16,2016-03-16,Trả cổ tức năm 2015 (700 đ/cp),700,7,,2015
 2016-02-16,investorRight,ISSUE,Phát hành thêm,2016-02-24,2016-05-10,,"Phát hành 89,883,313 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:70",,70,,
-2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến cổ tức còn lại 2015, tỷ lệ 5%/VĐL",,5,,2015
+2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:5",,5,,2015
 2016-06-27,investorRight,MEETING,Họp cổ đông,2016-05-11,2016-06-24,2016-06-24,ĐHĐCĐ thường niên năm 2016,,,,
-2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,2017-05-23,2017-05-23,,Dự kiến cổ tức 2016 tối thiểu 12%,,12,,2016
+2016-06-27,schedEvent,schedDiv,Dự kiến cổ tức,2017-05-23,2017-05-23,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:12",,12,,2016
 2016-06-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2016-07-04,,,Giao dịch bổ sung 40.012.683cp,,,,
 2016-07-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-07-27,2016-08-10,2016-08-10,Trả cổ tức đợt 2/2015 (500 đ/cp),500,5,2,2015
 2016-10-14,schedEvent,schedIssue,Dự kiến phát hành,2016-10-14,2016-10-14,,Dự kiến chuyển đổi trái phiếu thành cổ phiếu HUT-CB2015 (Lần thứ nhất),,,,

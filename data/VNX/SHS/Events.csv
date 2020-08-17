@@ -17,8 +17,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-09-15,investorRight,POLL,Lấy ý kiến cổ đông,2017-09-27,,,Nội dung lấy ý kiến: Xin ý kiến cổ đông bằng văn bản thông qua phương án thay đổi địa điểm đặt Trụ sở chính Công ty,,,,
 2018-02-23,investorRight,MEETING,Họp cổ đông,2018-03-07,,,ĐHCĐ thường niên năm 2018,,,,
 2018-03-30,schedEvent,schedIssue,Dự kiến phát hành,2018-05-18,2018-05-18,,Phát hành riêng lẻ để hoán đổi cổ phần sáp nhập công ty CK SHB,,,,
-2018-04-24,schedEvent,schedDiv,Dự kiến cổ tức,2019-01-14,2019-01-14,,"Phát hành cp để trả cổ tức 2017, tỷ lệ 25% 
-",,25,,2017
+2018-04-24,schedEvent,schedDiv,Dự kiến cổ tức,2019-01-14,2019-01-14,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:25",,25,,2017
 2018-04-24,schedEvent,schedIssue,Dự kiến phát hành,2019-01-14,2019-01-14,,"Phát hành cỏ phiếu cho cổ đông hiện hữu, tỷ lệ 3:2 
 
 ",,150,,

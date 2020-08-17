@@ -25,8 +25,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-10-09,investorRight,POLL,Lấy ý kiến cổ đông,2015-10-16,,,v/v thông qua việc miễn nhiệm và bầu bổ sung thành viên BKS nhiệm kỳ 2013-2017,,,,
 2016-03-08,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-08,2016-04-08,ĐHCĐ thường niên năm 2016,,,,
 2016-03-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-03-17,2016-03-30,2016-03-30,Cổ tức bằng tiền đợt 1 năm 2015 (1.000đ/cp),1000,10,1,2015
+2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:15",,15,,2016
 2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 2 bằng tiền mặt 2015 (500đ/cp),500,5,2,2015
-2016-04-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức 2016 tỷ lệ 15%,,15,,2016
 2016-07-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-07-19,2016-08-15,2016-08-15,Cổ tức đợt 2/2015 (500đ/cp),500,5,2,2015
 2016-11-18,investorRight,POLL,Lấy ý kiến cổ đông,2016-12-02,,,V/v bổ sung ngành nghề kinh doanh vận tải,,,,
 2017-02-15,investorRight,MEETING,Họp cổ đông,2017-03-14,,,ĐHĐCĐ thường niên năm 2017,,,,

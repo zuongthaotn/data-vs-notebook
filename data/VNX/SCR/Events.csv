@@ -23,13 +23,13 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-09-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-09-21,,,Số lượng 9.382.222 cp,,,,
 2015-12-02,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-12-07,,,Số lượng 20.000.867 cp,,,,
 2016-03-17,investorRight,MEETING,Họp cổ đông,2016-03-28,2016-04-29,2016-04-29,ĐHCĐ thường niên năm 2016,,,,
-2016-05-05,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức 5% vốn điều lệ cho năm 2016,,5,,2016
+2016-05-05,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2016-11-07,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2016-11-11,,,Chuyển đăng ký niêm yết sang Sở GDCK TPHCM,,,,
 2016-11-10,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-11-18,,,Giá tham chiếu 9.140 đ/cp,,,,
 2016-12-06,investorRight,KINDDIV,Cổ phiếu thưởng,2016-12-16,2016-12-19,,Tỷ lệ 100:5,,5,,
 2017-02-08,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-02-15,,,Số lượng 10851486 cp,,,,
 2017-04-17,investorRight,MEETING,Họp cổ đông,2017-04-14,2017-04-24,2017-04-24,ĐHĐCĐ thường niên năm 2017,,,,
-2017-08-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu năm 2016,,7,,2016
+2017-08-31,schedEvent,schedDiv,Dự kiến cổ tức,2017-10-20,2017-10-20,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:7",,7,,2016
 2017-10-06,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-10-20,2017-10-23,,"Trả cổ tức năm 2017, Tỷ lệ 100:7",,7,,2017
 2017-11-03,investorRight,MEETING,Họp cổ đông,2017-11-21,2017-12-18,2017-12-18,ĐHĐCĐ bất thường năm 2017,,,,
 2017-11-15,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 15951804 cp,,,,

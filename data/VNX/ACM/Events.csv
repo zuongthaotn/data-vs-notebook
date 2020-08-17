@@ -3,8 +3,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-07-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-07-23,,,Thời gian niêm yết dưới 6 tháng,,,,
 2015-11-24,investorRight,MEETING,Họp cổ đông,2015-12-01,,,ĐHCĐ bất thường năm 2015,,,,
 2016-01-25,investorRight,MEETING,Họp cổ đông,2016-02-03,,,ĐHCĐ thường niên năm 2016,,,,
-2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến dự kiến trả cổ tức bằng tiền mặt năm 2015 tỷ lệ 5%,500,5,,2015
-2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến dự kiến trả cổ tức năm 2016 tỷ lệ 7% vốn điều lệ,,7,,2016
+2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:7",,7,,2016
+2016-03-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2015 (500 đ/cp),500,5,,2015
 2016-06-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức đợt 2 năm 2015 (250đ/cp),250,2.5,2,2015
 2016-12-15,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2016-06-17,2017-05-18,2017-05-18,Thay đổi ngày trả cổ tức từ ngày 16/12/2016 sang ngày 18/05/2017,250,2.5,1,2015
 2017-05-17,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2016-06-17,2017-11-30,2017-11-30,Thay đổi ngày trả cổ tức đợt 1/2015 từ ngày 18/5/2017 sang ngày 30/11/2017,250,2.5,1,2015

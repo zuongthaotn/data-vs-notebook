@@ -5,7 +5,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-06-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-07-01,2015-07-22,2015-07-22,Trả cổ tức năm 2014 (700đ/cp),700,7,,2014
 2015-12-03,investorRight,POLL,Lấy ý kiến cổ đông,2015-12-10,2016-01-06,2016-01-06,V/v Thông qua phương án niêm yết cổ phiếu trên sàn giao dịch chứng khoán,,,,
 2016-03-30,investorRight,MEETING,Họp cổ đông,2016-04-07,2016-04-28,2016-04-28,ĐHĐCĐ thường niên năm 2016,,,,
-2016-04-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,chi trả cổ tức năm 2016 tỉ lệ 8%,,8,,2016
+2016-04-29,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:8",,8,,2016
 2016-07-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-07-18,2016-07-29,2016-07-29,Trả cổ tức năm 2015 (800 đ/cp),800,8,,2015
 2017-03-29,investorRight,MEETING,Họp cổ đông,2017-04-07,2017-04-29,2017-04-29,ĐHCĐ thường niên năm 2017,,,,
 2017-07-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-07-14,2017-07-28,2017-07-28,Trả cổ tức năm 2016 (700đ/cp),700,7,,2016

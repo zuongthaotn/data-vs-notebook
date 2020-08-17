@@ -2,10 +2,10 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-12-16,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2015-12-22,2018-02-27,,Giá tham chiếu 11.500đ/cp,,,,
 2015-12-18,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2015-12-22,2016-06-30,,Vì thời gian niêm yết dưới 6 tháng,,,,
 2016-02-29,investorRight,MEETING,Họp cổ đông,2016-03-09,2016-04-12,2016-04-12,Đại hội đồng cổ đông thường niên năm 2016,,,,
-2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,dự kiến chi trả cổ tức 30% cho năm 2016,,30,,2016
+2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:30",,30,,2016
 2016-07-05,investorRight,POLL,Lấy ý kiến cổ đông,2016-07-14,,,Lấy ý kiến việc bầu bổ sung thanh viên HĐQT,,,,
 2017-02-24,investorRight,MEETING,Họp cổ đông,2017-03-07,2017-04-07,2017-04-07,ĐHCĐ thường niên năm 2017,,,,
-2017-05-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2016 bằng cổ phiếu, tỷ lệ 10:2",,20,,2016
+2017-05-23,schedEvent,schedDiv,Dự kiến cổ tức,2017-07-11,2017-07-11,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:20",,20,,2016
 2017-06-30,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-07-11,2017-07-12,,"Trả cổ tức năm 2016, Tỷ lệ 100:20",,20,,2016
 2017-09-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-09-08,,,Số lượng 2999998 cp,,,,
 2018-02-28,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2018-03-09,,,Giá tham chiếu 7.950 đ/cp,,,,

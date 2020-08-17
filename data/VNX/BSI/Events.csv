@@ -15,7 +15,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-03-14,investorRight,MEETING,Họp cổ đông,2017-03-24,2017-04-27,2017-04-27,ĐHCĐ thường niên năm 2017,,,,
 2017-04-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,Chia cổ tức năm 2016 (750đ/cp),750,7.5,,2016
 2017-04-27,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành cổ phiếu riêng lẻ, tối thiểu 7017636, tối đa 27017636",,,,
-2017-04-28,schedEvent,schedDiv,Dự kiến cổ tức,2017-11-02,2017-11-02,,Trả cổ tức năm 2017 tỷ lệ 6%,,6,,2017
+2017-04-28,schedEvent,schedDiv,Dự kiến cổ tức,2017-11-02,2017-11-02,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:6",,6,,2017
 2017-06-12,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-06-27,2017-06-28,,"Trả cổ tức năm 2016, Tỷ lệ 100:3.07",,3.07,,2016
 2017-08-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 2769377 cp,,,,
 2017-10-05,investorRight,POLL,Lấy ý kiến cổ đông,2017-09-14,2017-10-05,2017-10-05,Nội dung lấy ý kiến: Thông qua các vấn đề thuộc thẩm quyền của ĐHCĐ,,,,

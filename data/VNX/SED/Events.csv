@@ -18,9 +18,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-07-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-07-31,,,Số lượng 2.000.000 cp,,,,
 2015-12-16,investorRight,MEETING,Họp cổ đông,2015-12-29,,,ĐHCĐ thường niên năm 2016,,,,
 2015-12-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2015-12-29,2016-01-25,2016-01-25,Trả cổ tức năm 2015 (1600 đ/cp),1600,16,,2015
-2016-03-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến chi trả cổ tức năm 2016 tỷ lệ 16%,,16,,2016
+2016-03-31,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:16",,16,,2016
 2016-12-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-12-29,2017-01-18,2017-01-18,Cổ tức năm 2016 (1.600đ/cp),1600,16,,2016
-2017-05-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến chi trả cổ tức năm 2017, tỷ lệ 18%",,18,,2017
+2017-05-26,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:18",,18,,2017
 2017-05-29,investorRight,MEETING,Họp cổ đông,2017-03-28,2017-05-26,2017-05-26,ĐHĐCĐ thường niên năm 2017,,,,
 2017-07-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-07-11,2018-01-05,,TCNY nhận được kết luận v/v công ty vi phạm pháp luật thuế,,,,
 2017-12-14,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-01-04,2018-02-05,2018-02-05,Trả cổ tức năm 2017 (1800 đ/cp),1800,18,,2017

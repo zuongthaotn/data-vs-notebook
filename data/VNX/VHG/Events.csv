@@ -27,7 +27,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2015-08-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2015-09-03,,,Số lượng 75.000.000 cp,,,,
 2015-10-29,stockAlert,noticed,Nhắc nhở,2015-10-29,,,Vv vi phạm giao dịch cổ phiếu quỹ,,,,
 2016-01-08,investorRight,MEETING,Họp cổ đông,2016-01-19,,,Đại hội đồng  cổ đông thường niên năm 2016,,,,
-2016-04-22,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến cổ tức 2016 5% vốn điều lệ,,5,,2016
+2016-04-22,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2017-04-05,stockAlert,noticed,Nhắc nhở,2017-04-04,,,Giao dịch cổ phiếu quỹ không đúng quy định,,,,
 2017-04-14,stockAlert,alert,Cảnh báo,2017-04-21,,,LNST năm 2016 âm,,,,
 2017-07-19,investorRight,MEETING,Họp cổ đông,2017-04-20,2017-07-19,2017-07-19,ĐHĐCĐ thường niên năm 2017,,,,

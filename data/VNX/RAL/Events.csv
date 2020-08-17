@@ -39,7 +39,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-10-17,stockAlert,noticed,Nhắc nhở,2016-10-17,,,Chậm CBTT ký hợp đồng kiểm toán và soát xét BCTC năm 2016,,,,
 2017-03-17,schedEvent,schedDiv,Dự kiến cổ tức,2017-04-27,2017-04-27,,Tạm ứng cổ tức đợt 2 năm 2016 (2000đ/cp),2000,20,2,2016
 2017-03-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-04-04,2017-04-27,2017-04-27,Trả cổ tức đợt 2/2016 (2000 đ/cp),2000,20,2,2016
-2017-05-06,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức năm 2017, tỷ lệ 50%/VĐL",5000,50,,2017
+2017-05-06,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng tiền năm 2017 (5000 đ/cp),5000,50,,2017
 2017-05-09,investorRight,MEETING,Họp cổ đông,2017-04-04,2017-05-06,2017-05-06,ĐHĐCĐ thường niên năm 2017,,,,
 2017-08-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-24,2017-09-06,2017-09-06,Trả cổ tức đợt 1/2017 (2000 đ/cp),2000,20,1,2017
 2017-08-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-08-24,2017-09-06,2017-09-06,Trả cổ tức đợt 3/2016 (500đ/1cp),500,5,3,2016
