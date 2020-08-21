@@ -29,8 +29,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-08-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-09-19,,,"Số lượng 1,710,734 cp",,,,
 2019-08-24,investorRight,MEETING,Họp cổ đông,2019-09-12,2019-09-29,2019-09-29,ĐHĐCĐ thường niên năm 2019,,,,
 2020-04-08,schedEvent,schedDiv,Dự kiến cổ tức,2020-05-23,2020-05-23,,Dự kiến trả cổ tức năm 2018 (150 đ/cp),150,1.5,,2018
+2020-04-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-05-07,2020-10-22,2020-10-22,Trả cổ tức năm 2018 (150 đ/cp),150,1.5,,2018
 2020-05-26,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-05-07,2020-06-16,2020-06-16,Thay đổi thời gian trả cổ tức năm 2018(150đ/1cp) từ 26/05/2020 sang 16/06/2020,150,1.5,,2018
 2020-06-10,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-05-07,2020-08-17,2020-08-17,Thay đổi thời gian trả cổ tức năm 2018(150đ/1cp) từ 16/6/2020 đến 17/8/2020,150,1.5,,2019
-2020-06-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-05-07,2020-08-17,2020-08-17,Trả cổ tức năm 2018 (150 đ/cp),150,1.5,,2018
 2020-06-12,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-05-07,2020-08-17,2020-08-17,Thay đổi ngày trả cổ tức năm 2018 từ ngày 26/05/2020 sang ngày 17/08/2020,150,1.5,,2018
 2020-07-20,stockAlert,noticed,Nhắc nhở,2020-07-17,,,Không công bố thông tin giao dịch cổ phiếu quỹ,,,,
+2020-08-14,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-05-07,2020-10-22,2020-10-22,Thay đổi ngày thanh toán cổ tức năm 2018 từ 17/8/2020 sang 22/10/2020,150,1.5,,2018

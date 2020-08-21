@@ -70,9 +70,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-08-01,schedEvent,schedIssue,Dự kiến phát hành,2019-08-19,2019-08-19,,Dự kiến phát hành 919199 cp cho ESOP để thưởng cho cán bộ công nhân viên,,3.98,,
 2019-09-25,investorRight,MEETING,Họp cổ đông,2019-10-14,2019-11-12,2019-11-12,ĐHĐCĐ bất thường năm 2019,,,,
 2019-10-03,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-10-03,2020-04-03,,BCTC HN 6T.2017 có ý kiến ngoại trừ của TCKT,,,,
-2019-10-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-08-19,,,Số lượng 306270 cp,,,,
-2019-10-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-08-19,,,Số lượng 306376 cp,,,,
-2019-10-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2022-08-05,,,Số lượng 306553 cp,,,,
+2019-10-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-08-20,,,"Số lượng 306,270 cp",,,,
+2019-10-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-08-20,,,"Số lượng 306,376 cp",,,,
+2019-10-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2022-08-22,,,"Số lượng 306,553 cp",,,,
 2020-04-03,investorRight,ISSUE,Phát hành thêm,2020-04-14,2020-05-15,,"Phát hành 12,000,000 cp cho CĐHH, giá 15000 đ/cp, tỷ lệ 100:50",,50,,
 2020-05-27,investorRight,MEETING,Họp cổ đông,2020-03-24,2020-06-11,2020-06-11,ĐHĐCĐ thường niên năm 2020,,,,
 2020-08-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-18,2020-08-31,2020-08-31,Trả cổ tức năm 2019 (1500 đ/cp),1500,15,,2019

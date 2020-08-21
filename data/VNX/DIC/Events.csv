@@ -57,3 +57,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-09,stockAlert,delistedHose,Hủy niêm yết trên HOSE,2020-08-10,,,Hủy niêm yết trên HOSE,,,,
 2020-07-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-07-10,,,Chứng khoán niêm yết trong diện bị hủy niêm yết,,,,
 2020-08-12,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-08-18,,,"Giá tham chiếu 1,000 đ/cp",,,,
+2020-08-17,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-08-18,,,Chứng khoán bị hủy bỏ niêm yết và chưa khắc phục được,,,,
+2020-08-20,investorRight,MEETING,Họp cổ đông,2020-09-04,2020-09-25,2020-09-25,ĐHĐCĐ thường niên năm 2020,,,,
