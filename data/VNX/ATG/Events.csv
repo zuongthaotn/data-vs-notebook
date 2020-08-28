@@ -13,5 +13,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-08-01,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-01,,,Chứng khoán thuộc diện cảnh cáo,,,,
 2019-08-27,stockAlert,noticed,Nhắc nhở,2019-08-27,,,Chậm CBTT tổ chức ĐHĐCĐ thường niên năm 2019,,,,
 2019-12-11,stockAlert,noticed,Nhắc nhở,2019-12-11,,,Chậm công bố Biên bản ĐHĐCĐ thường niên năm 2019,,,,
-2019-12-18,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2019-12-25,,,Tiếp tục vi phạm các quy định về CBTT sau khi bị cảnh báo,,,,
+2019-12-18,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-12-25,,,LNST chưa phân phối tính đến ngày 30/06/2020 âm,,,,
 2020-02-14,investorRight,MEETING,Họp cổ đông,2019-11-07,2020-02-26,2020-02-26,ĐHĐCĐ thường niên năm 2019,,,,

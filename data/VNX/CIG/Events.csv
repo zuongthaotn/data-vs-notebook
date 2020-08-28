@@ -22,5 +22,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-10-06,stockAlert,noticed,Nhắc nhở,2017-10-05,,,Chậm CBTT giải trình ý kiến ngoại trừ BCTC bán niên 2017,,,,
 2018-04-27,stockAlert,noticed,Nhắc nhở,2018-04-27,,,Chậm nộp BCTN năm 2017,,,,
 2019-04-19,investorRight,MEETING,Họp cổ đông,2019-03-14,2019-05-16,2019-05-16,ĐHĐCĐ thường niên năm 2019,,,,
-2019-05-03,stockAlert,alert,Cảnh báo,2019-05-09,,,Chậm nộp BCTC kiểm toán năm 2018 quá 15 ngày làm việc,,,,
+2019-05-03,stockAlert,alert,Cảnh báo,2019-05-09,2020-08-24,,Chậm nộp BCTC kiểm toán năm 2018 quá 15 ngày làm việc,,,,
 2020-02-05,investorRight,MEETING,Họp cổ đông,2020-02-28,2020-04-09,2020-04-09,ĐHĐCĐ thường niên năm 2020,,,,

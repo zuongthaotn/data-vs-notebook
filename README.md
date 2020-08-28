@@ -15,6 +15,7 @@ done
 npm run download -- --exchange=$EXCHANGE --type=BalanceSheet,IncomeStatement,DCashFlow,ICashFlow,Indicators --update=1
 npm run download -- --exchange=$EXCHANGE --type=BalanceSheetQuarter,IncomeStatementQuarter,DCashFlowQuarter,ICashFlowQuarter,IndicatorsQuarter --update=1
 
+# SSL: NODE_TLS_REJECT_UNAUTHORIZED=0
 # Prices
 npm run download -- --exchange=VNX --type=Price,Events,Report
 npm run download -- --exchange=VN30F --type=Prices

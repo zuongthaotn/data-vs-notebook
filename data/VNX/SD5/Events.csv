@@ -44,8 +44,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-01-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-01-10,2019-01-31,2019-01-31,Trả cổ tức đợt 1/2017 (500 đ/cp),500,5,1,2017
 2019-01-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-01-10,2019-03-29,2019-03-29,Trả cổ tức đợt 2/2017 (500 đ/cp),500,5,2,2017
 2019-03-12,investorRight,MEETING,Họp cổ đông,2019-03-29,2019-04-20,2019-04-20,ĐHĐCĐ thường niên năm 2019,,,,
-2020-04-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-04-06,2020-09-30,2020-09-30,Trả cổ tức đợt 2/2018 (400 đ/cp),400,4,2,2018
 2020-04-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-04-06,2020-06-22,2020-06-22,Trả cổ tức đợt 1/2018 (400 đ/cp),400,4,1,2018
 2020-04-21,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2020-04-06,2020-09-30,2020-09-30,Thay đổi ngày chi trả cổ tức đợt 2 năm 2018 từ ngày 30/6/2020 sang ngày 30/9/2020,400,4,2,2018
 2020-04-21,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2020-04-06,2020-06-22,2020-06-22,Thay đổi ngày chi trả cổ tức đợt 1 năm 2018 từ ngày 22/4/2020 sang ngày 22/6/2020,400,4,1,2018
 2020-05-21,investorRight,MEETING,Họp cổ đông,2020-06-01,2020-06-22,2020-06-22,ĐHĐCĐ thường niên năm 2020,,,,
+2020-08-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-04-06,2020-08-31,2020-08-31,Trả cổ tức đợt 2/2018 (400 đ/cp),400,4,2,2018
