@@ -48,7 +48,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-09-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-02-26,,,"Số lượng 1,497,573 cp",,,,
 2017-02-08,investorRight,MEETING,Họp cổ đông,2017-02-21,2017-03-10,2017-03-10,ĐHĐCĐ thường niên năm 2017,,,,
 2017-02-17,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2017 (3000đ/cp),3000,30,,2017
-2017-02-17,schedEvent,schedIssue,Dự kiến phát hành,2017-06-16,2017-06-16,,"Dự kiến phát hành 252.829.223 cp cho CĐHH, tỷ lệ 10:2",,20,,
+2017-02-17,schedEvent,schedIssue,Dự kiến phát hành,2017-06-16,2017-06-16,,"Dự kiến phát hành 252.829.223 cp cho CĐHH, tỷ lệ 100:20",,20,,
 2017-03-13,schedEvent,schedDiv,Dự kiến cổ tức,2017-03-30,2017-03-30,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:50",,50,,2016
 2017-03-20,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-03-30,2017-03-31,,"Trả cổ tức năm 2016, Tỷ lệ 100:50",,50,,2016
 2017-04-19,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-04-27,,,Số lượng 415639681 cp,,,,

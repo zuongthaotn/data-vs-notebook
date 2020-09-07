@@ -44,5 +44,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-04-03,stockAlert,alert,Cảnh báo,2019-04-09,,,LNST 2018 và LNST chưa pp tại 31/12/2018 âm,,,,
 2019-10-23,investorRight,MEETING,Họp cổ đông,2019-11-01,2019-11-18,2019-11-18,ĐHĐCĐ bất thường năm 2019,,,,
 2020-04-17,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-04-24,2020-04-27,,LNST 2018 trên BCTC 2018 và LNST 2019 trên BCTC 2019 âm,,,,
-2020-04-24,stockAlert,control,Kiểm soát (Không hạn chế giao dịch),2020-04-28,,,Được GD toàn thời gian dưới dạng CK bị kiểm soát,,,,
+2020-04-24,stockAlert,control,Kiểm soát (Không hạn chế GD),2020-04-28,,,LNST chưa phân phối đến ngày 30/06/2020 âm,,,,
 2020-05-29,investorRight,MEETING,Họp cổ đông,2020-06-05,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,

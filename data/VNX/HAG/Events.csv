@@ -40,7 +40,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-05-12,investorRight,MEETING,Họp cổ đông,2017-05-25,2017-06-30,2017-06-30,ĐHĐCĐ thường niên năm 2017,,,,
 2017-06-06,schedEvent,schedIssue,Dự kiến phát hành,2017-06-06,2017-06-06,,Chuyển đổi trái phiếu thành cổ phiếu,,,,
 2017-08-15,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-08-21,,,Số lượng 137500000 cp,,,,
-2018-04-26,stockAlert,alert,Cảnh báo,2018-05-07,,,LNST cty mẹ 2018 và LNST chưa pp tại 31/12/2018 âm,,,,
+2018-04-26,stockAlert,alert,Cảnh báo,2018-05-07,,,BCTC bán niên 2020 không có ý kiến chấp nhận toàn phần,,,,
 2018-06-14,investorRight,MEETING,Họp cổ đông,2018-06-05,2018-06-23,2018-06-23,ĐHĐCĐ thường niên năm 2018,,,,
 2018-07-16,investorRight,POLL,Lấy ý kiến cổ đông,2018-08-01,2018-08-08,2018-08-08,V/v: Thông qua phương án phát hành cổ phiếu riêng lẻ,,,,
 2018-08-17,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 185.000.000 cp riêng lẻ, giá 7.200 đ/cp",,,,

@@ -62,6 +62,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-11-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-26,2019-12-06,2019-12-06,Trả cổ tức đợt 1/2019 (300 đ/cp),300,3,1,2019
 2020-02-21,investorRight,MEETING,Họp cổ đông,2020-03-20,2020-06-23,2020-06-23,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-21,2020-08-12,2020-08-12,Trả cổ tức đợt 2/2019 (200 đ/cp),200,2,2,2019
-2020-07-09,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 16,020,518cp cho CĐHH",,40,,
+2020-07-09,schedEvent,schedIssue,Dự kiến phát hành,2020-08-27,2020-08-27,,"Dự kiến phát hành 16,020,518cp cho CĐHH",,40,,
 2020-08-03,investorRight,KINDDIV,Cổ phiếu thưởng,2020-08-19,2020-08-20,,Tỷ lệ 100:40,,40,,
 2020-08-18,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-08-18,,,LNST 6 tháng đầu năm 2020 âm,,,,

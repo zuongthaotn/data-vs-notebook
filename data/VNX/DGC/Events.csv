@@ -40,3 +40,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-07,2020-08-20,2020-08-20,Trả cổ tức đợt 2/2019 (500 đ/cp),500,5,2,2019
 2020-07-16,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-07-22,,,Dự kiến chuyển sàn từ HNX sang HOSE,,,,
 2020-07-20,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-07-28,,,Giá tham chiếu 39.700 đ/cp,,,,
+2020-08-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-07,,,"Số lượng 19,403,327 cp",,,,

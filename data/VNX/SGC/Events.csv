@@ -62,3 +62,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-05-29,2020-06-17,2020-06-17,Trả cổ tức đợt 2/2019 (1200 đ/cp),1200,12,2,2019
 2020-07-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu đợt 3/2019, tỷ lệ 100:12.67",,12.67,3,2019
 2020-07-24,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 1,596,256cp cho CĐHH",,22.33,,
+2020-08-25,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 1,596,054cp cho CĐHH",,22.33,,

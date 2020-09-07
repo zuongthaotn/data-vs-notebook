@@ -36,7 +36,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-06-06,investorRight,MEETING,Họp cổ đông,2018-06-25,,,ĐHĐCĐ thường niên năm 2018,,,,
 2019-04-24,stockAlert,delistedHose,Hủy niêm yết trên HOSE,2019-05-23,,,Hủy niêm yết trên HOSE,,,,
 2019-04-26,schedEvent,schedExchange,Dự kiến chuyển sàn,2019-05-27,,,Dự kiến chuyển sàn từ HOSE sang UPCOM,,,,
-2019-05-24,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2019-05-31,,,Ngày giao dịch đầu tiên trên UPCOM,,,,
+2019-05-24,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2019-05-31,,,Giá tham chiếu: 1.300 đ/cp,,,,
 2019-07-18,investorRight,MEETING,Họp cổ đông,2019-06-13,2019-07-24,2019-07-24,ĐHĐCĐ thường niên năm 2019,,,,
 2020-06-20,investorRight,MEETING,Họp cổ đông,2020-06-12,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-13,investorRight,MEETING,Họp cổ đông,2020-06-12,2020-07-22,2020-07-22,ĐHĐCĐ thường niên năm 2020 lần 2,,,,
