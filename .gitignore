@@ -8,6 +8,7 @@ __pycache__
 # Custom data
 data/CUSTOM
 data/filter
+data/Darwinex
 
 # Env
 env
