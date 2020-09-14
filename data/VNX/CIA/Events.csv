@@ -21,3 +21,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-10-18,schedEvent,schedIssue,Dự kiến phát hành,2019-10-18,2019-10-18,,"Dự kiến chuyển đổi 300.000 trái phiếu thành cổ phiếu, tỷ lệ 1:10, giá 10.000 đ/cp",,1000,,
 2020-01-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-01-16,,,Số lượng 8609922 cp,,,,
 2020-05-21,investorRight,MEETING,Họp cổ đông,2020-05-29,2020-06-17,2020-06-17,ĐHĐCĐ thường niên năm 2020,,,,
+2020-09-04,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-09-08,,,LNST cty mẹ trên BCTC 6T năm 2020 âm,,,,

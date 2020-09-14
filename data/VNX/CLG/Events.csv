@@ -30,7 +30,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-06-28,investorRight,MEETING,Họp cổ đông,2017-06-21,2017-07-15,2017-07-15,ĐHĐCĐ thường niên năm 2017,,,,
 2018-06-28,investorRight,MEETING,Họp cổ đông,2018-07-16,2018-08-16,2018-08-16,ĐHĐCĐ thường niên năm 2018,,,,
 2019-04-12,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-04-12,,,BCTC hợp nhất 2018 KT k phải ý kiến chấp nhận toàn phần,,,,
-2019-04-24,stockAlert,alert,Cảnh báo,2019-05-03,,,Vi phạm quy định về CBTT,,,,
+2019-04-24,stockAlert,alert,Cảnh báo,2019-05-03,2020-05-11,,Vi phạm quy định về CBTT,,,,
 2019-05-29,investorRight,MEETING,Họp cổ đông,2019-06-18,,,ĐHĐCĐ thường niên năm 2019,,,,
 2019-06-27,stockAlert,noticed,Nhắc nhở,2019-06-27,,,Nhắc nhở chậm tổ chức ĐHĐCĐ thường niên năm 2019,,,,
 2019-08-08,investorRight,POLL,Lấy ý kiến cổ đông,2019-08-28,,,"V/v thông qua việc đổi ngành, nghề kinh doanh của Công ty",,,,
@@ -42,3 +42,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-07,stockAlert,noticed,Nhắc nhở,2020-05-06,,,Nhắc nhở nghĩa vụ thanh toán giá dịch vụ niêm yết 2020 lần 2,,,,
 2020-06-15,investorRight,MEETING,Họp cổ đông,2020-06-04,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,
 2020-08-20,stockAlert,noticed,Nhắc nhở,2020-08-20,,,Vi phạm quy định công bố thông tin,,,,
+2020-09-04,stockAlert,alert,Cảnh báo,2020-09-11,,,"Vi phạm về CBTT, thuộc trường hợp bị cảnh báo",,,,

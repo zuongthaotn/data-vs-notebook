@@ -15,3 +15,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-07,stockAlert,noticed,Nhắc nhở,2020-05-07,,,Chậm công bố BCTC kiểm toán năm 2019 quá 30 ngày,,,,
 2020-05-18,stockAlert,suspend,Tạm ngừng giao dịch,2020-05-21,2020-05-25,,Chậm công bố BCTC kiểm toán năm 2019,,,,
 2020-05-25,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-05-26,2020-08-27,,VCSH âm,,,,
+2020-09-11,stockAlert,alert,Cảnh báo,2020-09-11,,,VCSH nhỏ hơn 10 tỷ đồng,,,,

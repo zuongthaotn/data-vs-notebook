@@ -35,3 +35,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-11-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-15,2019-12-10,2019-12-10,Trả cổ tức năm 2018 (1000 đ/cp),1000,10,,2018
 2020-01-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-12-18,,,"Số lượng 41,436,330 cp",,,,
 2020-05-14,investorRight,MEETING,Họp cổ đông,2020-06-02,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,
+2020-09-09,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-09-09,,,BCTC bán niên 2020 không có ý kiến chấp nhận toàn phần,,,,

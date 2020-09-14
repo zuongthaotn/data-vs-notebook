@@ -37,7 +37,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2016 (1500 đ/cp),1500,15,,2017
 2017-04-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức còn lại năm 2016 (800 đ/cp),800,8,3,2016
 2017-05-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-06-05,2017-06-16,2017-06-16,Trả cổ tức năm 2016 (800 đ/cp),800,8,,2016
-2017-06-06,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-06-06,2018-01-05,,TCNY nhận được kết luận v/v công ty vi phạm pháp luật thuế,,,,
+2017-06-06,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-06-06,2018-01-05,,"TCNY vi phạm pháp luật thuế, LNST 6T 2020 âm",,,,
 2017-10-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-10-24,2017-11-10,2017-11-10,Trả cổ tức đợt 1/2017 (1000 đ/cp),1000,10,1,2017
 2018-01-17,investorRight,MEETING,Họp cổ đông,2018-03-27,2018-04-19,2018-04-19,ĐHCĐ thường niên năm 2018,,,,
 2018-04-23,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2018 (1500 đ/cp),1500,15,,2018
@@ -50,3 +50,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (800 đ/cp),800,8,,2019
 2020-07-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-13,2020-10-20,2020-10-20,Trả cổ tức năm 2019 (800 đ/cp),800,8,,2019
 2020-07-23,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-13,,,V/v: Về việc bổ sung ngành nghề kinh doanh của Công ty,,,,
+2020-09-04,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-09-08,,,LNST 6T đầu 2020 trên BCTC bán niên soát xét 2020 âm,,,,
