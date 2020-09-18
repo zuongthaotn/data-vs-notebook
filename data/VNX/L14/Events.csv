@@ -36,3 +36,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:12",,12,,2019
 2020-08-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-13,2020-08-14,,"Trả cổ tức năm 2019, Tỷ lệ 100:12",,12,,2019
 2020-08-06,investorRight,KINDDIV,Cổ phiếu thưởng,2020-08-13,2020-08-14,,Tỷ lệ 100:20,,20,,
+2020-09-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-18,,,"Số lượng 5,913,637 cp",,,,

@@ -42,6 +42,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-06-14,stockAlert,suspend,Tạm ngừng giao dịch,2019-06-20,2019-08-23,,Tiếp tục vi phạm quy định về CBTT trên thị trường,,,,
 2019-06-20,investorRight,MEETING,Họp cổ đông,2019-04-12,2019-06-30,2019-06-30,ĐHĐCĐ thường niên năm 2019,,,,
 2019-08-26,stockAlert,delistedHose,Hủy niêm yết trên HOSE,2019-09-05,,,Hủy niêm yết trên HOSE,,,,
-2019-09-16,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2019-09-19,,,Chứng khoán bị hủy bỏ niêm yết,,,,
+2019-09-16,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-09-19,2020-09-14,,Chứng khoán bị hủy bỏ niêm yết,,,,
 2020-06-04,investorRight,MEETING,Họp cổ đông,2020-06-12,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-16,investorRight,MEETING,Họp cổ đông,2020-07-27,2020-08-15,2020-08-15,ĐHĐCĐ thường niên năm 2020 lần 2,,,,

@@ -45,7 +45,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-14,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-24,,,V/v thông qua phương án phát hành trái phiếu chuyển đổi ra thị trường quốc tế,,,,
 2020-04-24,investorRight,MEETING,Họp cổ đông,2020-05-08,2020-06-05,2020-06-05,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-29,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 14,543,110cp ESOP",,1.5,,
-2020-08-14,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 189,775cp cho CĐCL",,,,
 2020-08-14,schedEvent,schedIssue,Dự kiến phát hành,2020-08-14,2020-08-14,,Chuyển đổi trái phiếu thành cổ phiếu,,,,
 2020-08-14,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-26,,,V/v các vấn đề thuộc thẩm quyền của ĐHĐCĐ,,,,
+2020-08-14,schedEvent,schedIssue,Dự kiến phát hành,2020-09-14,2020-09-14,,"Dự kiến phát hành 189,775cp cho CĐCL",,,,
 2020-08-21,schedEvent,schedIssue,Dự kiến phát hành,2020-08-21,2020-08-21,,Chuyển đổi trái phiếu thành cổ phiếu,,,,
