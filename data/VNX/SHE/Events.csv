@@ -9,3 +9,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-07,investorRight,KINDDIV,Cổ phiếu thưởng,2020-07-16,2020-07-17,,Tỷ lệ 100:30,,30,,
 2020-07-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-16,2020-07-31,2020-07-31,Trả cổ tức đợt 2/2019 (1000 đ/cp),1000,10,2,2019
 2020-07-07,schedEvent,schedIssue,Dự kiến phát hành,2020-08-05,2020-08-05,,"Dự kiến phát hành 75,000cp ESOP",,1.5,,
+2020-09-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-25,,,"Số lượng 1,574,998 cp",,,,

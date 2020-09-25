@@ -40,3 +40,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-10-04,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-10-07,2019-12-03,,Không khắc phục được nguyên nhân bị tạm ngừng giao dịch,,,,
 2020-05-07,stockAlert,noticed,Nhắc nhở,2020-05-07,,,Chậm công bố BCTC kiểm toán năm 2019 quá 30 ngày,,,,
 2020-05-14,investorRight,MEETING,Họp cổ đông,2020-05-28,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-09-18,stockAlert,noticed,Nhắc nhở,2020-09-18,,,Chậm CBTT quá 30 ngày so với thời hạn QĐ đối với BCTC bán niên 2020 đã soát xét,,,,

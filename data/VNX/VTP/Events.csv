@@ -17,3 +17,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-06-06,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:0.393",,0.39,,2019
 2020-08-14,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-25,2020-08-26,,"Trả cổ tức năm 2019, Tỷ lệ 100:39.3",,39.3,,2019
 2020-08-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-25,2020-09-15,2020-09-15,Trả cổ tức năm 2019 (1500 đ/cp),1500,15,,2019
+2020-09-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-25,,,"Số lượng 23,428,718 cp",,,,

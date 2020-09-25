@@ -49,3 +49,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-14,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-26,,,V/v các vấn đề thuộc thẩm quyền của ĐHĐCĐ,,,,
 2020-08-14,schedEvent,schedIssue,Dự kiến phát hành,2020-09-14,2020-09-14,,"Dự kiến phát hành 189,775cp cho CĐCL",,,,
 2020-08-21,schedEvent,schedIssue,Dự kiến phát hành,2020-08-21,2020-08-21,,Chuyển đổi trái phiếu thành cổ phiếu,,,,
+2020-09-15,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 77,666,501cp cho CĐHH",,8,,
+2020-09-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-29,,,"Số lượng 1,290,470 cp",,,,
